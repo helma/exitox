@@ -1,0 +1,1510 @@
+---
+Vicinale Halogenide:
+  1,2,3-Trichloropropane:
+    :uri: http://aop.in-silico.ch/cid/7285
+    :targets:
+      true:
+      - Target GeneID: 348019627
+        Assay IDs: 743079
+      false:
+      - Target GeneID: 10092619
+        Assay IDs: 445
+      - Target GeneID: 2499604
+        Assay IDs: 530
+      - Target GeneID: 119389684
+        Assay IDs: 584 585
+      - Target GeneID: 92096784
+        Assay IDs: 596
+      - Target GeneID: 84028058
+        Assay IDs: 605
+      - Target GeneID: 159162802
+        Assay IDs: 875 892
+      - Target GeneID: 3290016
+        Assay IDs: 880
+      - Target GeneID: 33946324
+        Assay IDs: 880
+      - Target GeneID: 317373425
+        Assay IDs: 881
+      - Target GeneID: 13435386
+        Assay IDs: 884 885
+      - Target GeneID: 122921310
+        Assay IDs: 886 893
+      - Target GeneID: 122921311
+        Assay IDs: 886 893
+      - Target GeneID: 1832253
+        Assay IDs: 887
+      - Target GeneID: 1730092
+        Assay IDs: 889
+      - Target GeneID: 31542939
+        Assay IDs: 894
+      - Target GeneID: 15431328
+        Assay IDs: 900
+      - Target GeneID: 120407068
+        Assay IDs: 902 924
+      - Target GeneID: 21392848
+        Assay IDs: 912
+      - Target GeneID: 4504349
+        Assay IDs: 925
+      - Target GeneID: 38016895
+        Assay IDs: 926 938
+      - Target GeneID: 66932916
+        Assay IDs: 995
+      - Target GeneID: 30582681
+        Assay IDs: 1030
+      - Target GeneID: 154426292
+        Assay IDs: 1452
+      - Target GeneID: 44888968
+        Assay IDs: 1457
+      - Target GeneID: 10937869
+        Assay IDs: 1458
+      - Target GeneID: 189491771
+        Assay IDs: 1469 1469 1479 1479 588545 588545 588547 588547
+      - Target GeneID: 90903231
+        Assay IDs: 1471
+      - Target GeneID: 281307097
+        Assay IDs: 1476 1478
+      - Target GeneID: 496369
+        Assay IDs: 2101
+      - Target GeneID: 757912
+        Assay IDs: 2107
+      - Target GeneID: 119393891
+        Assay IDs: 2112
+      - Target GeneID: 32879895
+        Assay IDs: 2120
+      - Target GeneID: 6980812
+        Assay IDs: 2517
+      - Target GeneID: 188536040
+        Assay IDs: 2546 2551
+      - Target GeneID: 282403581
+        Assay IDs: 2549
+      - Target GeneID: 20150581
+        Assay IDs: 485290
+      - Target GeneID: 348019627
+        Assay IDs: 588513 588513 588514 588514 743069 743069 743075 743075 743077 743077 743078 743078 743079 743080 743080 743091 743091
+      - Target GeneID: 124375976
+        Assay IDs: 588515 588515 588516 588516 743035 743035 743036 743036 743040 743040 743042 743042 743053 743053 743054 743054 743063 743063
+      - Target GeneID: 325495553
+        Assay IDs: 588526 588527 588527 743217 743217 743220 743220 743239 743239 743240 743240
+      - Target GeneID: 311348376
+        Assay IDs: 588532 588532 588533 588533 720691 720691 720692 720692 720719 720719 720725 720725
+      - Target GeneID: 216409690
+        Assay IDs: 588534 588534 588535 743212 743212 743215 743226 743226 743227 743227
+      - Target GeneID: 216409692
+        Assay IDs: 588536 588536 588537 588537 743094 743094 743140 743140 743191 743199 743199
+      - Target GeneID: 216409708
+        Assay IDs: 588541 588541 588543 588543 743222 743222 743223 743223 743241 743241 743242 743242
+      - Target GeneID: 325495497
+        Assay IDs: 588544 588544 588546 588546 1159527 1159531 1159531
+      - Target GeneID: 325651834
+        Assay IDs: 588834 588834
+      - Target GeneID: 269849759
+        Assay IDs: 651631 651631 651743 651743 720552 720552
+      - Target GeneID: 296439460
+        Assay IDs: 651632 651632 720516 720516
+      - Target GeneID: 20149576
+        Assay IDs: 651741 651741 720636 720636 743202 743202 743219 743219
+      - Target GeneID: 34577122
+        Assay IDs: 651749 651749
+      - Target GeneID: 5702233
+        Assay IDs: 651751 651751
+      - Target GeneID: 25952111
+        Assay IDs: 651757
+      - Target GeneID: 51095037
+        Assay IDs: 651777 651777 743085 743085 743122 743122
+      - Target GeneID: 3041727
+        Assay IDs: 651778 651778
+      - Target GeneID: 49066040
+        Assay IDs: 651802
+      - Target GeneID: 325495557
+        Assay IDs: 720659 720659
+      - Target GeneID: 399498506
+        Assay IDs: 743065 743065 743066 743066 743067 743067
+      - Target GeneID: 119597822
+        Assay IDs: 743083 743083 743139 743139
+      - Target GeneID: 4504517
+        Assay IDs: 743210 743210 743228 743228
+      - Target GeneID: 119626539
+        Assay IDs: 1159509 1159509 1159518 1159518
+      - Target GeneID: 119611100
+        Assay IDs: 1159516 1159516 1159519 1159519
+      - Target GeneID: 15928672
+        Assay IDs: 1159521 1159521 1159523
+      - Target GeneID: 119627033
+        Assay IDs: 1159528 1159528
+      - Target GeneID: 325495463
+        Assay IDs: 1159552 1159552 1159553 1159553 1159555 1159555
+    :assays:
+      true:
+        DSSTox (CPDBAS) Carcinogenic Potency Database Salmonella Mutagenicity Assay ID: 1194
+        DSSTox (CPDBAS) Carcinogenic Potency Database Summary Mouse Bioassay Results Assay ID: 1199
+        DSSTox (CPDBAS) Carcinogenic Potency Database Summary MultiCellCall Results Assay ID: 1205
+        DSSTox (CPDBAS) Carcinogenic Potency Database Summary Rat Bioassay Results Assay ID: 1208
+        DSSTox (CPDBAS) Carcinogenic Potency Database Summary SingleCellCall Results Assay ID: 1189
+        DSSTox (EPAFHM) EPA Fathead Minnow Acute Toxicity Assay ID: 1188
+      false:
+        Cell Viability - BJ Assay ID: 421
+        Cell Viability - H-4-II-E Assay ID: 543
+        Cell Viability - HUV-EC-C Assay ID: 542
+        Cell Viability - Hek293 Assay ID: 427
+        Cell Viability - HepG2 Assay ID: 433
+        Cell Viability - Jurkat Assay ID: 426
+        Cell Viability - LYMP1-002 - Assay at 16 hr Assay ID: 948
+        Cell Viability - LYMP1-002 - Assay at 24 hr Assay ID: 993
+        Cell Viability - LYMP1-002 - Assay at 40 hr Assay ID: 994
+        Cell Viability - LYMP1-003 - Assay at 24 hr Assay ID: 963
+        Cell Viability - LYMP1-003 - Assay at 40 hr Assay ID: 964
+        Cell Viability - LYMP2-001 Assay ID: 921
+        Cell Viability - LYMP2-002 Assay ID: 977
+        Cell Viability - LYMP2-003 Assay ID: 965
+        Cell Viability - LYMP2-004 Assay ID: 966
+        Cell Viability - LYMP2-005 Assay ID: 967
+        Cell Viability - LYMP2-006 Assay ID: 978
+        Cell Viability - LYMP2-007 Assay ID: 979
+        Cell Viability - LYMP2-008 Assay ID: 980
+        Cell Viability - LYMP2-009 Assay ID: 968
+        Cell Viability - LYMP2-010 Assay ID: 981
+        Cell Viability - LYMP2-011 Assay ID: 969
+        Cell Viability - LYMP2-012 Assay ID: 982
+        Cell Viability - LYMP2-013 Assay ID: 970
+        Cell Viability - LYMP2-014 Assay ID: 983
+        Cell Viability - LYMP2-015 Assay ID: 971
+        Cell Viability - LYMP2-016 Assay ID: 984
+        Cell Viability - LYMP2-017 Assay ID: 972
+        Cell Viability - LYMP2-018 Assay ID: 985
+        Cell Viability - LYMP2-019 Assay ID: 973
+        Cell Viability - LYMP2-020 Assay ID: 986
+        Cell Viability - LYMP2-021 Assay ID: 974
+        Cell Viability - LYMP2-022 Assay ID: 987
+        Cell Viability - LYMP2-023 Assay ID: 975
+        Cell Viability - LYMP2-024 Assay ID: 988
+        Cell Viability - LYMP2-025 Assay ID: 976
+        Cell Viability - LYMP2-026 Assay ID: 989
+        Cell Viability - MRC5 Assay ID: 434
+        Cell Viability - Mesenchymal Assay ID: 546
+        Cell Viability - N2a Assay ID: 540
+        Cell Viability - NIH 3T3 Assay ID: 541
+        Cell Viability - Renal Proximal Tubule Assay ID: 545
+        Cell Viability - SH-SY5Y Assay ID: 544
+        Cell Viability - SK-N-SH Assay ID: 435
+        Cell signaling CRE-BLA (Fsk stim) Assay ID: 662
+        Cellular Toxicity (caspase-3) BJ Assay ID: 658
+        Cellular Toxicity (caspase-3) H-4-II-E Assay ID: 663
+        Cellular Toxicity (caspase-3) HUV-EC-C Assay ID: 656
+        Cellular Toxicity (caspase-3) Hek293 Assay ID: 664
+        Cellular Toxicity (caspase-3) HepG2 Assay ID: 654
+        Cellular Toxicity (caspase-3) Jurkat Assay ID: 655
+        Cellular Toxicity (caspase-3) MRC-5 Assay ID: 659
+        Cellular Toxicity (caspase-3) Mesangial Assay ID: 660
+        Cellular Toxicity (caspase-3) N2a Assay ID: 665
+        Cellular Toxicity (caspase-3) NIH 3T3 Assay ID: 666
+        Cellular Toxicity (caspase-3) Renal Proximal Tubule Assay ID: 667
+        Cellular Toxicity (caspase-3) SHSY5Y Assay ID: 657
+        Cellular Toxicity (caspase-3) SK-N-SH Assay ID: 661
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-001 - Dead Cells Assay ID: 946
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-001 - Live Cells Assay ID: 947
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-002 - Dead Cells Assay ID: 960
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-002 - Live Cells Assay ID: 955
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-003 - Dead Cells Assay ID: 961
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-003 - Live Cells Assay ID: 962
+        qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-1 Spectroscopic Profiling in AFC Spectral Region Assay ID: 923
+        qHTS Assay for Compounds Blocking the Interaction Between CBF-beta and RUNX1 for the Treatment of Acute Myeloid Leukemia Assay ID: 1477
+        qHTS Assay for Compounds that Induce Erasure of Genomic Imprints Assay ID: 1948
+        qHTS Assay for Disrupters of an Hsp90 Co-Chaperone Interaction Assay ID: 595
+        qHTS Assay for Inhibitors of DNA Polymerase III Holoenzyme System Assay ID: 603
+        qHTS assay for cell viability of HEK293 cells Assay ID: 743288
+        qHTS assay for cell viability of HEK293 cells Assay ID: 743288
+        qHTS assay for cell viability of the p53RE-bla HCT-116 cell line Assay ID: 743292
+        qHTS assay for cell viability of the p53RE-bla HCT-116 cell line Assay ID: 743292
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line Assay ID: 743015
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line Assay ID: 743015
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line Assay ID: 743014
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line Assay ID: 743014
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line Assay ID: 743012
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line Assay ID: 743012
+        qHTS assay for small molecule activators of the heat shock response signaling pathway - cell viability counter screen Assay ID: 743209
+        qHTS assay for small molecule activators of the heat shock response signaling pathway - cell viability counter screen Assay ID: 743209
+        qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway - cell viability counter screen Assay ID: 743203
+        qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway - cell viability counter screen Assay ID: 743203
+        qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway measured by Nrf2-dependant transcriptional activity - cell viability counter screen Assay ID: 720653
+        qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway measured by Nrf2-dependant transcriptional activity - cell viability counter screen Assay ID: 720653
+        qHTS assay for small molecule agonists of the p53 signaling pathway - cell viability Assay ID: 651633
+        qHTS assay for small molecule agonists of the p53 signaling pathway - cell viability Assay ID: 651633
+        qHTS assay for small molecule antagonists of the retinoid-related orphan receptor gamma (ROR-gamma) signaling pathway - cell viability counter screen Assay ID: 720652
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential Assay ID: 720635
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential Assay ID: 720635
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential - 1 hr assay Assay ID: 651754
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential - 5 hr assay Assay ID: 651755
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential - cell viability Assay ID: 720634
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential - cell viability Assay ID: 720634
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential Summary Assay ID: 720637
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential Summary Assay ID: 720637
+        qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability Assay ID: 651634
+        qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability Assay ID: 651634
+        qHTS assay to identify aromatase inhibitors - cell viability counter screen Assay ID: 743084
+        qHTS assay to identify aromatase inhibitors - cell viability counter screen Assay ID: 743084
+        qHTS assay to identify small molecule agonists of the AP-1 signaling pathway Assay ID: 1159526
+        qHTS assay to identify small molecule agonists of the AP-1 signaling pathway Assay ID: 1159526
+        qHTS assay to identify small molecule agonists of the AP-1 signaling pathway - cell viability counter screen Assay ID: 1159525
+        qHTS assay to identify small molecule agonists of the AP-1 signaling pathway - cell viability counter screen Assay ID: 1159525
+        qHTS assay to identify small molecule agonists of the NFkB signaling pathway - cell viability counter screen Assay ID: 1159515
+        qHTS assay to identify small molecule agonists of the NFkB signaling pathway - cell viability counter screen Assay ID: 1159515
+        qHTS assay to identify small molecule agonists of the RXR signaling pathway - cell viability counter screen Assay ID: 1159529
+        qHTS assay to identify small molecule agonists of the RXR signaling pathway - cell viability counter screen Assay ID: 1159529
+        qHTS assay to identify small molecule agonists of the endoplasmic reticulum stress response signaling pathway - cell viability counter screen Assay ID: 1159517
+        qHTS assay to identify small molecule agonists of the endoplasmic reticulum stress response signaling pathway - cell viability counter screen Assay ID: 1159517
+        qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR) signaling pathway - cell viability counter screen Assay ID: 743218
+        qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR) signaling pathway - cell viability counter screen Assay ID: 743218
+        qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway - cell viability counter screen Assay ID: 743211
+        qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen Assay ID: 743224
+        qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway - cell viability counter screen Assay ID: 743033
+        qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway - cell viability counter screen Assay ID: 743033
+        qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway using the MDA cell line - cell viability counter screen Assay ID: 743041
+        qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway using the MDA cell line - cell viability counter screen Assay ID: 743041
+        qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway - cell viability counter screen Assay ID: 743074
+        qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway - cell viability counter screen Assay ID: 743074
+        qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line - cell viability counter screen Assay ID: 743081
+        qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line - cell viability counter screen Assay ID: 743081
+        qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor (FXR) signaling pathway - cell viability counter screen Assay ID: 743221
+        qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway - cell viability counter screen Assay ID: 720693
+        qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway - cell viability counter screen Assay ID: 720693
+        qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway - cell viability counter screen Assay ID: 743213
+        qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway - cell viability counter screen Assay ID: 743194
+        qHTS assay to identify small molecule antagonists of the retinoid acid receptor (RAR) signaling pathway - cell viability counter screen Assay ID: 1159551
+        qHTS assay to identify small molecule antagonists of the retinoid acid receptor (RAR) signaling pathway - cell viability counter screen Assay ID: 1159551
+        qHTS assay to identify small molecule antagonists of the retinoid-related orphan receptor gamma (ROR-gamma) signaling pathway - cell viability counter screen Assay ID: 1159520
+        qHTS assay to identify small molecule antagonists of the retinoid-related orphan receptor gamma (ROR-gamma) signaling pathway - cell viability counter screen Assay ID: 1159520
+        qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway - cell viability counter screen Assay ID: 743064
+        qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway - cell viability counter screen Assay ID: 743064
+        qHTS assay to identify small molecule antagonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen Assay ID: 743225
+        qHTS assay to identify small molecule antagonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen Assay ID: 743225
+        qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway - cell viability counter screen Assay ID: 743086
+        qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway - cell viability counter screen Assay ID: 743086
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293 cell free culture Assay ID: 720681
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293 cell free culture Assay ID: 720681
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293 cells Assay ID: 720678
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293 cells Assay ID: 720678
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2 cell free culture Assay ID: 720685
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2 cell free culture Assay ID: 720685
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2 cells Assay ID: 720687
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2 cells Assay ID: 720687
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293 cell free culture Assay ID: 720682
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293 cell free culture Assay ID: 720682
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293 cells Assay ID: 720680
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293 cells Assay ID: 720680
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2 cell free culture Assay ID: 720686
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2 cell free culture Assay ID: 720686
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2 cells Assay ID: 720675
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2 cells Assay ID: 720675
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293 cell free culture Assay ID: 720683
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293 cell free culture Assay ID: 720683
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293 cells Assay ID: 720679
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293 cells Assay ID: 720679
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cell free culture Assay ID: 720684
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cell free culture Assay ID: 720684
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cells Assay ID: 720674
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cells Assay ID: 720674 
+  1,2-Dichloropropane:
+    :uri: http://aop.in-silico.ch/cid/6564
+    :targets:
+      true: []
+      false:
+        - Target GeneID: 10092619
+          Assay IDs: 445
+        - Target GeneID: 2499604
+          Assay IDs: 530
+        - Target GeneID: 119389684
+          Assay IDs: 584 585
+        - Target GeneID: 92096784
+          Assay IDs: 596
+        - Target GeneID: 84028058
+          Assay IDs: 605
+        - Target GeneID: 159162802
+          Assay IDs: 875 892
+        - Target GeneID: 3290016
+          Assay IDs: 880
+        - Target GeneID: 33946324
+          Assay IDs: 880
+        - Target GeneID: 317373425
+          Assay IDs: 881
+        - Target GeneID: 13435386
+          Assay IDs: 884 885
+        - Target GeneID: 122921310
+          Assay IDs: 886 893
+        - Target GeneID: 122921311
+          Assay IDs: 886 893
+        - Target GeneID: 1832253
+          Assay IDs: 887
+        - Target GeneID: 1730092
+          Assay IDs: 889
+        - Target GeneID: 31542939
+          Assay IDs: 894
+        - Target GeneID: 15431328
+          Assay IDs: 900
+        - Target GeneID: 120407068
+          Assay IDs: 902 924
+        - Target GeneID: 4504349
+          Assay IDs: 925
+        - Target GeneID: 38016895
+          Assay IDs: 926 938
+        - Target GeneID: 66932916
+          Assay IDs: 995
+        - Target GeneID: 30582681
+          Assay IDs: 1030
+        - Target GeneID: 154426292
+          Assay IDs: 1452
+        - Target GeneID: 44888968
+          Assay IDs: 1457
+        - Target GeneID: 10937869
+          Assay IDs: 1458
+        - Target GeneID: 189491771
+          Assay IDs: 1469 1479 588545 588547
+        - Target GeneID: 90903231
+          Assay IDs: 1471
+        - Target GeneID: 281307097
+          Assay IDs: 1476 1478
+        - Target GeneID: 496369
+          Assay IDs: 2101
+        - Target GeneID: 757912
+          Assay IDs: 2107
+        - Target GeneID: 119393891
+          Assay IDs: 2112
+        - Target GeneID: 32879895
+          Assay IDs: 2120
+        - Target GeneID: 6980812
+          Assay IDs: 2517
+        - Target GeneID: 188536040
+          Assay IDs: 2546 2551
+        - Target GeneID: 282403581
+          Assay IDs: 2549
+        - Target GeneID: 20150581
+          Assay IDs: 485290
+        - Target GeneID: 348019627
+          Assay IDs: 588513 588514 743069 743075 743077 743078 743079 743080 743091
+        - Target GeneID: 124375976
+          Assay IDs: 588515 743035 743036 743040 743042 743053 743054 743063
+        - Target GeneID: 325495553
+          Assay IDs: 588526 588527 743217 743220 743239 743240
+        - Target GeneID: 311348376
+          Assay IDs: 588532 588533 720691 720692 720719 720725
+        - Target GeneID: 216409690
+          Assay IDs: 588534 743212 743215 743226 743227
+        - Target GeneID: 216409692
+          Assay IDs: 588536 743094 743140 743191 743199
+        - Target GeneID: 216409708
+          Assay IDs: 588541 588543 743222 743223 743241 743242
+        - Target GeneID: 325495497
+          Assay IDs: 588544 588546 1159527 1159531
+        - Target GeneID: 325651834
+          Assay IDs: 588834 588834
+        - Target GeneID: 269849759
+          Assay IDs: 651631 651743 720552
+        - Target GeneID: 296439460
+          Assay IDs: 651632 720516
+        - Target GeneID: 20149576
+          Assay IDs: 651741 720636 743202 743219
+        - Target GeneID: 34577122
+          Assay IDs: 651749
+        - Target GeneID: 5702233
+          Assay IDs: 651751
+        - Target GeneID: 25952111
+          Assay IDs: 651757
+        - Target GeneID: 51095037
+          Assay IDs: 651777 743085 743122
+        - Target GeneID: 3041727
+          Assay IDs: 651778
+        - Target GeneID: 49066040
+          Assay IDs: 651802
+        - Target GeneID: 325495557
+          Assay IDs: 720659
+        - Target GeneID: 399498506
+          Assay IDs: 743065 743066 743067
+        - Target GeneID: 119597822
+          Assay IDs: 743083 743139
+        - Target GeneID: 4504517
+          Assay IDs: 743210 743228
+        - Target GeneID: 119626539
+          Assay IDs: 1159509 1159518
+        - Target GeneID: 119611100
+          Assay IDs: 1159516 1159519
+        - Target GeneID: 15928672
+          Assay IDs: 1159523
+        - Target GeneID: 119627033
+          Assay IDs: 1159528
+        - Target GeneID: 325495463
+          Assay IDs: 1159552 1159553
+    :assays:
+      true:
+        DSSTox (CPDBAS) Carcinogenic Potency Database Salmonella Mutagenicity Assay ID: 1194
+        DSSTox (CPDBAS) Carcinogenic Potency Database Summary Mouse Bioassay Results Assay ID: 1199
+        DSSTox (CPDBAS) Carcinogenic Potency Database Summary MultiCellCall Results Assay ID: 1205
+        DSSTox (CPDBAS) Carcinogenic Potency Database Summary SingleCellCall Results Assay ID: 1189
+        DSSTox (EPAFHM) EPA Fathead Minnow Acute Toxicity Assay ID: 1188
+      false:
+        Cell Viability - BJ Assay ID: 421
+        Cell Viability - H-4-II-E Assay ID: 543
+        Cell Viability - HUV-EC-C Assay ID: 542
+        Cell Viability - Hek293 Assay ID: 427
+        Cell Viability - HepG2 Assay ID: 433
+        Cell Viability - Jurkat Assay ID: 426
+        Cell Viability - LYMP1-002 - Assay at 16 hr Assay ID: 948
+        Cell Viability - LYMP1-002 - Assay at 24 hr Assay ID: 993
+        Cell Viability - LYMP1-002 - Assay at 40 hr Assay ID: 994
+        Cell Viability - LYMP1-003 - Assay at 24 hr Assay ID: 963
+        Cell Viability - LYMP1-003 - Assay at 40 hr Assay ID: 964
+        Cell Viability - LYMP2-001 Assay ID: 921
+        Cell Viability - LYMP2-002 Assay ID: 977
+        Cell Viability - LYMP2-003 Assay ID: 965
+        Cell Viability - LYMP2-004 Assay ID: 966
+        Cell Viability - LYMP2-005 Assay ID: 967
+        Cell Viability - LYMP2-006 Assay ID: 978
+        Cell Viability - LYMP2-007 Assay ID: 979
+        Cell Viability - LYMP2-008 Assay ID: 980
+        Cell Viability - LYMP2-009 Assay ID: 968
+        Cell Viability - LYMP2-010 Assay ID: 981
+        Cell Viability - LYMP2-011 Assay ID: 969
+        Cell Viability - LYMP2-012 Assay ID: 982
+        Cell Viability - LYMP2-013 Assay ID: 970
+        Cell Viability - LYMP2-014 Assay ID: 983
+        Cell Viability - LYMP2-015 Assay ID: 971
+        Cell Viability - LYMP2-016 Assay ID: 984
+        Cell Viability - LYMP2-017 Assay ID: 972
+        Cell Viability - LYMP2-018 Assay ID: 985
+        Cell Viability - LYMP2-019 Assay ID: 973
+        Cell Viability - LYMP2-020 Assay ID: 986
+        Cell Viability - LYMP2-021 Assay ID: 974
+        Cell Viability - LYMP2-022 Assay ID: 987
+        Cell Viability - LYMP2-023 Assay ID: 975
+        Cell Viability - LYMP2-024 Assay ID: 988
+        Cell Viability - LYMP2-025 Assay ID: 976
+        Cell Viability - LYMP2-026 Assay ID: 989
+        Cell Viability - MRC5 Assay ID: 434
+        Cell Viability - Mesenchymal Assay ID: 546
+        Cell Viability - N2a Assay ID: 540
+        Cell Viability - NIH 3T3 Assay ID: 541
+        Cell Viability - Renal Proximal Tubule Assay ID: 545
+        Cell Viability - SH-SY5Y Assay ID: 544
+        Cell Viability - SK-N-SH Assay ID: 435
+        Cell signaling CRE-BLA (Fsk stim) Assay ID: 662
+        Cellular Toxicity (caspase-3) BJ Assay ID: 658
+        Cellular Toxicity (caspase-3) H-4-II-E Assay ID: 663
+        Cellular Toxicity (caspase-3) HUV-EC-C Assay ID: 656
+        Cellular Toxicity (caspase-3) Hek293 Assay ID: 664
+        Cellular Toxicity (caspase-3) HepG2 Assay ID: 654
+        Cellular Toxicity (caspase-3) Jurkat Assay ID: 655
+        Cellular Toxicity (caspase-3) MRC-5 Assay ID: 659
+        Cellular Toxicity (caspase-3) Mesangial Assay ID: 660
+        Cellular Toxicity (caspase-3) N2a Assay ID: 665
+        Cellular Toxicity (caspase-3) NIH 3T3 Assay ID: 666
+        Cellular Toxicity (caspase-3) Renal Proximal Tubule Assay ID: 667
+        Cellular Toxicity (caspase-3) SHSY5Y Assay ID: 657
+        Cellular Toxicity (caspase-3) SK-N-SH Assay ID: 661
+        DSSTox (CPDBAS) Carcinogenic Potency Database Summary Rat Bioassay Results Assay ID: 1208
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-001 - Dead Cells Assay ID: 946
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-001 - Live Cells Assay ID: 947
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-002 - Dead Cells Assay ID: 960
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-002 - Live Cells Assay ID: 955
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-003 - Dead Cells Assay ID: 961
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-003 - Live Cells Assay ID: 962
+        qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-1 Spectroscopic Profiling in AFC Spectral Region Assay ID: 923
+        qHTS Assay for Compounds Blocking the Interaction Between CBF-beta and RUNX1 for the Treatment of Acute Myeloid Leukemia Assay ID: 1477
+        qHTS Assay for Compounds that Induce Erasure of Genomic Imprints Assay ID: 1948
+        qHTS Assay for Disrupters of an Hsp90 Co-Chaperone Interaction Assay ID: 595
+        qHTS Assay for Inhibitors of DNA Polymerase III Holoenzyme System Assay ID: 603
+        qHTS assay for cell viability of HEK293 cells Assay ID: 743288
+        qHTS assay for cell viability of the p53RE-bla HCT-116 cell line Assay ID: 743292
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line Assay ID: 743015
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line Assay ID: 743014
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line Assay ID: 743012
+        qHTS assay for small molecule activators of the heat shock response signaling pathway - cell viability counter screen Assay ID: 743209
+        qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway - cell viability counter screen Assay ID: 743203
+        qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway measured by Nrf2-dependant transcriptional activity - cell viability counter screen Assay ID: 720653
+        qHTS assay for small molecule agonists of the p53 signaling pathway - cell viability Assay ID: 651633
+        qHTS assay for small molecule antagonists of the retinoid-related orphan receptor gamma (ROR-gamma) signaling pathway - cell viability counter screen Assay ID: 720652
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential Assay ID: 720635
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential - 1 hr assay Assay ID: 651754
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential - 5 hr assay Assay ID: 651755
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential - cell viability Assay ID: 720634
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential Summary Assay ID: 720637
+        qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability Assay ID: 651634
+        qHTS assay to identify aromatase inhibitors - cell viability counter screen Assay ID: 743084
+        qHTS assay to identify small molecule agonists of the AP-1 signaling pathway Assay ID: 1159526
+        qHTS assay to identify small molecule agonists of the AP-1 signaling pathway - cell viability counter screen Assay ID: 1159525
+        qHTS assay to identify small molecule agonists of the NFkB signaling pathway - cell viability counter screen Assay ID: 1159515
+        qHTS assay to identify small molecule agonists of the RXR signaling pathway - cell viability counter screen Assay ID: 1159529
+        qHTS assay to identify small molecule agonists of the endoplasmic reticulum stress response signaling pathway - cell viability counter screen Assay ID: 1159517
+        qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR) signaling pathway - cell viability counter screen Assay ID: 743218
+        qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway - cell viability counter screen Assay ID: 743211
+        qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen Assay ID: 743224
+        qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway - cell viability counter screen Assay ID: 743033
+        qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway using the MDA cell line - cell viability counter screen Assay ID: 743041
+        qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway - cell viability counter screen Assay ID: 743074
+        qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line - cell viability counter screen Assay ID: 743081
+        qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor (FXR) signaling pathway - cell viability counter screen Assay ID: 743221
+        qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway - cell viability counter screen Assay ID: 720693
+        qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway - cell viability counter screen Assay ID: 743213
+        qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway - cell viability counter screen Assay ID: 743194
+        qHTS assay to identify small molecule antagonists of the retinoid acid receptor (RAR) signaling pathway - cell viability counter screen Assay ID: 1159551
+        qHTS assay to identify small molecule antagonists of the retinoid-related orphan receptor gamma (ROR-gamma) signaling pathway - cell viability counter screen Assay ID: 1159520
+        qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway - cell viability counter screen Assay ID: 743064
+        qHTS assay to identify small molecule antagonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen Assay ID: 743225
+        qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway - cell viability counter screen Assay ID: 743086
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293 cell free culture Assay ID: 720681
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293 cells Assay ID: 720678
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2 cell free culture Assay ID: 720685
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2 cells Assay ID: 720687
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293 cell free culture Assay ID: 720682
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293 cells Assay ID: 720680
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2 cell free culture Assay ID: 720686
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2 cells Assay ID: 720675
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293 cell free culture Assay ID: 720683
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293 cells Assay ID: 720679
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cell free culture Assay ID: 720684
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cells Assay ID: 720674
+  Dibromochloropropane:
+    :uri: http://aop.in-silico.ch/cid/7280
+    :targets:
+      true: []
+      false:
+        - Target GeneID: 10092619
+          Assay IDs: 445
+        - Target GeneID: 2499604
+          Assay IDs: 530
+        - Target GeneID: 119389684
+          Assay IDs: 584 585 485294 485341
+        - Target GeneID: 92096784
+          Assay IDs: 596
+        - Target GeneID: 84028058
+          Assay IDs: 605
+        - Target GeneID: 159162802
+          Assay IDs: 875 892
+        - Target GeneID: 3290016
+          Assay IDs: 880
+        - Target GeneID: 33946324
+          Assay IDs: 880
+        - Target GeneID: 317373425
+          Assay IDs: 881
+        - Target GeneID: 13435386
+          Assay IDs: 884 885
+        - Target GeneID: 122921310
+          Assay IDs: 886 893
+        - Target GeneID: 122921311
+          Assay IDs: 886 893
+        - Target GeneID: 1832253
+          Assay IDs: 887
+        - Target GeneID: 1730092
+          Assay IDs: 889
+        - Target GeneID: 31542939
+          Assay IDs: 894
+        - Target GeneID: 15431328
+          Assay IDs: 900
+        - Target GeneID: 120407068
+          Assay IDs: 902 924
+        - Target GeneID: 21392848
+          Assay IDs: 912 588501 588501 588501
+        - Target GeneID: 4504349
+          Assay IDs: 925
+        - Target GeneID: 38016895
+          Assay IDs: 926 938
+        - Target GeneID: 66932916
+          Assay IDs: 995
+        - Target GeneID: 154426292
+          Assay IDs: 1452
+        - Target GeneID: 44888968
+          Assay IDs: 1457
+        - Target GeneID: 10937869
+          Assay IDs: 1458
+        - Target GeneID: 189491771
+          Assay IDs: 1469 1479 588545 588547
+        - Target GeneID: 90903231
+          Assay IDs: 1471
+        - Target GeneID: 281307097
+          Assay IDs: 1476 1478
+        - Target GeneID: 37589898
+          Assay IDs: 1987
+        - Target GeneID: 1302091
+          Assay IDs: 2016
+        - Target GeneID: 486173
+          Assay IDs: 2023
+        - Target GeneID: 536029
+          Assay IDs: 2025
+        - Target GeneID: 124486680
+          Assay IDs: 2052
+        - Target GeneID: 78070770
+          Assay IDs: 2057
+        - Target GeneID: 496369
+          Assay IDs: 2101
+        - Target GeneID: 757912
+          Assay IDs: 2107
+        - Target GeneID: 119393891
+          Assay IDs: 2112
+        - Target GeneID: 32879895
+          Assay IDs: 2120
+        - Target GeneID: 510901
+          Assay IDs: 2129
+        - Target GeneID: 7706645
+          Assay IDs: 2130
+        - Target GeneID: 5453722
+          Assay IDs: 2174
+        - Target GeneID: 4581413
+          Assay IDs: 2177
+        - Target GeneID: 82503229
+          Assay IDs: 2234
+        - Target GeneID: 56790945
+          Assay IDs: 2235
+        - Target GeneID: 17507875
+          Assay IDs: 2280
+        - Target GeneID: 216409728
+          Assay IDs: 2300 602229
+        - Target GeneID: 32307152
+          Assay IDs: 2435 2445
+        - Target GeneID: 20336315
+          Assay IDs: 2462
+        - Target GeneID: 167013344
+          Assay IDs: 2462
+        - Target GeneID: 6980812
+          Assay IDs: 2517
+        - Target GeneID: 4885057
+          Assay IDs: 2520 2521
+        - Target GeneID: 124376142
+          Assay IDs: 2524 2544
+        - Target GeneID: 262118306
+          Assay IDs: 2540 602440
+        - Target GeneID: 188536040
+          Assay IDs: 2546 2551
+        - Target GeneID: 282403581
+          Assay IDs: 2549
+        - Target GeneID: 67191027
+          Assay IDs: 2557
+        - Target GeneID: 6166485
+          Assay IDs: 2599
+        - Target GeneID: 15610807
+          Assay IDs: 2606
+        - Target GeneID: 139472804
+          Assay IDs: 2629
+        - Target GeneID: 49574532
+          Assay IDs: 2650
+        - Target GeneID: 23943882
+          Assay IDs: 2661
+        - Target GeneID: 85986601
+          Assay IDs: 2676
+        - Target GeneID: 13128862
+          Assay IDs: 2718
+        - Target GeneID: 153217451
+          Assay IDs: 2751
+        - Target GeneID: 4502003
+          Assay IDs: 2796
+        - Target GeneID: 4502331
+          Assay IDs: 2797
+        - Target GeneID: 124487323
+          Assay IDs: 2805 2806
+        - Target GeneID: 219518789
+          Assay IDs: 2825
+        - Target GeneID: 155969707
+          Assay IDs: 434962 493087
+        - Target GeneID: 120538355
+          Assay IDs: 434973
+        - Target GeneID: 222080095
+          Assay IDs: 434989 485270
+        - Target GeneID: 15645703
+          Assay IDs: 435030
+        - Target GeneID: 15646160
+          Assay IDs: 435030
+        - Target GeneID: 270133071
+          Assay IDs: 463082
+        - Target GeneID: 14790119
+          Assay IDs: 463141
+        - Target GeneID: 285809906
+          Assay IDs: 463190 463195
+        - Target GeneID: 55960760
+          Assay IDs: 463210
+        - Target GeneID: 285814664
+          Assay IDs: 463212
+        - Target GeneID: 188528692
+          Assay IDs: 463254
+        - Target GeneID: 216548487
+          Assay IDs: 485272
+        - Target GeneID: 4507793
+          Assay IDs: 485273
+        - Target GeneID: 20150581
+          Assay IDs: 485290 485290
+        - Target GeneID: 4759012
+          Assay IDs: 485297
+        - Target GeneID: 255652944
+          Assay IDs: 485313
+        - Target GeneID: 54112432
+          Assay IDs: 485317
+        - Target GeneID: 88702791
+          Assay IDs: 485346
+        - Target GeneID: 89993689
+          Assay IDs: 485346
+        - Target GeneID: 71902540
+          Assay IDs: 485349
+        - Target GeneID: 30124074
+          Assay IDs: 485353
+        - Target GeneID: 117938328
+          Assay IDs: 485360
+        - Target GeneID: 15149312
+          Assay IDs: 485364
+        - Target GeneID: 72386991
+          Assay IDs: 485367
+        - Target GeneID: 26667227
+          Assay IDs: 488837
+        - Target GeneID: 20072248
+          Assay IDs: 488839
+        - Target GeneID: 48146199
+          Assay IDs: 488839
+        - Target GeneID: 148539876
+          Assay IDs: 488847
+        - Target GeneID: 90111653
+          Assay IDs: 488895
+        - Target GeneID: 14389423
+          Assay IDs: 488896 504775
+        - Target GeneID: 40807040
+          Assay IDs: 488899
+        - Target GeneID: 218891639
+          Assay IDs: 488965
+        - Target GeneID: 187952397
+          Assay IDs: 489030 489031
+        - Target GeneID: 4501969
+          Assay IDs: 492947 504454
+        - Target GeneID: 296080766
+          Assay IDs: 492953
+        - Target GeneID: 4758878
+          Assay IDs: 492956
+        - Target GeneID: 225543099
+          Assay IDs: 492972
+        - Target GeneID: 5454140
+          Assay IDs: 493005
+        - Target GeneID: 1927
+          Assay IDs: 493008 493244
+        - Target GeneID: 4507615
+          Assay IDs: 493008 493244
+        - Target GeneID: 48255881
+          Assay IDs: 493008 493244
+        - Target GeneID: 151101270
+          Assay IDs: 493008 493244
+        - Target GeneID: 21955158
+          Assay IDs: 493011
+        - Target GeneID: 13399304
+          Assay IDs: 493012 602310
+        - Target GeneID: 110611243
+          Assay IDs: 493036
+        - Target GeneID: 4507681
+          Assay IDs: 493056 493084
+        - Target GeneID: 10864009
+          Assay IDs: 493091
+        - Target GeneID: 37187860
+          Assay IDs: 493098
+        - Target GeneID: 6679827
+          Assay IDs: 493131
+        - Target GeneID: 156151420
+          Assay IDs: 493160 493187
+        - Target GeneID: 63477962
+          Assay IDs: 504326 504357
+        - Target GeneID: 117940060
+          Assay IDs: 504326 504357
+        - Target GeneID: 153791535
+          Assay IDs: 504327
+        - Target GeneID: 227977143
+          Assay IDs: 504329
+        - Target GeneID: 168985070
+          Assay IDs: 504332
+        - Target GeneID: 6683500
+          Assay IDs: 504333
+        - Target GeneID: 162330054
+          Assay IDs: 504339
+        - Target GeneID: 15610945
+          Assay IDs: 504406
+        - Target GeneID: 218931251
+          Assay IDs: 504411
+        - Target GeneID: 9966877
+          Assay IDs: 504414
+        - Target GeneID: 90421313
+          Assay IDs: 504414 588850 602252
+        - Target GeneID: 312275222
+          Assay IDs: 504423
+        - Target GeneID: 224028257
+          Assay IDs: 504444 504523
+        - Target GeneID: 47132611
+          Assay IDs: 504462
+        - Target GeneID: 116283940
+          Assay IDs: 504466 504467
+        - Target GeneID: 13177715
+          Assay IDs: 504490
+        - Target GeneID: 45269145
+          Assay IDs: 504523
+        - Target GeneID: 23893668
+          Assay IDs: 504558
+        - Target GeneID: 6325022
+          Assay IDs: 504577
+        - Target GeneID: 124809271
+          Assay IDs: 504582
+        - Target GeneID: 124809506
+          Assay IDs: 504621
+        - Target GeneID: 13236497
+          Assay IDs: 504634 504692
+        - Target GeneID: 4503383
+          Assay IDs: 504651 504660
+        - Target GeneID: 12381848
+          Assay IDs: 504690
+        - Target GeneID: 46909587
+          Assay IDs: 504700
+        - Target GeneID: 47132585
+          Assay IDs: 504700
+        - Target GeneID: 23491729
+          Assay IDs: 504706
+        - Target GeneID: 6755076
+          Assay IDs: 504707
+        - Target GeneID: 115496662
+          Assay IDs: 504707
+        - Target GeneID: 16130689
+          Assay IDs: 504720
+        - Target GeneID: 194068499
+          Assay IDs: 504734
+        - Target GeneID: 5016090
+          Assay IDs: 504766 652010
+        - Target GeneID: 121945198
+          Assay IDs: 504803
+        - Target GeneID: 118341367
+          Assay IDs: 504810 504812
+        - Target GeneID: 4090929
+          Assay IDs: 504842
+        - Target GeneID: 86301163
+          Assay IDs: 504845
+        - Target GeneID: 63054845
+          Assay IDs: 504847
+        - Target GeneID: 115347926
+          Assay IDs: 504884
+        - Target GeneID: 5453898
+          Assay IDs: 504891
+        - Target GeneID: 553160
+          Assay IDs: 504894
+        - Target GeneID: 179095
+          Assay IDs: 504937
+        - Target GeneID: 5031833
+          Assay IDs: 540253 540263
+        - Target GeneID: 5453555
+          Assay IDs: 540253
+        - Target GeneID: 19923142
+          Assay IDs: 540253 540263
+        - Target GeneID: 74315350
+          Assay IDs: 540275 540277
+        - Target GeneID: 119508433
+          Assay IDs: 540295 540308
+        - Target GeneID: 6679377
+          Assay IDs: 540303
+        - Target GeneID: 7242179
+          Assay IDs: 540303
+        - Target GeneID: 257471003
+          Assay IDs: 540303
+        - Target GeneID: 187960037
+          Assay IDs: 540317
+        - Target GeneID: 68474550
+          Assay IDs: 540336
+        - Target GeneID: 68488893
+          Assay IDs: 540336
+        - Target GeneID: 160794
+          Assay IDs: 588342
+        - Target GeneID: 32307126
+          Assay IDs: 588352
+        - Target GeneID: 22538455
+          Assay IDs: 588354
+        - Target GeneID: 78486550
+          Assay IDs: 588405
+        - Target GeneID: 6009644
+          Assay IDs: 588413
+        - Target GeneID: 8659577
+          Assay IDs: 588453 588456
+        - Target GeneID: 4503351
+          Assay IDs: 588458
+        - Target GeneID: 30219
+          Assay IDs: 588473 588475
+        - Target GeneID: 38349113
+          Assay IDs: 588473 588475
+        - Target GeneID: 4877999
+          Assay IDs: 588478
+        - Target GeneID: 46367787
+          Assay IDs: 588489
+        - Target GeneID: 16306916
+          Assay IDs: 588493
+        - Target GeneID: 168184763
+          Assay IDs: 588497 588497 588497
+        - Target GeneID: 148378801
+          Assay IDs: 588499 588499 588499
+        - Target GeneID: 348019627
+          Assay IDs: 588513 588514 743069 743075 743077 743078 743079 743080 743091
+        - Target GeneID: 124375976
+          Assay IDs: 588515 588516 743035 743036 743040 743042 743053 743054 743063
+        - Target GeneID: 325495553
+          Assay IDs: 588526 588527 743217 743220 743239 743240
+        - Target GeneID: 311348376
+          Assay IDs: 588532 588533 720691 720692 720719 720725
+        - Target GeneID: 216409690
+          Assay IDs: 588534 588535 743212 743215 743226 743227
+        - Target GeneID: 216409692
+          Assay IDs: 588536 743094 743140 743191 743199
+        - Target GeneID: 216409708
+          Assay IDs: 588541 588543 743222 743223 743241 743242
+        - Target GeneID: 325495497
+          Assay IDs: 588544 588546 1159527 1159531
+        - Target GeneID: 1781172
+          Assay IDs: 588549
+        - Target GeneID: 7705344
+          Assay IDs: 588579
+        - Target GeneID: 154350220
+          Assay IDs: 588590
+        - Target GeneID: 5729982
+          Assay IDs: 588591
+        - Target GeneID: 90652859
+          Assay IDs: 588621
+        - Target GeneID: 62362414
+          Assay IDs: 588664
+        - Target GeneID: 68989256
+          Assay IDs: 588664
+        - Target GeneID: 219689243
+          Assay IDs: 588689
+        - Target GeneID: 15607504
+          Assay IDs: 588726
+        - Target GeneID: 4758356
+          Assay IDs: 588795
+        - Target GeneID: 37622910
+          Assay IDs: 588814 588819 588852
+        - Target GeneID: 7300964
+          Assay IDs: 588832
+        - Target GeneID: 325651834
+          Assay IDs: 588834 588834
+        - Target GeneID: 18418623
+          Assay IDs: 588855
+        - Target GeneID: 16128424
+          Assay IDs: 602123
+        - Target GeneID: 9955963
+          Assay IDs: 602162
+        - Target GeneID: 73586699
+          Assay IDs: 602163 651718
+        - Target GeneID: 89573979
+          Assay IDs: 602179
+        - Target GeneID: 115503961
+          Assay IDs: 602233
+        - Target GeneID: 5730106
+          Assay IDs: 602244
+        - Target GeneID: 62868213
+          Assay IDs: 602252
+        - Target GeneID: 41872631
+          Assay IDs: 602261
+        - Target GeneID: 31542303
+          Assay IDs: 602281
+        - Target GeneID: 116292172
+          Assay IDs: 602281
+        - Target GeneID: 22907044
+          Assay IDs: 602313
+        - Target GeneID: 216548193
+          Assay IDs: 602329
+        - Target GeneID: 168984549
+          Assay IDs: 602332
+        - Target GeneID: 9629361
+          Assay IDs: 602346
+        - Target GeneID: 291463269
+          Assay IDs: 602393
+        - Target GeneID: 4504343
+          Assay IDs: 602396
+        - Target GeneID: 15927174
+          Assay IDs: 602399
+        - Target GeneID: 75495260
+          Assay IDs: 602405
+        - Target GeneID: 11093520
+          Assay IDs: 602410
+        - Target GeneID: 1762973
+          Assay IDs: 602429
+        - Target GeneID: 160877737
+          Assay IDs: 602438
+        - Target GeneID: 378544807
+          Assay IDs: 602481
+        - Target GeneID: 334278898
+          Assay IDs: 623877
+        - Target GeneID: 7108336
+          Assay IDs: 624037 624038 624040
+        - Target GeneID: 52426748
+          Assay IDs: 624125 624126 624127
+        - Target GeneID: 47678551
+          Assay IDs: 624168
+        - Target GeneID: 27753985
+          Assay IDs: 624169
+        - Target GeneID: 71051501
+          Assay IDs: 624170
+        - Target GeneID: 693842
+          Assay IDs: 624171
+        - Target GeneID: 1724069
+          Assay IDs: 624172 624417
+        - Target GeneID: 62359610
+          Assay IDs: 624173
+        - Target GeneID: 1698399
+          Assay IDs: 624202
+        - Target GeneID: 7657550
+          Assay IDs: 624204
+        - Target GeneID: 343478176
+          Assay IDs: 624246
+        - Target GeneID: 3063388
+          Assay IDs: 624263
+        - Target GeneID: 37183032
+          Assay IDs: 624263
+        - Target GeneID: 4506537
+          Assay IDs: 624267
+        - Target GeneID: 119603173
+          Assay IDs: 624267
+        - Target GeneID: 71746704
+          Assay IDs: 624268
+        - Target GeneID: 52000961
+          Assay IDs: 624288
+        - Target GeneID: 7705682
+          Assay IDs: 624296 624297
+        - Target GeneID: 25148072
+          Assay IDs: 624304
+        - Target GeneID: 21361397
+          Assay IDs: 624330
+        - Target GeneID: 40254439
+          Assay IDs: 624352
+        - Target GeneID: 224494019
+          Assay IDs: 624354
+        - Target GeneID: 351542238
+          Assay IDs: 624377
+        - Target GeneID: 10092597
+          Assay IDs: 624414 624415
+        - Target GeneID: 9629363
+          Assay IDs: 624416
+        - Target GeneID: 4503385
+          Assay IDs: 624463 624464 624465
+        - Target GeneID: 21264324
+          Assay IDs: 624466 624467
+        - Target GeneID: 1709543
+          Assay IDs: 651560
+        - Target GeneID: 21489979
+          Assay IDs: 651572
+        - Target GeneID: 16130723
+          Assay IDs: 651602
+        - Target GeneID: 16130724
+          Assay IDs: 651602
+        - Target GeneID: 16130726
+          Assay IDs: 651602
+        - Target GeneID: 269849759
+          Assay IDs: 651631 651743 720552
+        - Target GeneID: 296439460
+          Assay IDs: 651632 720516
+        - Target GeneID: 171543895
+          Assay IDs: 651635
+        - Target GeneID: 4826706
+          Assay IDs: 651636
+        - Target GeneID: 28872817
+          Assay IDs: 651644
+        - Target GeneID: 4826834
+          Assay IDs: 651647
+        - Target GeneID: 10190672
+          Assay IDs: 651658
+        - Target GeneID: 4502169
+          Assay IDs: 651699
+        - Target GeneID: 4507791
+          Assay IDs: 651699
+        - Target GeneID: 109637798
+          Assay IDs: 651710
+        - Target GeneID: 2501205
+          Assay IDs: 651711
+        - Target GeneID: 4503907
+          Assay IDs: 651719
+        - Target GeneID: 1730321
+          Assay IDs: 651724
+        - Target GeneID: 1246761
+          Assay IDs: 651725
+        - Target GeneID: 34577122
+          Assay IDs: 651749
+        - Target GeneID: 5702233
+          Assay IDs: 651751
+        - Target GeneID: 25952111
+          Assay IDs: 651757
+        - Target GeneID: 3719421
+          Assay IDs: 651768
+        - Target GeneID: 51095037
+          Assay IDs: 651777 743085 743122
+        - Target GeneID: 3041727
+          Assay IDs: 651778
+        - Target GeneID: 2358024
+          Assay IDs: 651800
+        - Target GeneID: 49066040
+          Assay IDs: 651802
+        - Target GeneID: 83758679
+          Assay IDs: 651819
+        - Target GeneID: 5729858
+          Assay IDs: 651957
+        - Target GeneID: 76364066
+          Assay IDs: 651958
+        - Target GeneID: 2668494
+          Assay IDs: 651965
+        - Target GeneID: 38027923
+          Assay IDs: 651999
+        - Target GeneID: 119579215
+          Assay IDs: 652017
+        - Target GeneID: 7110653
+          Assay IDs: 652025
+        - Target GeneID: 21327705
+          Assay IDs: 652039
+        - Target GeneID: 89191863
+          Assay IDs: 652048 652051 652054
+        - Target GeneID: 71987181
+          Assay IDs: 652067 652126 687014
+        - Target GeneID: 20140568
+          Assay IDs: 652104
+        - Target GeneID: 18266879
+          Assay IDs: 652105
+        - Target GeneID: 586067
+          Assay IDs: 652106
+        - Target GeneID: 126698238
+          Assay IDs: 652162
+        - Target GeneID: 47496637
+          Assay IDs: 652163
+        - Target GeneID: 21315078
+          Assay IDs: 652197
+        - Target GeneID: 32425330
+          Assay IDs: 652257
+        - Target GeneID: 14149746
+          Assay IDs: 686940
+        - Target GeneID: 21595776
+          Assay IDs: 686964
+        - Target GeneID: 49168486
+          Assay IDs: 686970
+        - Target GeneID: 79154014
+          Assay IDs: 686978 686979
+        - Target GeneID: 13325293
+          Assay IDs: 686996
+        - Target GeneID: 115430235
+          Assay IDs: 687016
+        - Target GeneID: 21359873
+          Assay IDs: 720504
+        - Target GeneID: 28373962
+          Assay IDs: 720508 720509
+        - Target GeneID: 89348172
+          Assay IDs: 720511
+        - Target GeneID: 23496270
+          Assay IDs: 720542
+        - Target GeneID: 326937491
+          Assay IDs: 720543
+        - Target GeneID: 342840031
+          Assay IDs: 720551 720553
+        - Target GeneID: 222762
+          Assay IDs: 720579 720580
+        - Target GeneID: 2393947
+          Assay IDs: 720582
+        - Target GeneID: 4506113
+          Assay IDs: 720596
+        - Target GeneID: 20149576
+          Assay IDs: 720636 743202 743219
+        - Target GeneID: 73747889
+          Assay IDs: 720648
+        - Target GeneID: 325495557
+          Assay IDs: 720659
+        - Target GeneID: 223459640
+          Assay IDs: 720700
+        - Target GeneID: 23510348
+          Assay IDs: 720702
+        - Target GeneID: 148745659
+          Assay IDs: 720704
+        - Target GeneID: 317373593
+          Assay IDs: 720707 720709
+        - Target GeneID: 32171491
+          Assay IDs: 720708 720711
+        - Target GeneID: 399498506
+          Assay IDs: 743065 743066 743067
+        - Target GeneID: 119597822
+          Assay IDs: 743083 743139
+        - Target GeneID: 119580345
+          Assay IDs: 743126
+        - Target GeneID: 4504517
+          Assay IDs: 743210 743228
+        - Target GeneID: 118600387
+          Assay IDs: 743255
+        - Target GeneID: 296080761
+          Assay IDs: 743266
+        - Target GeneID: 2853980
+          Assay IDs: 743269
+        - Target GeneID: 6708281
+          Assay IDs: 743269
+        - Target GeneID: 10835145
+          Assay IDs: 743279
+        - Target GeneID: 74734243
+          Assay IDs: 1053197
+        - Target GeneID: 119626539
+          Assay IDs: 1159509 1159518
+        - Target GeneID: 119611100
+          Assay IDs: 1159516 1159519
+        - Target GeneID: 15928672
+          Assay IDs: 1159521 1159523
+        - Target GeneID: 119627033
+          Assay IDs: 1159528
+        - Target GeneID: 325495463
+          Assay IDs: 1159552 1159553 1159555
+    :assays:
+      true:
+        DSSTox (CPDBAS) Carcinogenic Potency Database Salmonella Mutagenicity Assay ID: 1194
+        DSSTox (CPDBAS) Carcinogenic Potency Database Summary Mouse Bioassay Results Assay ID: 1199
+        DSSTox (CPDBAS) Carcinogenic Potency Database Summary MultiCellCall Results Assay ID: 1205
+        DSSTox (CPDBAS) Carcinogenic Potency Database Summary Rat Bioassay Results Assay ID: 1208
+        DSSTox (CPDBAS) Carcinogenic Potency Database Summary SingleCellCall Results Assay ID: 1189
+      false:
+        A Cell Based HTS Approach for the Discovery of New Inhibitors of Respiratory syncytial virus (RSV) Assay ID: 2391
+        A Cell-Based Confirmatory Screen for Compounds that Inhibit VEEV, TC-83 Assay ID: 588727
+        A screen for compounds that inhibit growth of Escherichia coli Assay ID: 1053175
+        A yeast HTS for caloric restriction mimetics that inhibit age-related superoxide Assay ID: 2690
+        Bursicon-induced LGR2 mediated cAMP production in LGR-2/CRE6x-Luciferase co-transfected HEK293 cells Inhibition Assay ID: 720647
+        Cell Viability - BJ Assay ID: 421
+        Cell Viability - H-4-II-E Assay ID: 543
+        Cell Viability - HUV-EC-C Assay ID: 542
+        Cell Viability - Hek293 Assay ID: 427
+        Cell Viability - HepG2 Assay ID: 433
+        Cell Viability - Jurkat Assay ID: 426
+        Cell Viability - LYMP1-002 - Assay at 16 hr Assay ID: 948
+        Cell Viability - LYMP1-002 - Assay at 24 hr Assay ID: 993
+        Cell Viability - LYMP1-002 - Assay at 40 hr Assay ID: 994
+        Cell Viability - LYMP1-003 - Assay at 24 hr Assay ID: 963
+        Cell Viability - LYMP1-003 - Assay at 40 hr Assay ID: 964
+        Cell Viability - LYMP2-001 Assay ID: 921
+        Cell Viability - LYMP2-002 Assay ID: 977
+        Cell Viability - LYMP2-003 Assay ID: 965
+        Cell Viability - LYMP2-004 Assay ID: 966
+        Cell Viability - LYMP2-005 Assay ID: 967
+        Cell Viability - LYMP2-006 Assay ID: 978
+        Cell Viability - LYMP2-007 Assay ID: 979
+        Cell Viability - LYMP2-008 Assay ID: 980
+        Cell Viability - LYMP2-009 Assay ID: 968
+        Cell Viability - LYMP2-010 Assay ID: 981
+        Cell Viability - LYMP2-011 Assay ID: 969
+        Cell Viability - LYMP2-012 Assay ID: 982
+        Cell Viability - LYMP2-013 Assay ID: 970
+        Cell Viability - LYMP2-014 Assay ID: 983
+        Cell Viability - LYMP2-015 Assay ID: 971
+        Cell Viability - LYMP2-016 Assay ID: 984
+        Cell Viability - LYMP2-017 Assay ID: 972
+        Cell Viability - LYMP2-018 Assay ID: 985
+        Cell Viability - LYMP2-019 Assay ID: 973
+        Cell Viability - LYMP2-020 Assay ID: 986
+        Cell Viability - LYMP2-021 Assay ID: 974
+        Cell Viability - LYMP2-022 Assay ID: 987
+        Cell Viability - LYMP2-023 Assay ID: 975
+        Cell Viability - LYMP2-024 Assay ID: 988
+        Cell Viability - LYMP2-025 Assay ID: 976
+        Cell Viability - LYMP2-026 Assay ID: 989
+        Cell Viability - MRC5 Assay ID: 434
+        Cell Viability - Mesenchymal Assay ID: 546
+        Cell Viability - N2a Assay ID: 540
+        Cell Viability - NIH 3T3 Assay ID: 541
+        Cell Viability - Renal Proximal Tubule Assay ID: 545
+        Cell Viability - SH-SY5Y Assay ID: 544
+        Cell Viability - SK-N-SH Assay ID: 435
+        Cell signaling CRE-BLA (Fsk stim) Assay ID: 662
+        Cellular Toxicity (caspase-3) BJ Assay ID: 658
+        Cellular Toxicity (caspase-3) H-4-II-E Assay ID: 663
+        Cellular Toxicity (caspase-3) HUV-EC-C Assay ID: 656
+        Cellular Toxicity (caspase-3) Hek293 Assay ID: 664
+        Cellular Toxicity (caspase-3) HepG2 Assay ID: 654
+        Cellular Toxicity (caspase-3) Jurkat Assay ID: 655
+        Cellular Toxicity (caspase-3) MRC-5 Assay ID: 659
+        Cellular Toxicity (caspase-3) Mesangial Assay ID: 660
+        Cellular Toxicity (caspase-3) N2a Assay ID: 665
+        Cellular Toxicity (caspase-3) NIH 3T3 Assay ID: 666
+        Cellular Toxicity (caspase-3) Renal Proximal Tubule Assay ID: 667
+        Cellular Toxicity (caspase-3) SHSY5Y Assay ID: 657
+        Cellular Toxicity (caspase-3) SK-N-SH Assay ID: 661
+        Cholera Quorum HTS for inducers of light production in the absence ofautoinducers using BH1578 (luxS deficient, cqsA deficient) Measured in Microorganism System Using Plate Reader - 2132-01_Agonist_SinglePoint_HTS_Activity Assay ID: 588436
+        Counterscreen for inhibitors of AddAB absorbance-based bacterial cell-based high throughput screening assay to identify inhibitors of bacterial viability Assay ID: 449728
+        Counterscreen for inhibitors of the fructose-bisphosphate aldolase (FBA) of M. tuberculosis Absorbance-based biochemical high throughput Glycerophosphate Dehydrogenase-Triosephosphate Isomerase (GDH-TPI) full deck assay to identify assay artifacts Assay ID: 588335
+        Counterscreen of compound fluorescence effects on High-throughput multiplex microsphere screening for inhibitors of toxin protease Assay ID: 624483
+        DENV2 CPE-Based HTS Measured in Cell-Based and Microorganism Combination System Using Plate Reader - 2149-01_Other_SinglePoint_HTS_Activity Assay ID: 651640
+        Elucidation of physiology of non-replicating, drug-tolerant Mycobacterium tuberculosis Assay ID: 488890
+        Flow Cytometric HTS Screening for Inhibitors of Lytic Granule Exocytosis with MLPCN Compound Library Assay ID: 651702
+        Fluorescence Biochemical Primary HTS to Identify Inhibitors of GASC-1 Activity Assay ID: 2099
+        Fluorescence-based biochemical primary high throughput screening assay to identify molecules that bind r(CAG) RNA repeats Assay ID: 651821
+        Fluorescence-based counterscreen for orexin 1 receptor (OX1R) antagonists cell-based assay to identify antagonists of the parental CHO cell line Assay ID: 463079
+        Full deck counterscreen for agonists of the human M1 muscarinic receptor (CHRM1) Fluorescence-based cell-based high throughput screening assay to identify nonselective activators and assay artifacts using the parental CHOK1 cell line Assay ID: 602248
+        Full deck counterscreen for antagonists of the human M1 muscarinic receptor (CHRM1) Fluorescence-based cell-based high throughput screening assay to identify nonselective inhibitors and assay artifacts using the parental CHOK1 cell line Assay ID: 602250
+        Full deck counterscreen for positive allosteric modulators (PAMs) of the human M1 muscarinic receptor (CHRM1) Fluorescence-based cell-based high throughput screening assay to identify nonselective activators and assay artifacts using the parental CHOK1 cell line Assay ID: 602247
+        HTS for Bacterial rRNA inhibitors Measured in Microorganism-Based System Using Plate Reader - 7056-01_Inhibitor_SinglePoint_HTS_Activity Assay ID: 720706
+        HTS for Bacterial rRNA inhibitors Measured in Microorganism-Based System Using Plate Reader - 7056-01_Inhibitor_SinglePoint_HTS_Activity Assay ID: 720706
+        HTS for suppressors of simvastatin-induced mytoxicity in differentiated C2C12 cells Measured in Cell-Based System Using Plate Reader - 2112-01_Suppressor_SinglePoint_HTS_Activity Assay ID: 602340
+        HTS for the detection of C. neoformans cell lysis via adenylate kinase (AK) release Measured in Microorganism System Using Plate Reader - 2162-01_Inhibitor_SinglePoint_HTS_Activity Assay ID: 651654
+        HTS to Find Inhibitors of Pathogenic Pemphigus Antibodies Assay ID: 588358
+        HTS to identify compounds that promote myeloid differentiation with MLPCN compound set Assay ID: 624256
+        High Throughput Screening Assay used to Identify Novel Compounds that Inhibit Mycobacterium Tuberculosis in 7H9 Media Assay ID: 449762
+        High Throughput Screening for Foot and Mouth Disease Virus Antivirals Assay ID: 1159524
+        Inhibitors of Prion Protein 5' UTR mRNA Measured in Cell-Based System Using Plate Reader - 2078-01_Inhibitor_SinglePoint_HTS_Activity Assay ID: 488862
+        Luciferase Reporter Cell Based HTS to identify inhibitors of N-linked Glycosylation Measured in Cell-Based System Using Plate Reader - 2146-01_Inhibitor_SinglePoint_HTS_Activity_Set2 Assay ID: 588692
+        Luminescence Microorganism Primary HTS to Identify Inhibitors of the SUMOylation Pathway Using a Temperature Sensitive Growth Reversal Mutant Mot1-301 Assay ID: 2716
+        Luminescence Cell-Based Primary HTS to Identify Inhibitors of Beta Cell Apoptosis. Assay ID: 435005
+        Luminescence Cell-Based Primary HTS to Identify Inhibitors of Cancer Stem Cells Assay ID: 2717
+        Luminescence Cell-Based Primary HTS to identify inhibitors of the oncoprotein EWS/Fli transcriptional activity Measured in Cell-Based System Using Plate Reader - 7014-01_Inhibitor_SinglePoint_HTS_Activity Assay ID: 651661
+        Luminescence-based cell-based primary high throughput screening assay to identify activators of the GAA850 frataxin (FXN) promoter Assay ID: 540364
+        Luminescent GLuc Reporter Gene Assay Primary HTS to Identify Small Molecule Activator of Glucose Dependent Insulin Secretion Measured in Cell-Based System Using Plate Reader - 7055-01_Activator_SinglePoint_HTS_Activity Assay ID: 743287
+        MITF Measured in Cell-Based System Using Plate Reader - 2084-01_Activator_SinglePoint_HTS_Activity Assay ID: 588334
+        MLPCN PGC1a Modulators Measured in Cell-Based System Using Plate Reader - 2139-01_Activator_SinglePoint_HTS_Activity Assay ID: 651723
+        MLPCN PGC1a Modulators Measured in Cell-Based System Using Plate Reader - 2139-01_Inhibitor_SinglePoint_HTS_Activity Assay ID: 651687
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-001 - Dead Cells Assay ID: 946
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-001 - Live Cells Assay ID: 947
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-002 - Dead Cells Assay ID: 960
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-002 - Live Cells Assay ID: 955
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-003 - Dead Cells Assay ID: 961
+        MultiTox-Fluor Cytotoxicity Assay - LYMP1-003 - Live Cells Assay ID: 962
+        NCI In Vivo Anticancer Drug Screen. Data for tumor model L1210 Leukemia (intraperitoneal) in B6D2F1 (BDF1) mice Assay ID: 248
+        Nrf2 qHTS screen for inhibitors counterscreen for cytotoxicity Assay ID: 504648
+        Phenotypic HTS multiplex for antifungal efflux pump inhibitors Assay ID: 485275
+        Primary and Confirmatory Screening for Inhibitors of Bacterial Capsule Biogenesis Assay ID: 488966
+        Primary qHTS for delayed death inhibitors of the malarial parasite plastid, 48 hour incubation Assay ID: 504832
+        Primary qHTS for delayed death inhibitors of the malarial parasite plastid, 96 hour incubation Assay ID: 504834
+        Schnurri-3 Inhibitors specific inducers of adult bone formation Measured in Cell-Based System Using Plate Reader - 2134-01_Inhibitor_SinglePoint_HTS_Activity_Set2 Assay ID: 588674
+        Screen to Identify Novel Compounds That Sensitize Mycobacterium Tuberculosis to Beta-lactam Antibiotics Assay ID: 434955
+        Small molecule inhibitors of miR122 Measured in Cell-Based System Using Plate Reader - 2144-01_Activator_SinglePoint_HTS_Activity Assay ID: 623901
+        Small molecule inhibitors of miR122 Measured in Cell-Based System Using Plate Reader - 2144-01_Inhibitor_SinglePoint_HTS_Activity Assay ID: 602342
+        Whole cell Yeast HTS to identify compounds modulating the fidelity of the start codon recognition in eukaryotes. Measured in Whole Organism System Using Plate Reader - 2155-01_Other_SinglePoint_HTS_Activity Assay ID: 602363
+        Wnt/Beta-catenin HTS Measured in Cell-Based System Using Plate Reader - 2161-01_Activator_SinglePoint_HTS_Activity Assay ID: 743398
+        qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-1 Spectroscopic Profiling in AFC Spectral Region Assay ID: 923
+        qHTS Assay for Compounds Blocking the Interaction Between CBF-beta and RUNX1 for the Treatment of Acute Myeloid Leukemia Assay ID: 1477
+        qHTS Assay for Compounds that Induce Erasure of Genomic Imprints Assay ID: 1948
+        qHTS Assay for Disrupters of an Hsp90 Co-Chaperone Interaction Assay ID: 595
+        qHTS Assay for Inhibitors of DNA Polymerase III Holoenzyme System Assay ID: 603
+        qHTS Assay for Small Molecule Inhibitors of Mitochondrial Division or Activators of Mitochondrial Fusion Assay ID: 485298
+        qHTS Assay to Find Inhibitors of Chronic Active B-Cell Receptor Signaling Assay ID: 493014
+        qHTS assay for cell viability of HEK293 cells Assay ID: 743288
+        qHTS assay for cell viability of the p53RE-bla HCT-116 cell line Assay ID: 743292
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways Assay ID: 651838
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line Assay ID: 743015
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line Assay ID: 743014
+        qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line Assay ID: 743012
+        qHTS assay for small molecule activators of the heat shock response signaling pathway - cell viability counter screen Assay ID: 743209
+        qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway - cell viability counter screen Assay ID: 743203
+        qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway measured by Nrf2-dependant transcriptional activity - cell viability counter screen Assay ID: 720653
+        qHTS assay for small molecule agonists of the p53 signaling pathway - cell viability Assay ID: 651633
+        qHTS assay for small molecule antagonists of the retinoid-related orphan receptor gamma (ROR-gamma) signaling pathway - cell viability counter screen Assay ID: 720652
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential - 1 hr assay Assay ID: 651754
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential - 5 hr assay Assay ID: 651755
+        qHTS assay for small molecule disruptors of the mitochondrial membrane potential - cell viability Assay ID: 720634
+        qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability Assay ID: 651634
+        qHTS assay to identify aromatase inhibitors - cell viability counter screen Assay ID: 743084
+        qHTS assay to identify small molecule agonists of the AP-1 signaling pathway Assay ID: 1159526
+        qHTS assay to identify small molecule agonists of the AP-1 signaling pathway - cell viability counter screen Assay ID: 1159525
+        qHTS assay to identify small molecule agonists of the NFkB signaling pathway - cell viability counter screen Assay ID: 1159515
+        qHTS assay to identify small molecule agonists of the RXR signaling pathway - cell viability counter screen Assay ID: 1159529
+        qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR) signaling pathway - cell viability counter screen Assay ID: 743218
+        qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway - cell viability counter screen Assay ID: 743211
+        qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen Assay ID: 743224
+        qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway - cell viability counter screen Assay ID: 743033
+        qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway using the MDA cell line - cell viability counter screen Assay ID: 743041
+        qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway - cell viability counter screen Assay ID: 743074
+        qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line - cell viability counter screen Assay ID: 743081
+        qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor (FXR) signaling pathway - cell viability counter screen Assay ID: 743221
+        qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway - cell viability counter screen Assay ID: 720693
+        qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway - cell viability counter screen Assay ID: 743213
+        qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway - cell viability counter screen Assay ID: 743194
+        qHTS assay to identify small molecule antagonists of the retinoid acid receptor (RAR) signaling pathway - cell viability counter screen Assay ID: 1159551
+        qHTS assay to identify small molecule antagonists of the retinoid-related orphan receptor gamma (ROR-gamma) signaling pathway - cell viability counter screen Assay ID: 1159520
+        qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway - cell viability counter screen Assay ID: 743064
+        qHTS assay to identify small molecule antagonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen Assay ID: 743225
+        qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway - cell viability counter screen Assay ID: 743086
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293 cell free culture Assay ID: 720681
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293 cells Assay ID: 720678
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2 cell free culture Assay ID: 720685
+        qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2 cells Assay ID: 720687
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293 cell free culture Assay ID: 720682
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293 cells Assay ID: 720680
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2 cell free culture Assay ID: 720686
+        qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2 cells Assay ID: 720675
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293 cell free culture Assay ID: 720683
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293 cells Assay ID: 720679
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cell free culture Assay ID: 720684
+        qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cells Assay ID: 720674
+        qHTS for Inhibitors of TGF-b Cytotox Counterscreen Assay ID: 588856
+        qHTS for induction of synthetic lethality in tumor cells producing 2HG qHTS for the HT-1080-IDH1KD cell line Assay ID: 686971
+        qHTS of GLP-1 Receptor Inverse Agonists Cytotox Screen Assay ID: 624418
+        uHTS determination of small molecule cytotoxicity in a fluorescence assay to identify cystic fibrosis induced NFkb Inhibitors Assay ID: 602141
+        uHTS identification of small molecule activators of the adaptive arm of the Unfolded Protein response via a luminescent-based reporter assay Assay ID: 463104
+        uHTS identification of small molecule activators of the apoptotic arm of the Unfolded Protein response via a luminescent-based reporter assay Assay ID: 449763
+        uHTS identification of small molecule inhibitors of the mitochondrial permeability transition pore via an absorbance assay Assay ID: 602449
+        uHTS identification of small molecule modulators of myocardial damage Assay ID: 588492
+        uHTS identification of small molecules that induce b-cell replication in the MIN-6 cell line Assay ID: 2380
+        uHTS luminescence assay for the identification of chemical inhibitors of B-cell specific antigen receptor-induced NF-kB activation Assay ID: 435022
+        uHTS luminescence assay for the identification of chemical inhibitors of T-cell specific antigen receptor-induced NF-kB activation Assay ID: 435003
+        uHTS luminescent assay for identification of compounds that enhance the survival of human induced pluripotent stem cells when cultured as single cells Assay ID: 602274
+Aromaten:
+  Naphthalene:
+    :uri: http://aop.in-silico.ch/cid/931
+    :targets:
+      true:
+      false:
+    :assays:
+      true:
+      false:
+  2-Methylnaphthalene:
+    :uri: http://aop.in-silico.ch/cid/7055
+    :targets:
+      true:
+      false:
+    :assays:
+      true:
+      false:
+  2-Naphthol:
+    :uri: http://aop.in-silico.ch/cid/8663
+    :targets:
+      true:
+      false:
+    :assays:
+      true:
+      false:
+Ester:
+  Vinyl acetate:
+    :uri: http://aop.in-silico.ch/cid/7904
+    :targets:
+      true:
+      false:
+    :assays:
+      true:
+      false:
+  Vinyl propionate:
+    :uri: http://aop.in-silico.ch/cid/7750
+    :targets:
+      true:
+      false:
+    :assays:
+      true:
+      false:
+  Vinyl butyrate:
+    :uri: http://aop.in-silico.ch/cid/3124
+    :targets:
+      true:
+      false:
+    :assays:
+      true:
+      false:
