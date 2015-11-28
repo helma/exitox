@@ -1,0 +1,58 @@
+---
+Vicinale Halogenide:
+  1,2,3-Trichloropropane - 1,2-Dichloropropane:
+    :common:
+      true: 5
+      false: 247
+    :different: 2
+    :similarity: 0.9921259842519685
+  1,2,3-Trichloropropane - Dibromochloropropane:
+    :common:
+      true: 5
+      false: 247
+    :different: 1
+    :similarity: 0.9960474308300395
+  1,2-Dichloropropane - Dibromochloropropane:
+    :common:
+      true: 4
+      false: 242
+    :different: 1
+    :similarity: 0.9959514170040485
+Aromaten:
+  Naphthalene - 2-Methylnaphthalene:
+    :common:
+      true: 2
+      false: 242
+    :different: 3
+    :similarity: 0.9878542510121457
+  Naphthalene - 2-Naphthol:
+    :common:
+      true: 0
+      false: 93
+    :different: 11
+    :similarity: 0.8942307692307693
+  2-Methylnaphthalene - 2-Naphthol:
+    :common:
+      true: 0
+      false: 95
+    :different: 9
+    :similarity: 0.9134615384615384
+Ester:
+  Vinyl acetate - Vinyl propionate:
+    :common:
+      true: 0
+      false: 0
+    :different: 0
+    :similarity: .nan
+  Vinyl acetate - Vinyl butyrate:
+    :common:
+      true: 0
+      false: 0
+    :different: 0
+    :similarity: .nan
+  Vinyl propionate - Vinyl butyrate:
+    :common:
+      true: 0
+      false: 0
+    :different: 0
+    :similarity: .nan
