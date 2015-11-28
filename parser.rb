@@ -1,6 +1,8 @@
 require 'yaml'
+require 'restclient'
 
 @exitox = {}
+@aid2name = YAML.load_file("aid2name.yaml")
 ["halogenide.yaml","aromaten.yaml","ester.yaml"].each do |f|
   YAML.load_file(f).each do |group,data|
     @exitox[group] = {}
@@ -16,5 +18,10 @@ require 'yaml'
       end
     end
   end
+end
+
+def aid2name aid
+  uri = "http://pubchem.ncbi.nlm.nih.gov/rest/pug/assay/aid/#{aid}/summary/JSON"
+  JSON.parse(RestClient.get uri)["AssaySummaries"]["AssaySummary"][0]["Name"]
 end
 #puts @exitox.to_yaml

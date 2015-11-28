@@ -1,0 +1,2078 @@
+---
+Vicinale Halogenide - Aromaten:
+  :common:
+    true:
+    - DSSTox (EPAFHM) EPA Fathead Minnow Acute Toxicity (AID 1188)
+    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary SingleCellCall Results
+      (AID 1189)
+    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Mouse Bioassay Results
+      (AID 1199)
+    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary MultiCellCall Results
+      (AID 1205)
+    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Rat Bioassay Results (AID
+      1208)
+    - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
+    false:
+    - Cell Viability - BJ (AID 421)
+    - Cell Viability - Jurkat (AID 426)
+    - Cell Viability - Hek293 (AID 427)
+    - Cell Viability - HepG2 (AID 433)
+    - Cell Viability - MRC5 (AID 434)
+    - Cell Viability - SK-N-SH (AID 435)
+    - IkB Signaling (AID 445)
+    - JNK3 AlphaScreen Assay (AID 530)
+    - Cell Viability - N2a (AID 540)
+    - Cell Viability - NIH 3T3 (AID 541)
+    - Cell Viability - HUV-EC-C (AID 542)
+    - Cell Viability - H-4-II-E (AID 543)
+    - Cell Viability - SH-SY5Y (AID 544)
+    - Cell Viability - Renal Proximal Tubule (AID 545)
+    - Cell Viability - Mesenchymal (AID 546)
+    - Promiscuous and Specific Inhibitors of AmpC Beta-Lactamase (assay with detergent)
+      (AID 584)
+    - Promiscuous and Specific Inhibitors of AmpC Beta-Lactamase (assay without detergent)
+      (AID 585)
+    - qHTS Assay for Disrupters of an Hsp90 Co-Chaperone Interaction (AID 595)
+    - qHTS Assay for Tau Filament Binding (AID 596)
+    - qHTS Assay for Inhibitors of DNA Polymerase III Holoenzyme System (AID 603)
+    - qHTS Assay for Inhibitors of YjeE (AID 605)
+    - Cellular Toxicity (caspase-3) HepG2 (AID 654)
+    - Cellular Toxicity (caspase-3) Jurkat (AID 655)
+    - Cellular Toxicity (caspase-3) HUV-EC-C (AID 656)
+    - Cellular Toxicity (caspase-3) SHSY5Y (AID 657)
+    - Cellular Toxicity (caspase-3) BJ (AID 658)
+    - Cellular Toxicity (caspase-3) MRC-5 (AID 659)
+    - Cellular Toxicity (caspase-3) Mesangial (AID 660)
+    - Cellular Toxicity (caspase-3) SK-N-SH (AID 661)
+    - Cell signaling CRE-BLA (Fsk stim) (AID 662)
+    - Cellular Toxicity (caspase-3) H-4-II-E (AID 663)
+    - Cellular Toxicity (caspase-3) Hek293 (AID 664)
+    - Cellular Toxicity (caspase-3) N2a (AID 665)
+    - Cellular Toxicity (caspase-3) NIH 3T3 (AID 666)
+    - Cellular Toxicity (caspase-3) Renal Proximal Tubule (AID 667)
+    - qHTS Assay for Inhibitors of BRCT-Phosphoprotein Interaction (Green Fluorophore)
+      (AID 875)
+    - qHTS Assay for Inhibitors of RGS12 GoLoco Motif Activity (Red Fluorophore) (AID
+      880)
+    - qHTS Assay for Inhibitors of 15-hLO-2 (15-human lipoxygenase 2) (AID 881)
+    - qHTS Assay for Inhibitors and Substrates of Cytochrome P450 3A4 (AID 884)
+    - qHTS Assay for Activators of Cytochrome P450 3A4 (AID 885)
+    - qHTS Assay for Inhibitors of HADH2 (Hydroxyacyl-Coenzyme A Dehydrogenase, Type
+      II) (AID 886)
+    - qHTS Assay for Inhibitors of 15-hLO (15-human lipoxygenase) (AID 887)
+    - qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-7 (AID 889)
+    - qHTS Assay for Inhibitors of BRCT-Phosphoprotein Interaction (Red Fluorophore)
+      (AID 892)
+    - qHTS Assay for Inhibitors of HSD17B4, hydroxysteroid (17-beta) dehydrogenase
+      4 (AID 893)
+    - qHTS Assay for Inhibitors of HPGD (15-Hydroxyprostaglandin Dehydrogenase) (AID
+      894)
+    - qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-1 (AID 900)
+    - 'qHTS Screen for Compounds that Selectively Target Cancer Cells with p53 Mutations:
+      Cytotoxicity of p53ts Cells at the Nonpermissive Temperature (AID 902)'
+    - qHTS Assay for Anthrax Lethal Toxin Internalization (AID 912)
+    - Cell Viability - LYMP2-001 (AID 921)
+    - 'qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-1: Spectroscopic
+      Profiling in AFC Spectral Region (AID 923)'
+    - 'qHTS Screen for Compounds that Selectively Target Cancer Cells with p53 Mutations:
+      Cytotoxicity of p53ts Cells at the Permissive Temperature (AID 924)'
+    - qHTS Assay for Modulators of Hemoglobin Beta Chain Splicing (AID 925)
+    - qHTS Assay for Agonists of the Thyroid Stimulating Hormone Receptor (AID 926)
+    - 'qHTS Assay for Agonists of the Thyroid Stimulating Hormone Receptor: Activators
+      of Intracellular cAMP Concentrations in Parental HEK 293 (AID 938)'
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-001 - Dead Cells (AID 946)
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-001 - Live Cells (AID 947)
+    - Cell Viability - LYMP1-002 - Assay at 16 hr (AID 948)
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-002 - Live Cells (AID 955)
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-002 - Dead Cells (AID 960)
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-003 - Dead Cells (AID 961)
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-003 - Live Cells (AID 962)
+    - Cell Viability - LYMP1-003 - Assay at 24 hr (AID 963)
+    - Cell Viability - LYMP1-003 - Assay at 40 hr (AID 964)
+    - Cell Viability - LYMP2-003 (AID 965)
+    - Cell Viability - LYMP2-004 (AID 966)
+    - Cell Viability - LYMP2-005 (AID 967)
+    - Cell Viability - LYMP2-009 (AID 968)
+    - Cell Viability - LYMP2-011 (AID 969)
+    - Cell Viability - LYMP2-013 (AID 970)
+    - Cell Viability - LYMP2-015 (AID 971)
+    - Cell Viability - LYMP2-017 (AID 972)
+    - Cell Viability - LYMP2-019 (AID 973)
+    - Cell Viability - LYMP2-021 (AID 974)
+    - Cell Viability - LYMP2-023 (AID 975)
+    - Cell Viability - LYMP2-025 (AID 976)
+    - Cell Viability - LYMP2-002 (AID 977)
+    - Cell Viability - LYMP2-006 (AID 978)
+    - Cell Viability - LYMP2-007 (AID 979)
+    - Cell Viability - LYMP2-008 (AID 980)
+    - Cell Viability - LYMP2-010 (AID 981)
+    - Cell Viability - LYMP2-012 (AID 982)
+    - Cell Viability - LYMP2-014 (AID 983)
+    - Cell Viability - LYMP2-016 (AID 984)
+    - Cell Viability - LYMP2-018 (AID 985)
+    - Cell Viability - LYMP2-020 (AID 986)
+    - Cell Viability - LYMP2-022 (AID 987)
+    - Cell Viability - LYMP2-024 (AID 988)
+    - Cell Viability - LYMP2-026 (AID 989)
+    - Cell Viability - LYMP1-002 - Assay at 24 hr (AID 993)
+    - Cell Viability - LYMP1-002 - Assay at 40 hr (AID 994)
+    - qHTS Assay for Inhibitors of the ERK Signaling Pathway using a Homogeneous Screening
+      Assay (AID 995)
+    - qHTS Assay for Inhibitors of Aldehyde Dehydrogenase 1 (ALDH1A1) (AID 1030)
+    - qHTS Assay for Inhibitors of 12-hLO (12-human lipoxygenase) (AID 1452)
+    - 'qHTS Assay for Identifying the Cell-Membrane Permeable IMPase Inhibitors: Potentiation
+      with Lithium (AID 1457)'
+    - qHTS Assay for Enhancers of SMN2 Splice Variant Expression (AID 1458)
+    - qHTS for Inhibitors of the Interaction of Thyroid Hormone Receptor and Steroid
+      Receptor Coregulator 2 (AID 1469)
+    - 'qHTS Multiplex Assay to Identify Dual Action Probes in a Cell Model of Huntington:
+      Cytoprotection (ATP) (AID 1471)'
+    - qHTS Assay for Promiscuous and Specific Inhibitors of Cruzain (without detergent)
+      (AID 1476)
+    - qHTS Assay for Compounds Blocking the Interaction Between CBF-beta and RUNX1
+      for the Treatment of Acute Myeloid Leukemia (AID 1477)
+    - qHTS Assay for Promiscuous and Specific Inhibitors of Cruzain (with detergent)
+      (AID 1478)
+    - Total Fluorescence Counterscreen for Inhibitors of the Interaction of Thyroid
+      Hormone Receptor and Steroid Receptor Coregulator 2 (AID 1479)
+    - qHTS Assay for Compounds that Induce Erasure of Genomic Imprints (AID 1948)
+    - Fluorescence-based primary biochemical high throughput screening assay to identify
+      inhibitors of Protein Phosphatase 5 (PP5). (AID 1987)
+    - Multiplex HTS Screen of TOR pathway GFP-fusion proteins in Saccharomyes cerevisiae_specifically_
+      MEP2_MLPCN. (AID 2016)
+    - Multiplex HTS Screen of TOR pathway GFP-fusion proteins in Saccharomyes cerevisiae_specifically_
+      LAP4_MLPCN. (AID 2023)
+    - Multiplex HTS Screen of TOR pathway GFP-fusion proteins in Saccharomyes cerevisiae_specifically_
+      RPL19A_MLPCN. (AID 2025)
+    - HTS for developing T Cell Immune Modulators (AID 2052)
+    - Fluorescence polarization-based primary biochemical high throughput screening
+      assay to identify inhibitors of myeloid cell leukemia sequence 1 (MCL1) interactions
+      with BIM-BH3 peptide. (AID 2057)
+    - Fluorescence Biochemical Primary HTS to Identify Inhibitors of GASC-1 Activity
+      (AID 2099)
+    - qHTS Assay for Inhibitors and Activators of N370S glucocerebrosidase as a Potential
+      Chaperone Treatment of Gaucher Disease (AID 2101)
+    - qHTS Assay for Inhibitors and Activators of Human alpha-Galactosidase From Spleen
+      Homogenate (AID 2107)
+    - qHTS Assay for Inhibitors and Activators of Human alpha-Glucosidase From Spleen
+      Homogenate (AID 2112)
+    - qHTS Assay for Identification of Small Molecule Inducers of Hypoxia Response
+      (AID 2120)
+    - Primary biochemical high throughput screening assay to identify inhibitors of
+      BCL2-related protein, long isoform (BCLXL). (AID 2129)
+    - Fluorescence polarization-based primary biochemical high throughput screening
+      assay to identify inhibitors of Protein Phosphatase Methylesterase 1 (PME-1).
+      (AID 2130)
+    - 'Counterscreen for PME1 inhibitors: fluorescence polarization-based primary
+      biochemical high throughput screening assay to identify inhibitors of lysophospholipase
+      1 (LYPLA1). (AID 2174)'
+    - 'Counterscreen for PME1 inhibitors: fluorescence polarization-based primary
+      biochemical high throughput screening assay to identify inhibitors of lysophospholipase
+      2 (LYPLA2). (AID 2177)'
+    - 'Counterscreen for inhibitors of EBNA-1: fluorescence polarization-based biochemical
+      high throughput primary assay to identify inhibitors of the Epstein-Barr virus-encoded
+      protein, ZTA. (AID 2234)'
+    - 'Counterscreen for inhibitors of PP5: fluorescence-based biochemical high throughput
+      primary assay to identify inhibitors of Protein Phosphatase 1 (PP1). (AID 2235)'
+    - Fluorescence polarization-based primary biochemical high throughput screening
+      assay to identify inhibitors of GLD-1 protein - TGE RNA interaction. (AID 2280)
+    - TR-FRET-based primary biochemical high throughput screening assay to identify
+      agonists of nuclear receptor subfamily 2, group E, member 3 (NR2E3). (AID 2300)
+    - uHTS identification of small molecules that induce b-cell replication in the
+      MIN-6 cell line (AID 2380)
+    - A Cell Based HTS Approach for the Discovery of New Inhibitors of Respiratory
+      syncytial virus (RSV) (AID 2391)
+    - Fluorescence-based primary cell-based high throughput screening assay to identify
+      agonists of the Oxytocin Receptor (OXTR). (AID 2435)
+    - Fluorescence-based primary cell-based high throughput screening assay to identify
+      potentiators of Oxytocin Receptor (OXTR) (AID 2445)
+    - Luminescence Cell-Based Primary HTS to Identify Inhibitors of A1 Apoptosis.
+      (AID 2462)
+    - qHTS Assay for Inhibitors of the Human Apurinic/apyrimidinic Endonuclease 1
+      (APE1) (AID 2517)
+    - uHTS identification of small molecule agonists of the APJ  receptor  via a luminescent
+      beta-arrestin assay (AID 2520)
+    - uHTS identification of small molecule antagonists of the APJ  receptor  via
+      a luminescent beta-arrestin assay (AID 2521)
+    - uHTS Luminescent assay for identification of activators of human intestinal
+      alkaline phosphatase (AID 2524)
+    - HTS Luminescent assay for identification of inhibitors of Sentrin-specific protease
+      8 (SENP8) (AID 2540)
+    - uHTS Luminescent assay for identification of inhibitors of human intestinal
+      alkaline phosphatase (AID 2544)
+    - VP16 counterscreen qHTS for inhibitors of ROR gamma transcriptional activity
+      (AID 2546)
+    - qHTS Assay for Inhibitors of RecQ-Like Dna Helicase 1 (RECQ1) (AID 2549)
+    - qHTS for inhibitors of ROR gamma transcriptional activity (AID 2551)
+    - HTS for Identification of VLA-4 Allosteric Modulators from MLPCN library (AID
+      2557)
+    - uHTS Luminescent assay for identification of inhibitors of Sentrin-specific
+      protease 6 (SENP6) (AID 2599)
+    - Fluorescence polarization-based primary biochemical high throughput screening
+      assay to identify inhibitors of the membrane-associated serine protease Rv3671c
+      in M.tuberculosis (AID 2606)
+    - Fluorescence Polarization Cell-Free Homogeneous Primary HTS to Identify Inhibitors
+      of the LANA Histone H2A/H2B Interaction (AID 2629)
+    - Luminescence Cell-Free  Homogenous Primary HTS to Identify Inhibitors of GSK-3
+      alpha (AID 2650)
+    - Luminescence Cell-Free  Homogenous Primary HTS to Identify Inhibitors of Serine/Threonine  Kinase
+      33  Activity (AID 2661)
+    - qHTS Assay for Agonists of the Relaxin Receptor RXFP1 (AID 2676)
+    - A yeast HTS for caloric restriction mimetics that inhibit age-related superoxide
+      (AID 2690)
+    - Luminescence  Microorganism Primary HTS to Identify Inhibitors of the SUMOylation
+      Pathway Using a Temperature Sensitive Growth Reversal Mutant Mot1-301 (AID 2716)
+    - Luminescence Cell-Based Primary HTS to Identify Inhibitors of Cancer Stem Cells
+      (AID 2717)
+    - Fluorescence Cell-Free Homogeneous Primary HTS to Identify Inhibitors of Histone
+      Deacetylase 3 (AID 2718)
+    - Fluorescence polarization-based primary biochemical high throughput screening
+      assay to identify inhibitors of the prolyl oligopeptidase-like enzyme (PREPL)
+      (AID 2751)
+    - Luminescence-based primary cell-based high throughput screening assay to identify
+      activators of the Aryl Hydrocarbon Receptor (AHR) (AID 2796)
+    - 'Counterscreen for Oxytocin Receptor (OXTR) agonists: Fluorescence-based primary
+      cell-based high throughput assay to identify agonists of the vasopressin 1 receptor
+      (V1R) (AID 2797)'
+    - uHTS Luminescent assay for identification of activators of mouse intestinal
+      alkaline phosphatase (AID 2805)
+    - uHTS Luminescent assay for identification of inhibitors of mouse intestinal
+      alkaline phosphatase (AID 2806)
+    - uHTS Luminescent assay for identification of inhibitors of NALP3 in yeast (AID
+      2825)
+    - Screen to Identify Novel Compounds That Sensitize Mycobacterium Tuberculosis
+      to Beta-lactam Antibiotics (AID 434955)
+    - Fluorescence polarization-based cell-based primary high throughput screening
+      assay to identify inhibitors of insulin-degrading enzyme (IDE) (AID 434962)
+    - uHTS Luminescent assay for identification of inhibitors of Sentrin-specific
+      protease 7 (SENP7) (AID 434973)
+    - Fluorescence-based cell-based primary high throughput screening assay to identify
+      antagonists of the orexin 1 receptor (OX1R; HCRTR1) (AID 434989)
+    - uHTS luminescence assay for the identification of chemical inhibitors of T-cell
+      specific antigen receptor-induced NF-kB activation (AID 435003)
+    - Luminescence Cell-Based Primary HTS to Identify Inhibitors of Beta Cell Apoptosis.
+      (AID 435005)
+    - uHTS luminescence assay for the identification of chemical inhibitors of B-cell
+      specific antigen receptor-induced NF-kB activation (AID 435022)
+    - Absorbance-based primary bacterial cell-based high throughput screening assay
+      to identify inhibitors of AddAB recombination protein complex (AID 435030)
+    - 'Counterscreen for inhibitors of AddAB: absorbance-based bacterial cell-based
+      high throughput screening assay to identify inhibitors of bacterial viability
+      (AID 449728)'
+    - High Throughput Screening Assay used to Identify Novel Compounds that Inhibit
+      Mycobacterium Tuberculosis in 7H9 Media (AID 449762)
+    - uHTS identification of small molecule activators of the apoptotic arm of the
+      Unfolded Protein response via a luminescent-based reporter assay (AID 449763)
+    - 'Fluorescence-based counterscreen for orexin 1 receptor (OX1R) antagonists:
+      cell-based assay to identify antagonists of the parental CHO cell line (AID
+      463079)'
+    - Fluorescence polarization-based primary biochemical high throughput screening
+      assay to identify inhibitors of the plasma platelet activating factor acetylhydrolase
+      (pPAFAH) (AID 463082)
+    - uHTS identification of small molecule activators of the adaptive arm of the
+      Unfolded Protein response via a luminescent-based reporter assay (AID 463104)
+    - Absorbance-based primary biochemical high throughput screening assay to identify
+      activators of procaspase-3 (AID 463141)
+    - uHTS identification of small molecule inhibitors of tim10-1 yeast via a luminescent
+      assay (AID 463190)
+    - uHTS identification of small molecule inhibitors of tim10 yeast via a luminescent
+      assay (AID 463195)
+    - 'Counterscreen for procaspase-3 activators: absorbance-based primary biochemical
+      high throughput screening assay to identify activators of procaspase-7 (AID
+      463210)'
+    - uHTS identification of small molecule inhibitors of tim23-1 yeast via a luminescent
+      assay (AID 463212)
+    - qHTS Assay for Inhibitors of Ubiquitin-specific Protease USP2a Using CHOP2 as
+      the Reporter (AID 463254)
+    - FRET-based cell-based primary high throughput screening assay to identify antagonists
+      of the orexin 1 receptor (OX1R; HCRTR1) (AID 485270)
+    - Fluorescence polarization-based primary biochemical high throughput screening
+      assay to identify inhibitors of Protein Arginine Deiminase 4 (PAD4) (1536 HTS)
+      (AID 485272)
+    - uHTS identification of UBC13 Polyubiquitin Inhibitors via a TR-FRET Assay (AID
+      485273)
+    - Phenotypic HTS multiplex for antifungal efflux pump inhibitors (AID 485275)
+    - qHTS Assay for Inhibitors of Tyrosyl-DNA Phosphodiesterase (TDP1) (AID 485290)
+    - qHTS Inhibitors of AmpC Beta-Lactamase (assay with detergent) (AID 485294)
+    - qHTS Assay for Rab9 Promoter Activators (AID 485297)
+    - qHTS Assay for Small Molecule Inhibitors of Mitochondrial Division or Activators
+      of Mitochondrial Fusion (AID 485298)
+    - qHTS Assay for NPC1 Promoter Activators (AID 485313)
+    - HTS-Luminescent assay for inhibitors of ALR by detection of hydrogen peroxide
+      production Measured in Biochemical System Using Plate Reader - 2036-02_Inhibitor_SinglePoint_HTS
+      (AID 485317)
+    - qHTS Inhibitors of AmpC Beta-Lactamase (assay without detergent) (AID 485341)
+    - uHTS for identification of Inhibitors of Mdm2/MdmX interaction in luminescent
+      format. (AID 485346)
+    - qHTS Assay for Identifying a Potential Treatment of Ataxia-Telangiectasia (AID
+      485349)
+    - qHTS of Yeast-based Assay for SARS-CoV PLP (AID 485353)
+    - qHTS Assay for the Inhibitors of L3MBTL1 (AID 485360)
+    - qHTS Assay for the Inhibitors of Schistosoma Mansoni Peroxiredoxins (AID 485364)
+    - qHTS Assay to Find Inhibitors of T. brucei phosphofructokinase (AID 485367)
+    - qHTS Assay for Inhibitors of the Phosphatase Activity of Eya2 (AID 488837)
+    - Development of CDK5 inhibitors   Measured in Biochemical System Using Plate
+      Reader - 2083-01_Inhibitor_SinglePoint_HTS_Activity (AID 488839)
+    - RNA aptamer-based HTS for inhibitors of GRK2 (AID 488847)
+    - Inhibitors of Prion Protein 5' UTR mRNA Measured in Cell-Based System Using
+      Plate Reader - 2078-01_Inhibitor_SinglePoint_HTS_Activity (AID 488862)
+    - Elucidation of physiology of non-replicating, drug-tolerant Mycobacterium tuberculosis
+      (AID 488890)
+    - High Throughput Screen for Tat Transport Inhibitors Measured in Microorganism
+      System Using Plate Reader - 2093-01_Inhibitor_SinglePoint_HTS_Activity (AID
+      488895)
+    - HTS using DiI-HDL to assay lipid transfer in ldlA[SR-BI] cells Measured in Cell-Based
+      System Using Plate Reader - 2085-01_Inhibitor_SinglePoint_HTS_Activity (AID
+      488896)
+    - MITF Measured in Cell-Based System Using Plate Reader - 2084-01_Inhibitor_SinglePoint_HTS_Activity
+      (AID 488899)
+    - Fluorescent Biochemical Primary HTS to Identify Inhibitors of P. aeruginosa
+      PvdQ acylase Measured in Biochemical System Using Plate Reader and Imaging Combination
+      - 2091-01_Inhibitor_SinglePoint_HTS_Activity (AID 488965)
+    - Primary and Confirmatory Screening for Inhibitors of Bacterial Capsule Biogenesis
+      (AID 488966)
+    - uHTS Fluorescent assay for identification of inhibitors of Apaf-1 (AID 489030)
+    - uHTS Fluorescent assay for identification of activators of Apaf-1 (AID 489031)
+    - qHTS assay of beta-arrestin-biased ligands of beta2-adrenergic receptor (AID
+      492947)
+    - Fluorescence polarization-based primary biochemical high throughput screening
+      assay to identify inhibitors of human platelet-activating factor acetylhydrolase
+      1b, catalytic subunit 2 (PAFAH1B2) (AID 492953)
+    - Fluorescence polarization-based primary biochemical high throughput screening
+      assay to identify inhibitors of human platelet activating factor acetylhydrolase
+      2 (PAFAH2) (AID 492956)
+    - Fluorescence polarization-based primary biochemical high throughput screening
+      assay to identify inhibitors of human platelet-activating factor acetylhydrolase
+      1B, catalytic subunit 3 (PAFAH1B3) (AID 492972)
+    - qHTS Assay for Iinhibitors of HIV-1 Budding by Blocking the Interaction of PTAP/TSG101
+      (AID 493005)
+    - Fluorescence-based biochemical primary high throughput screening assay to identify
+      activators of the calcium sensitivity of cardiac Regulated Thin Filaments (RTF)
+      (AID 493008)
+    - uHTS identification of APOBEC3A DNA Deaminase Inhibitors via a fluorescence-based
+      single-stranded DNA deaminase assay (AID 493011)
+    - uHTS identification of APOBEC3G DNA Deaminase Inhibitors via a fluorescence-based
+      single-stranded DNA deaminase assay (AID 493012)
+    - qHTS Assay to Find Inhibitors of Chronic Active B-Cell Receptor Signaling (AID
+      493014)
+    - Image-Based HTS for Selective Agonists for NTR1 (AID 493036)
+    - 'qHTS for Small Molecule Agonists and Allosteric Enhancers of Human TRH Receptor:
+      Primary Screen for Enhancers (AID 493056)'
+    - 'qHTS for Small Molecule Agonists and Allosteric Enhancers of Human TRH Receptor:
+      Primary Screen for Agonists. (AID 493084)'
+    - Fluorescence polarization-based cell-based primary high throughput screening
+      assay to identify activators of insulin-degrading enzyme (IDE) (AID 493087)
+    - uHTS Colorimetric assay for identification of inhibitors of Scp-1 (AID 493091)
+    - uHTS identification of small molecule antagonists of the CCR6 receptor via a
+      luminescent beta-arrestin assay (AID 493098)
+    - Activator for delta FosB/delta FosB homodimer Measured in Biochemical System
+      Using Plate Reader - 2072-01_Activator_SinglePoint_HTS_Activity (AID 493131)
+    - uHTS Fluorescent assay for identification of inhibitors of hexokinase domain
+      containing  I (HKDC1) (AID 493160)
+    - uHTS Fluorescent assay for identification of activators of hexokinase domain
+      containing  I (HKDC1) (AID 493187)
+    - Fluorescence-based biochemical primary high throughput screening assay to identify
+      inhibitors of the calcium sensitivity of cardiac Regulated Thin Filaments (RTF)
+      (AID 493244)
+    - Luminescence-based cell-based primary high throughput screening assay to identify
+      agonists of heterodimerization of the mu 1 (OPRM1) and delta 1 (OPRD1) opioid
+      receptors (AID 504326)
+    - qHTS Assay for Inhibitors of GCN5L2 (AID 504327)
+    - Discovery of Small Molecule Probes for H1N1 Influenza NS1A (AID 504329)
+    - qHTS Assay for Inhibitors of Histone Lysine Methyltransferase G9a (AID 504332)
+    - qHTS Assay for Inhibitors of BAZ2B (AID 504333)
+    - qHTS Assay for Inhibitors of JMJD2A-Tudor Domain (AID 504339)
+    - Luminescence-based cell-based primary high throughput screening assay to identify
+      inverse agonists of heterodimerization of the mu 1 (OPRM1) and delta 1 (OPRD1)
+      opioid receptors (AID 504357)
+    - Inhibitors of Mycobacterium tuberculosis UDP-galactopyranose mutase (UGM) enzyme
+      - High throughput screening using Fluorescent polarization assay Measured in
+      Biochemical System Using Plate Reader - 2105-01_Inhibitor_SinglePoint_HTS_Activity_Set6
+      (AID 504406)
+    - Fluorescence-based primary biochemical high throughput screening assay to identify
+      inhibitors of human diacylglycerol lipase, beta (DAGLB) (AID 504411)
+    - Fluorescence Polarization with Cer CAL-PDZ Measured in Biochemical System Using
+      Plate Reader - 2109-01_Inhibitor_SinglePoint_HTS_Activity (AID 504414)
+    - C-LANA FP assay Measured in Biochemical System Using Plate Reader - 2117-01_Inhibitor_SinglePoint_HTS_Activity
+      (AID 504423)
+    - Nrf2 qHTS screen for inhibitors (AID 504444)
+    - HTS for Beta-2AR agonists via FAP method (AID 504454)
+    - uHTS fluorescent assay for identification of inhibitors of ATG4B (AID 504462)
+    - qHTS screen for small molecules that induce genotoxicity in human embryonic
+      kidney (HEK293T) cells expressing luciferase-tagged ELG1 (AID 504466)
+    - qHTS screen for small molecules that inhibit ELG1-dependent DNA repair in human
+      embryonic kidney (HEK293T) cells expressing luciferase-tagged ELG1 (AID 504467)
+    - Assay for Inhibitors of the beta-Arrestin-Adaptor Protein 2 Interaction That
+      Mediate GPCR Degradation and Recycling (AID 504490)
+    - Fluorescence polarization to screen for inhibitors that disrupt the protein-protein
+      interaction between Keap1 and Nrf2   Measured in Biochemical System Using Plate
+      Reader - 2119-01_Inhibitor_SinglePoint_HTS_Activity (AID 504523)
+    - Inhibitors of Epstein-Barr LMP1 inducible NF-kappaB luciferase reporter Measured
+      in Cell-Based System Using Plate Reader - 2122-01_Inhibitor_SinglePoint_HTS_Activity
+      (AID 504558)
+    - HTS of Small Molecules that Regulate V-ATPase Proton Transport in Yeast using
+      pHLuorin (AID 504577)
+    - In vivo-based yeast HTS to detect compounds rescuing yeast growth/survival of
+      Plasmodium Falciparum HSP40-mediated toxicity Measured in Whole Organism System
+      Using Plate Reader - 2120-01_Inhibitor_SinglePoint_HTS_Activity (AID 504582)
+    - Anti-Malarial Hsp90 Inhibitors Measured in Microorganism System Using Plate
+      Reader - 2121-01_Inhibitor_SinglePoint_HTS_Activity_Set2 (AID 504621)
+    - 'Counterscreen for inverse agonists of OPRM1-OPRD1 heterodimerization: luminescence-based
+      cell-based full-deck high throughput screening assay to identify inverse agonists
+      of 5-hydroxytryptamine (serotonin) 5A receptor (HTR5A) (AID 504634)'
+    - 'Nrf2 qHTS screen for inhibitors: counterscreen for cytotoxicity (AID 504648)'
+    - 'Potentiators of Human D1 Dopamine Receptor: qHTS (AID 504651)'
+    - 'Allosteric Agonists of the Human D1 Dopamine Receptor: qHTS (AID 504660)'
+    - uHTS identification of small molecule inhibitors of Plasmodium falciparum Glucose-6-phosphate
+      dehydrogenase via a fluorescence intensity assay (AID 504690)
+    - 'Counterscreen for agonists of OPRM1-OPRD1 heterodimerization: luminescence-based
+      cell-based full-deck high throughput screening assay to identify agonists of
+      5-hydroxytryptamine (serotonin) 5A receptor (HTR5A) (AID 504692)'
+    - Fluorescence polarization-based biochemical primary high throughput screening
+      assay to identify activators of the Protein Kinase A-R2B (PKA-R2B) complex (AID
+      504700)
+    - qHTS assay for re-activators of p53 using a Luc reporter (AID 504706)
+    - Fluorescence polarization-based biochemical primary high throughput screening
+      assay to identify activators of the Protein Kinase A-R1A (PKA-R1A) complex (AID
+      504707)
+    - uHTS identification of MazEF TA System activators  via a fluorescence-based
+      single-stranded RNase assay (AID 504720)
+    - Fluorescence-based cell-based primary high throughput screening assay to identify
+      inhibitors of TLR9-MyD88 binding. (AID 504734)
+    - Luminescence-based primary cell-based high throughput screening assay to identify
+      inhibitors of the orphan nuclear receptor subfamily 0, group B, member 1 (DAX1;
+      NR0B1) (AID 504766)
+    - HTS using DiI-HDL to assay lipid transfer in ldlA[SR-BI] cells Measured in Cell-Based
+      System Using Plate Reader - 2085-01_Activator_SinglePoint_HTS_Activity (AID
+      504775)
+    - Fluorescence polarization-based primary biochemical high throughput screening
+      assay to identify inhibitors of the HTRA serine peptidase 1 (HTRA1) (AID 504803)
+    - 'Antagonists of the Thyroid Stimulating Hormone Receptor: HTS campaign (AID
+      504810)'
+    - 'Inverse Agonists of the Thyroid Stimulating Hormone Receptor: HTS campaign
+      (AID 504812)'
+    - Primary qHTS for delayed death inhibitors of the malarial parasite plastid,
+      48 hour incubation (AID 504832)
+    - Primary qHTS for delayed death inhibitors of the malarial parasite plastid,
+      96 hour incubation (AID 504834)
+    - 'Inhibitors of TCP-1 ring complex (TRiC) of Methanococcus maripaludis (MmCpn):
+      qHTS (AID 504842)'
+    - 'Inhibitors of Regulator of G Protein Signaling (RGS) 4: qHTS (AID 504845)'
+    - 'Inhibitors of the vitamin D receptor (VDR): qHTS (AID 504847)'
+    - Inhibitors of Y. pestis Topo-I using cleavage product accumulation Measured
+      in Biochemical System Using Plate Reader - 2123-01_Inhibitor_SinglePoint_HTS_Activity
+      (AID 504884)
+    - qHTS Assay to Find Inhibitors of Pin1 (AID 504891)
+    - 'Activators of T cell receptors: qHTS campaign (AID 504894)'
+    - 'Inhibitors of Secretory Acid Sphingomyelinase (S-ASM): qHTS (AID 504937)'
+    - qHTS Assay for Inhibitors of RanGTP induced Rango (Ran-regulated importin-beta
+      cargo) - Importin beta complex dissociation (AID 540253)
+    - qHTS Assay for Inhibitors of Rango (Ran-regulated importin-beta cargo) - Importin
+      beta complex formation (AID 540263)
+    - HTS Assay for Compounds that Act as Agonists of the Vanilloid Receptor 1 (AID
+      540275)
+    - HTS Assay for Compounds that Act as Potentiators of the Vanilloid Receptor 1
+      (AID 540277)
+    - 'TRFRET-based cell-based primary high throughput screening assay to identify
+      biased ligands of the melanocortin 4 receptor (MC4R): antagonists of MC4R (AID
+      540295)'
+    - qHTS for Inhibitors of Cell Surface uPA Generation (AID 540303)
+    - 'Luminescence-based cell-based primary high throughput screening assay to identify
+      biased ligands of the melanocortin 4 receptor (MC4R): agonists of MC4R (AID
+      540308)'
+    - HTS for Inhibitors of HP1-beta Chromodomain Interactions with Methylated Histone
+      Tails (AID 540317)
+    - Rtt109/Vps75 Measured in Biochemical System Using Plate Reader - 2106-01_Inhibitor_SinglePoint_HTS_Activity
+      (AID 540336)
+    - Luminescence-based cell-based primary high throughput screening assay to identify
+      activators of the GAA850 frataxin (FXN) promoter (AID 540364)
+    - MITF Measured in Cell-Based System Using Plate Reader - 2084-01_Activator_SinglePoint_HTS_Activity
+      (AID 588334)
+    - 'Counterscreen for inhibitors of the fructose-bisphosphate aldolase (FBA) of
+      M. tuberculosis: Absorbance-based biochemical high throughput Glycerophosphate
+      Dehydrogenase-Triosephosphate Isomerase (GDH-TPI) full deck assay to identify
+      assay artifacts (AID 588335)'
+    - qHTS profiling assay for firefly luciferase inhibitor/activator using purifed
+      enzyme and Km concentrations of substrates (counterscreen for miR-21 project)
+      (AID 588342)
+    - Luminescence-based cell-based primary high throughput screening assay to identify
+      inhibitors of the Steroid Receptor Coactivator 3 (SRC3; NCOA3) (AID 588352)
+    - Luminescence-based cell-based primary high throughput screening assay to identify
+      inhibitors of the Steroid Receptor Coactivator 1 (SRC1; NCOA1) (AID 588354)
+    - HTS to Find Inhibitors of Pathogenic Pemphigus Antibodies (AID 588358)
+    - HTS Assay for Peg3 Promoter Inhibitors (AID 588405)
+    - uHTS identification of Gli-Sufu Antagonists in a luminescence reporter assay
+      (AID 588413)
+    - 'Cholera Quorum: HTS for inducers of light production in the absence ofautoinducers
+      using BH1578 (luxS deficient, cqsA deficient) Measured in Microorganism System
+      Using Plate Reader - 2132-01_Agonist_SinglePoint_HTS_Activity (AID 588436)'
+    - 'qHTS Assay for Inhibitors of Mammalian Selenoprotein Thioredoxin Reductase
+      1 (TrxR1): qHTS (AID 588453)'
+    - 'qHTS Assay for Substrates of Mammalian Selenoprotein Thioredoxin Reductase
+      1 (TrxR1): qHTS (AID 588456)'
+    - uHTS identification of DNMT1 inhibitors in a Fluorescent Molecular Beacon assay
+      (AID 588458)
+    - uHTS identification of agonists of the CRF-binding protein and CRF-R2 receptor
+      complex (AID 588473)
+    - uHTS identification of antagonists of the CRF-binding protein and CRF-R2 receptor
+      complex (AID 588475)
+    - A screen for small molecule inhibitors of the human deubiquitinating enzyme,
+      UCH37 (AID 588478)
+    - uHTS identification of microRNA-mediated mRNA deadenylation inhibitors by fluoresence
+      polarization assay (AID 588489)
+    - uHTS identification of small molecule modulators of myocardial damage (AID 588492)
+    - uHTS identification of inhibitors of Rpn11 in a Fluorescent Polarization assay
+      (AID 588493)
+    - High-throughput multiplex microsphere screening for inhibitors of toxin protease,
+      specifically Botulinum neurotoxin light chain F protease, MLPCN compound set
+      (AID 588497)
+    - High-throughput multiplex microsphere screening for inhibitors of toxin protease,
+      specifically Botulinum neurotoxin light chain A protease, MLPCN compound set
+      (AID 588499)
+    - High-throughput multiplex microsphere screening for inhibitors of toxin protease,
+      specifically Lethal Factor Protease, MLPCN compound set (AID 588501)
+    - qHTS assay for small molecule antagonists of estrogen receptor alpha signaling
+      (AID 588513)
+    - qHTS assay for small molecule agonists of estrogen receptor alpha signaling
+      (AID 588514)
+    - qHTS assay for small molecule agonists of androgen receptor signaling (AID 588515)
+    - qHTS assay for small molecule antagonists of androgen receptor signaling (AID
+      588516)
+    - qHTS assay for small molecule antagonists of farnesoid X receptor signaling
+      (AID 588526)
+    - qHTS assay for small molecule agonists of farnesoid X receptor signaling (AID
+      588527)
+    - qHTS assay for small molecule agonists of glucocorticoid receptor signaling
+      (AID 588532)
+    - qHTS assay for small molecule antagonists of glucocorticoid receptor signaling
+      (AID 588533)
+    - qHTS assay for small molecule agonists of peroxisome proliferator-activated
+      receptor delta signaling (AID 588534)
+    - qHTS assay for small molecule antagonists of peroxisome proliferator-activated
+      receptor delta signaling (AID 588535)
+    - qHTS assay for small molecule agonists of peroxisome proliferator-activated
+      receptor gamma signaling (AID 588536)
+    - qHTS assay for small molecule antagonists of peroxisome proliferator-activated
+      receptor gamma signaling (AID 588537)
+    - qHTS assay for small molecule antagonists of vitamin D receptor signaling (AID
+      588541)
+    - qHTS assay for small molecule agonists of vitamin D receptor signaling (AID
+      588543)
+    - qHTS assay for small molecule agonists of retinoid X receptor alpha signaling
+      (AID 588544)
+    - qHTS assay for small molecule agonists of thyroid hormone receptor beta signaling
+      (AID 588545)
+    - qHTS assay for small molecule antagonists of retinoid X receptor alpha signaling
+      (AID 588546)
+    - qHTS assay for small molecule antagonists of thyroid hormone receptor beta signaling
+      (AID 588547)
+    - Fluorescence polarization to screen for inhibitor that competite the binding
+      of FadD28 to bisubstrate Measured in Biochemical System Using Plate Reader -
+      2147-01_Inhibitor_SinglePoint_HTS_Activity (AID 588549)
+    - qHTS for Inhibitors of Polymerase Kappa (AID 588579)
+    - qHTS for Inhibitors of Polymerase Iota (AID 588590)
+    - qHTS for Inhibitors of Polymerase Eta (AID 588591)
+    - uHTS identification of small molecule inhibitors of Striatal-Enriched Phosphatase
+      via a fluorescence intensity assay (AID 588621)
+    - TRFRET-based biochemical primary high throughput screening assay to identify
+      inhibitors of the interaction of the Ras and Rab interactor 1 protein (Rin1)
+      and the c-abl oncogene 1, non-receptor tyrosine kinase (Abl) (AID 588664)
+    - 'Schnurri-3 Inhibitors: specific inducers of adult bone formation Measured in
+      Cell-Based System Using Plate Reader - 2134-01_Inhibitor_SinglePoint_HTS_Activity_Set2
+      (AID 588674)'
+    - Primary and Confirmatory Screening for Flavivirus Genomic Capping Enzyme Inhibition
+      (AID 588689)
+    - Luciferase Reporter Cell Based HTS to identify inhibitors of N-linked Glycosylation
+      Measured in Cell-Based System Using Plate Reader - 2146-01_Inhibitor_SinglePoint_HTS_Activity_Set2
+      (AID 588692)
+    - Fluorescence-based biochemical primary high throughput screening assay to identify
+      inhibitors of the fructose-bisphosphate aldolase (FBA) of M. tuberculosis (AID
+      588726)
+    - A Cell-Based Confirmatory Screen for Compounds that Inhibit VEEV, TC-83 (AID
+      588727)
+    - qHTS Assay for the Inhibitors of Human Flap endonuclease 1 (FEN1). (AID 588795)
+    - Fluorescence-based cell-based primary high throughput screening assay to identify
+      agonists of the human cholinergic receptor, muscarinic 1 (CHRM1) (AID 588814)
+    - Fluorescence-based cell-based primary high throughput screening assay to identify
+      positive allosteric modulators (PAMs) of the human M1 muscarinic receptor (CHRM1).
+      (AID 588819)
+    - Hedgehog Measured in Biochemical System Using Plate Reader - 2070-01_Inhibitor_SinglePoint_HTS_Activity
+      (AID 588832)
+    - qHTS Assay for Small Molecule Inhibitors of the Human hERG Channel Activity
+      (AID 588834)
+    - uHTS identification of cystic fibrosis induced NFkb Inhibitors in a fluoresence
+      assay (AID 588850)
+    - Fluorescence-based cell-based primary high throughput screening assay to identify
+      antagonists of the human M1 muscarinic receptor (CHRM1) (AID 588852)
+    - qHTS for Inhibitors of TGF-b (AID 588855)
+    - 'qHTS for Inhibitors of TGF-b: Cytotox Counterscreen (AID 588856)'
+    - Fluorescence polarization-based primary biochemical high throughput screening
+      assay to identify inhibitors of Escherichia coli DNA-binding ATP-dependent protease
+      La (eLon) (AID 602123)
+    - uHTS determination of small molecule cytotoxicity in a fluorescence assay to
+      identify cystic fibrosis induced NFkb Inhibitors (AID 602141)
+    - Flow Cytometric HTS Screen for inhibitors of the ABC transporter ABCB6 for MLPCN
+      Compound Set (AID 602162)
+    - Absorbance-based biochemical primary high throughput screening assay to identify
+      activators of Methionine sulfoxide reductase A (MsrA) (AID 602163)
+    - 'qHTS for Inhibitors of mutant isocitrate dehydrogenase 1 (IDH1): qHTS (AID
+      602179)'
+    - Luminescence-based cell-based high throughput primary screening assay to identify
+      agonists of nuclear receptor subfamily 2, group E, member 3 (NR2E3) (AID 602229)
+    - qHTS Assay to Find Inhibitors of Phosphoglycerate Kinase (AID 602233)
+    - uHTS identification of CXCR6 Inhibitors in a B-arrestin luminescence assay (AID
+      602244)
+    - 'Full deck counterscreen for positive allosteric modulators (PAMs) of the human
+      M1 muscarinic receptor (CHRM1): Fluorescence-based cell-based high throughput
+      screening assay to identify nonselective activators and assay artifacts using
+      the parental CHOK1 cell line (AID 602247)'
+    - 'Full deck counterscreen for agonists of the human M1 muscarinic receptor (CHRM1):
+      Fluorescence-based cell-based high throughput screening assay to identify nonselective
+      activators and assay artifacts using the parental CHOK1 cell line (AID 602248)'
+    - 'Full deck counterscreen for antagonists of the human M1 muscarinic receptor
+      (CHRM1): Fluorescence-based cell-based high throughput screening assay to identify
+      nonselective inhibitors and assay artifacts using the parental CHOK1 cell line
+      (AID 602250)'
+    - Fluorescence Polarization with CAL-PDZ Measured in Biochemical System Using
+      Plate Reader - 2109-02_Inhibitor_SinglePoint_HTS_Activity (AID 602252)
+    - uHTS identification of small molecule inhibitors of  the thioesterase domain
+      of fatty acid synthase via a fluorescence intensity assay (AID 602261)
+    - uHTS luminescent assay for identification of compounds that enhance the survival
+      of human induced pluripotent stem cells when cultured as single cells (AID 602274)
+    - Luminescence-based biochemical primary high throughput screening assay to identify
+      inhibitors of the interaction of the lipase co-activator protein, abhydrolase
+      domain containing 5 (ABHD5) with perilipin-5 (MLDP; PLIN5) (AID 602281)
+    - 'qHTS for Inhibitors of Vif-A3G Interactions: qHTS (AID 602310)'
+    - 'qHTS for Inhibitors of Vif-A3F Interactions: qHTS (AID 602313)'
+    - Identification of inhibitors of RAD54 Measured in Biochemical System Using Plate
+      Reader - 2159-01_Inhibitor_SinglePoint_HTS_Activity (AID 602329)
+    - 'qHTS for Inducers of the Endoplasmic Reticulum Stress Response (ERSR) in Human
+      Glioma: qHTS (AID 602332)'
+    - HTS for suppressors of simvastatin-induced mytoxicity in differentiated C2C12
+      cells Measured in Cell-Based System Using Plate Reader - 2112-01_Suppressor_SinglePoint_HTS_Activity
+      (AID 602340)
+    - Small molecule inhibitors of miR122  Measured in Cell-Based System Using Plate
+      Reader - 2144-01_Inhibitor_SinglePoint_HTS_Activity (AID 602342)
+    - Identification of VIF Inhibitors Measured in Cell-Based System Using Imaging
+      - 2108-01_Inhibitor_SinglePoint_HTS_Activity (AID 602346)
+    - Whole cell Yeast HTS to identify compounds modulating the fidelity of the start
+      codon recognition in eukaryotes. Measured in Whole Organism System Using Plate
+      Reader - 2155-01_Other_SinglePoint_HTS_Activity (AID 602363)
+    - Screen for inhibitors of the SWI/SNF chromatin remodeling complex (esBAF) in
+      mouse embryonic stem cells with Luciferase reporter assay Measured in Cell-Based
+      System Using Plate Reader - 2141-01_Inhibitor_SinglePoint_HTS_Activity (AID
+      602393)
+    - Luminescence-based cell-based primary high throughput screening assay to identify
+      inverse agonists of the liver receptor homolog-1 (LRH-1; NR5A2) (AID 602396)
+    - uHTS identification of inhibitors of NadD in a Colorimetric assay (AID 602399)
+    - 'PgID: DNTB colorimetric HTS to detect inhibitor of PgID Measured in Biochemical
+      System Using Plate Reader - 2164-01_Inhibitor_SinglePoint_HTS_Activity (AID
+      602405)'
+    - Primary cell-based screen for identification of compounds that inhibit the two-pore
+      domain potassium channel KCNK3 (AID 602410)
+    - uHTS identification of SUMO1-mediated protein-protein interactions (AID 602429)
+    - uHTS identification of modulators of interaction between CendR and NRP-1 using
+      Fluorescence Polarization assay (AID 602438)
+    - uHTS Fluorescent Assay Using Nedd8 Protein Substrate for Identification of Inhibitors
+      of Sentrin-Specific Protease 8 (SENP8) (AID 602440)
+    - uHTS identification of small molecule inhibitors of the mitochondrial permeability
+      transition pore via an absorbance assay (AID 602449)
+    - Mycobacterium tuberculosis BioA enzyme inhibitor Measured in Biochemical System
+      Using Plate Reader - 2163-01_Inhibitor_SinglePoint_HTS_Activity (AID 602481)
+    - Primary cell-based high-throughput screening for identification of compounds
+      that activate/potentiate calcium-activated chloride channels (TMEM16A) (AID
+      623877)
+    - Small molecule inhibitors of miR122  Measured in Cell-Based System Using Plate
+      Reader - 2144-01_Activator_SinglePoint_HTS_Activity (AID 623901)
+    - Fluorescence-based cell-based primary high throughput screening assay to identify
+      agonists of the human cholinergic receptor, muscarinic 5 (CHRM5) (AID 624037)
+    - Fluorescence-based cell-based primary high throughput screening assay to identify
+      positive allosteric modulators (PAMs) of the human cholinergic receptor, muscarinic
+      5 (CHRM5) (AID 624038)
+    - Fluorescence-based cell-based primary high throughput screening assay to identify
+      antagonists of the human cholinergic receptor, muscarinic 5 (CHRM5) (AID 624040)
+    - Fluorescence-based cell-based primary high throughput screening assay to identify
+      antagonists of the human cholinergic receptor, muscarinic 4 (CHRM4) (AID 624125)
+    - Fluorescence-based cell-based primary high throughput screening assay to identify
+      positive allosteric modulators (PAMs) of the human cholinergic receptor, muscarinic
+      4 (CHRM4) (AID 624126)
+    - Fluorescence-based cell-based primary high throughput screening assay to identify
+      agonists of the human cholinergic receptor, muscarinic 4 (CHRM4) (AID 624127)
+    - uHTS identification of small molecule activators of alpha dystroglycan glycosylation
+      (AID 624168)
+    - Luminescence-based cell-based primary high throughput screening assay to identify
+      agonists of the mouse 5-hydroxytryptamine (serotonin) receptor 2A (HTR2A) (AID
+      624169)
+    - qHTS for Inhibitors of Glutaminase (GLS) (AID 624170)
+    - qHTS of Nrf2 Activators (AID 624171)
+    - qHTS of GLP-1 Receptor Agonists (AID 624172)
+    - qHTS of Trypanosoma Brucei Inhibitors (AID 624173)
+    - qHTS Assay to Identify Small Molecule Activators of BRCA1 Expression (AID 624202)
+    - uHTS identification of small molecule inhibitors of the catalytic domain of
+      the SUMO protease, SENP1 in a FRET assay (AID 624204)
+    - qHTS for Small Molecule Inhibitors of the ERG Ets/DNA interaction (AID 624246)
+    - HTS to identify compounds that promote myeloid differentiation with MLPCN compound
+      set (AID 624256)
+    - A Quantitative High throughput Screen to Identify Chemical Modulators of PINK1
+      Expression (AID 624263)
+    - Fluorescence-based cell-based primary high throughput screening assay to identify
+      inhibitors of the interaction of nucleotide-binding oligomerization domain containing
+      2 (NOD2) and the receptor-interacting serine-threonine kinase 2 (RIPK2) (AID
+      624267)
+    - Luminescence-based biochemical primary high throughput screening assay to identify
+      inhibitors of Trypanosoma brucei methionyl tRNA synthetase (MetRS) (AID 624268)
+    - 'qHTS for Antagonists of gsp, the Etiologic Mutation Responsible for Fibrous
+      Dysplasia/McCune-Albright Syndrome: qHTS (AID 624288)'
+    - A quantitative high throughput screen for small molecules that induce DNA re-replication
+      in MCF 10a normal breast cells. (AID 624296)
+    - A quantitative high throughput screen for small molecules that induce DNA re-replication
+      in SW480 colon adenocarcinoma cells. (AID 624297)
+    - uHTS identification of SKN-1 Inhibitors in a fluoresence assay (AID 624304)
+    - Discovery of small molecule inhibitors of the oncogenic and cytokinetic protein
+      MgcRacGAP -  Primary and Confirmatory Screens (AID 624330)
+    - uHTS identification of HIF-2a Inhibitors in a luminesence assay (AID 624352)
+    - uHTS identification of Caspase-8 TRAIL sensitizers in a luminesence assay (AID
+      624354)
+    - Fluorescence polarization-based biochemical primary high throughput screening
+      assay to identify inhibitors of ArfGAP with SH3 domain, ankyrin repeat and PH
+      domain 1 (ASAP1) (AID 624377)
+    - qHTS for Agonists of the Human Mucolipin Transient Receptor Potential 1 (TRPML1)
+      (AID 624414)
+    - qHTS for Inhibitors of the Human Mucolipin Transient Receptor Potential 1 (TRPML1)
+      (AID 624415)
+    - TRFRET-based biochemical primary high throughput screening assay to identify
+      small molecules that bind to the HIV-1-gp120 binding antibody, PG9 (AID 624416)
+    - qHTS of GLP-1 Receptor Inverse Agonists (Inhibition Mode) (AID 624417)
+    - 'qHTS of GLP-1 Receptor Inverse Agonists: Cytotox Screen (AID 624418)'
+    - 'Beta-Arrestin HTS for Positive Allosteric Modulators of the Human D2 Dopamine
+      Receptor: Antagonists (AID 624463)'
+    - 'Beta-Arrestin HTS for Positive Allosteric Modulators of the Human D2 Dopamine
+      Receptor: Potentiators (AID 624464)'
+    - 'Beta-Arrestin HTS for Positive Allosteric Modulators of the Human D2 Dopamine
+      Receptor: Agonists (AID 624465)'
+    - Fluorescence-based cell-based primary high throughput screening assay to identify
+      antagonists of the human trace amine associated receptor 1 (TAAR1) (AID 624466)
+    - Fluorescence-based cell-based primary high throughput screening assay to identify
+      agonists of the human trace amine associated receptor 1 (TAAR1) (AID 624467)
+    - Counterscreen of compound fluorescence effects on High-throughput multiplex
+      microsphere screening for inhibitors of toxin protease (AID 624483)
+    - uHTS identification of small molecule inhibitors of Low Molecular Weight Protein
+      Tyrosine Phosphatase, LMPTP, via a fluorescence intensity assay (AID 651560)
+    - Fluorescence polarization-based biochemical primary high throughput screening
+      assay to identify inhibitors of ADP-ribosylation factor GTPase activating protein
+      1 (ARFGAP1) (AID 651572)
+    - Absorbance-based primary bacterial cell-based high throughput screening assay
+      to identify inhibitors of RecBCD (with phage) (AID 651602)
+    - qHTS assay for small molecule agonists of the p53 signaling pathway (AID 651631)
+    - qHTS assay for small molecules that induce genotoxicity in human embryonic kidney
+      cells expressing luciferase-tagged ATAD5 (AID 651632)
+    - qHTS assay for small molecule agonists of the p53 signaling pathway - cell viability
+      (AID 651633)
+    - qHTS assay for small molecules that induce genotoxicity in human embryonic kidney
+      cells expressing luciferase-tagged ATAD5 - cell viability (AID 651634)
+    - qHTS for Inhibitors of ATXN expression (AID 651635)
+    - uHTS identification of small molecule antagonists of the EBI2 receptor via a
+      luminescent beta-arrestin assay (AID 651636)
+    - DENV2 CPE-Based HTS Measured in Cell-Based and Microorganism Combination System
+      Using Plate Reader - 2149-01_Other_SinglePoint_HTS_Activity (AID 651640)
+    - qHTS Assay for Inhibitors of the HIV-1 protein Vpr (AID 651644)
+    - uHTS identification of inhibitors of MT1-MMP activation in a fluoresence assay
+      (AID 651647)
+    - HTS for the detection of C. neoformans cell lysis via adenylate kinase (AK)
+      release Measured in Microorganism System Using Plate Reader - 2162-01_Inhibitor_SinglePoint_HTS_Activity
+      (AID 651654)
+    - Small Molecule Inhibitors of FGF22-Mediated Excitatory Synaptogenesis & Epilepsy
+      Measured in Biochemical System Using RT-PCR - 7012-01_Inhibitor_SinglePoint_HTS_Activity
+      (AID 651658)
+    - Luminescence Cell-Based Primary HTS to identify inhibitors of the oncoprotein
+      EWS/Fli transcriptional activity Measured in Cell-Based System Using Plate Reader
+      - 7014-01_Inhibitor_SinglePoint_HTS_Activity (AID 651661)
+    - MLPCN PGC1a Modulators Measured in Cell-Based System Using Plate Reader - 2139-01_Inhibitor_SinglePoint_HTS_Activity
+      (AID 651687)
+    - uHTS identification of inhibitors of cullin neddylation in a TR-FRET assay (AID
+      651699)
+    - Flow Cytometric HTS Screening for Inhibitors of Lytic Granule Exocytosis with
+      MLPCN Compound Library (AID 651702)
+    - FRET-based HTS for detection of RAD52 Inhibitors Measured in Biochemical System
+      Using Plate Reader - 7018-01_Inhibitor_SinglePoint_HTS_Activity_Set2 (AID 651710)
+    - Turbidometric Biochemical  Primary HTS  to identify inhibitors of ERp5 Measured
+      in Biochemical System Using Plate Reader - 7002-01_Inhibitor_SinglePoint_HTS_Activity
+      (AID 651711)
+    - Absorbance-based biochemical primary high throughput screening assay to identify
+      inhibitors of Methionine sulfoxide reductase A (MsrA) (AID 651718)
+    - Fluorescence-based cell-based primary high throughput screening assay to identify
+      antagonists of the Galanin Receptor 3 (GalR3) (AID 651719)
+    - MLPCN PGC1a Modulators Measured in Cell-Based System Using Plate Reader - 2139-01_Activator_SinglePoint_HTS_Activity
+      (AID 651723)
+    - qHTS Assay for Inhibitors of the CtBP/E1A Interaction (AID 651724)
+    - qHTS Assay for Inhibitors of the Six1/Eya2 Interaction (AID 651725)
+    - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+      signaling pathway (AID 651741)
+    - qHTS assay for small molecule activators of the p53 signaling pathway (AID 651743)
+    - qHTS assay for small molecule activators of the nuclear factor-kappa B (NF-kB)
+      signaling pathway (AID 651749)
+    - qHTS assay for small molecule activators of the rat pregnane X receptor (rPXR)
+      signaling pathway (AID 651751)
+    - qHTS assay for small molecule disruptors of the mitochondrial membrane potential
+      - 1 hr assay (AID 651754)
+    - qHTS assay for small molecule disruptors of the mitochondrial membrane potential
+      - 5 hr assay (AID 651755)
+    - qHTS assay to identify small molecules that stimulate Tumor Necrosis Factor-alpha
+      (TNF-alpha) secretion (AID 651757)
+    - qHTS for Inhibitors of WRN Helicase (AID 651768)
+    - qHTS assay for environmental chemicals that activate the Aryl hydrocarbon Receptor
+      (AhR) signaling pathway (AID 651777)
+    - qHTS assay for small molecule agonists of the peroxisome proliferator-activated
+      receptor alpha (PPARalpha) signaling pathway (AID 651778)
+    - Fluorescence-based biochemical primary high throughput assay to identify inhibitors
+      of T-cell receptor (TCR)-CD3 interaction using a TAMRA-labeled TCR probe (AID
+      651800)
+    - qHTS assay for small molecule antagonists of the retinoid-related orphan receptor
+      gamma (ROR-gamma) signaling pathway (AID 651802)
+    - High-Throughput Screening for Modulators of Cytosolic Chaperonin Activity (AID
+      651819)
+    - Fluorescence-based biochemical primary high throughput screening assay to identify
+      molecules that bind r(CAG) RNA repeats (AID 651821)
+    - qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+      against a panel of isogenic chicken DT40 cell lines with known DNA damage response
+      pathways (AID 651838)
+    - Luminescence-based cell-based primary high throughput screening assay to identify
+      inhibitors of the Steroid Receptor Coactivator 2 (SRC2; NCOA2) (AID 651957)
+    - 'Fluorescence-based biochemical high throughput screening primary assay to identify
+      inhibitors of Crimean-Congo Hemorrhagic Fever (CCHF) viral ovarian tumor domain
+      protease (vOTU): Pep-AMC substrate (AID 651958)'
+    - qHTS Assay for Activators of ClpP (AID 651965)
+    - uHTS identification of small molecule inhibitors of Csn-mediated Deneddylation
+      of Cullin-Ring Ligases, vis a fluorescence polarization assay (AID 651999)
+    - 'Luminescence-based cell-based primary high throughput screening assay for inhibitors
+      of the orphan nuclear receptor subfamily 0, group B, member 1 (DAX1; NR0B1):
+      repression of SF-1 (NR5A1) activated StAR promoter by full-length DAX-1 (AID
+      652010)'
+    - Luminescence-based cell-based primary high throughput screening assay to identify
+      activators of the function of SWI/SNF related, matrix associated, actin dependent
+      regulator of chromatin, subfamily a, member 2 (SMARCA2, BRM) (AID 652017)
+    - qHTS of IL-2 Activators (AID 652025)
+    - Fluorescence Intensity-based biochemical primary high throughput screening assay
+      to identify activators of kallikrein-7 (K7) zymogen (AID 652039)
+    - 'qHTS of D3 Dopamine Receptor Agonist: qHTS (AID 652048)'
+    - 'qHTS of D3 Dopamine Receptor Potentiators: qHTS (AID 652051)'
+    - 'qHTS of D3 Dopamine Receptor Antagonist: qHTS (AID 652054)'
+    - Luminescence-based cell-based primary high throughput screening assay to identify
+      activators of the DAF-12 from the parasite H. contortus (hcDAF-12) (AID 652067)
+    - qHTS of TDP-43 Inhibitors (AID 652104)
+    - qHTS for Inhibitors of phosphatidylinositol 5-phosphate 4-kinase (PI5P4K) (AID
+      652105)
+    - qHTS of alpha-syn Inhibitors (AID 652106)
+    - Luminescence-based cell-based primary high throughput screening assay to identify
+      activators of the DAF-12 from the parasite S. stercoralis (ssDAF-12) (AID 652126)
+    - 'C. difficile toxins: HTS for inhibitors of TcdB glycohydrolase activity Measured
+      in Biochemical System Using Plate Reader - 7074-01_Inhibitor_SinglePoint_HTS_Activity
+      (AID 652162)'
+    - 'S100A4: HTS Measured in Biochemical System Using Plate Reader - 7045-01_Inhibitor_SinglePoint_HTS_Activity
+      (AID 652163)'
+    - MLPCN ERAP1 Measured in Biochemical System Using Plate Reader - 7016-01_Inhibitor_SinglePoint_HTS_Activity
+      (AID 652197)
+    - Primary biochemical fluorescence polarization-based high throughput screening
+      assay to identify inhibitors of protein arginine methyltransferase 1 (PRMT1)
+      (AID 652257)
+    - Luminescence-based cell-based primary high throughput screening assay to identify
+      inhibitors of COUP-TFII (NR2F2) (AID 686940)
+    - TRFRET-based biochemical primary high throughput screening assay to identify
+      inhibitors of 5-meCpG-binding domain protein 2 (MBD2)-DBD binding to methylated
+      oligonucleotide (AID 686964)
+    - 'qHTS for induction of synthetic lethality in tumor cells producing 2HG: qHTS
+      for the HT-1080-IDH1KD cell line (AID 686971)'
+    - 'qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in
+      cells in absence of CPT (AID 686978)'
+    - 'qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in
+      cells in presence of CPT (AID 686979)'
+    - VEID(2) R110 Enzymatic Primary HTS to identify Inhibitors of Caspase 6 Measured
+      in Biochemical System Using Plate Reader - 7052-01_Inhibitor_SinglePoint_HTS_Activity_Set2
+      (AID 686996)
+    - Luminescence-based cell-based primary high throughput screening assay to identify
+      agonists of the DAF-12 from the parasite H. glycines (hgDAF-12). (AID 687014)
+    - 'Counterscreen for inhibitors of 5-meCpG-binding domain protein 2 (MBD2): TRFRET-based
+      biochemical primary high throughput screening assay to identify inhibitors of
+      binding of ubiquitin-like with PHD and ring finger domains 1 (UHRF1) to methylated
+      oligonucleotide (AID 687016)'
+    - 'qHTS for Inhibitors of PLK1-PDB (polo-like kinase 1 - polo-box domain): Primary
+      Screen (AID 720504)'
+    - Fluorescence polarization-based biochemical primary high throughput screening
+      assay to identify inhibitors that disrupt the binding of a cyclic peptide (Tn7)
+      to the fibrin proteolytic product D-Dimer and fragment E complex [DD(E )] (AID
+      720508)
+    - Fluorescence polarization-based biochemical primary high throughput screening
+      assay to identify inhibitors that disrupt the binding of a cyclic peptide (Tn6)
+      to the fibrin proteolytic product D-Dimer and fragment E complex [DD(E )] (AID
+      720509)
+    - Identification of Small Molecule Correctors of the Cystic Fibrosis Transmembrane
+      Conductance Regulator (CFTR) Delta508 Mutation Function in Human Bronchial Epithelial
+      Cells. Measured in Cell-Based System Using Plate Reader - 7017-01_Other_SinglePoint_HTS_Activity
+      (AID 720511)
+    - 'qHTS assay for small molecules that induce genotoxicity in human embryonic
+      kidney cells expressing luciferase-tagged ATAD5: Summary (AID 720516)'
+    - 'qHTS for Inhibitors of AMA1-RON; Towards Development of Antimalarial Drug Lead:
+      Primary Screen (AID 720542)'
+    - Fluorescence polarization-based biochemical high throughput primary assay to
+      identify inhibitors of alpha/beta hydrolase domain containing 4 (ABHD4). (AID
+      720543)
+    - 'qHTS for Inhibitors of KCHN2 3.1: Wildtype qHTS (AID 720551)'
+    - 'qHTS assay for small molecule agonists of the p53 signaling pathway: Summary
+      (AID 720552)'
+    - 'qHTS for Inhibitors of KCHN2 3.1: Mutant qHTS (AID 720553)'
+    - 'qHTS for Stage-Specific Inhibitors of Vaccinia Orthopoxvirus: mCherry Reporter
+      Primary qHTS (AID 720579)'
+    - 'qHTS for Stage-Specific Inhibitors of Vaccinia Orthopoxvirus: Venus Reporter
+      Primary qHTS (AID 720580)'
+    - QFRET-based biochemical primary high throughput screening assay to identify
+      exosite inhibitors of ADAM10. (AID 720582)
+    - TRFRET-based cell-based primary high throughput screening assay to identify
+      inhibitors of cell surface Prion Protein (PRPC) (AID 720596)
+    - qHTS assay for small molecule disruptors of the mitochondrial membrane potential
+      - cell viability (AID 720634)
+    - qHTS assay for small molecule disruptors of the mitochondrial membrane potential
+      (AID 720635)
+    - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+      signaling pathway measured by Nrf2-dependant transcriptional activity (AID 720636)
+    - 'qHTS assay for small molecule disruptors of the mitochondrial membrane potential:
+      Summary (AID 720637)'
+    - Bursicon-induced LGR2 mediated cAMP production in LGR-2/CRE6x-Luciferase co-transfected
+      HEK293 cells Inhibition (AID 720647)
+    - QFRET-based biochemical primary high throughput screening assay to identify
+      exosite inhibitors of ADAM17. (AID 720648)
+    - qHTS assay for small molecule antagonists of the retinoid-related orphan receptor
+      gamma (ROR-gamma) signaling pathway - cell viability counter screen (AID 720652)
+    - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+      signaling pathway measured by Nrf2-dependant transcriptional activity - cell
+      viability counter screen (AID 720653)
+    - qHTS assay for small molecule activators of the human pregnane X receptor (PXR)
+      signaling pathway (AID 720659)
+    - qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cells
+      (AID 720674)
+    - qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2
+      cells (AID 720675)
+    - qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293
+      cells (AID 720678)
+    - qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293
+      cells (AID 720679)
+    - qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293
+      cells (AID 720680)
+    - qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293
+      cell free culture (AID 720681)
+    - qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293
+      cell free culture (AID 720682)
+    - qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293
+      cell free culture (AID 720683)
+    - qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cell
+      free culture (AID 720684)
+    - qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2
+      cell free culture (AID 720685)
+    - qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2
+      cell free culture (AID 720686)
+    - qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2
+      cells (AID 720687)
+    - qHTS assay to identify small molecule agonists of the glucocorticoid receptor
+      (GR) signaling pathway (AID 720691)
+    - qHTS assay to identify small molecule antagonists of the glucocorticoid receptor
+      (GR) signaling pathway (AID 720692)
+    - qHTS assay to identify small molecule antagonists of the glucocorticoid receptor
+      (GR) signaling pathway - cell viability counter screen (AID 720693)
+    - Fluorescence-based biochemical high throughput primary assay to identify inhibitors
+      of phospholipase C isozymes (PLC-gamma1). (AID 720700)
+    - Epi Absorbance-based biochemical primary high throughput screening assay to
+      identify inhibitors of human tyrosyl-DNA phosphodiesterase 2 (TDP2) (AID 720702)
+    - Fluorescence-based biochemical high throughput primary assay to identify inhibitors
+      of phospholipase C isozymes (PLC-beta3). (AID 720704)
+    - HTS for Bacterial rRNA inhibitors Measured in Microorganism-Based System Using
+      Plate Reader - 7056-01_Inhibitor_SinglePoint_HTS_Activity (AID 720706)
+    - 'qHTS for Agonist of cAMP-regulated guanine nucleotide exchange factor 3 (EPAC1):
+      primary screen (AID 720707)'
+    - 'qHTS for Antagonist of cAMP-regulated guanine nucleotide exchange factor 2
+      (EPAC2): primary screen (AID 720708)'
+    - 'qHTS for Antagonist of cAMP-regulated guanine nucleotide exchange factor 3
+      (EPAC1): primary screen (AID 720709)'
+    - 'qHTS for Agonist of cAMP-regulated guanine nucleotide exchange factor 4 (EPAC2):
+      primary screen (AID 720711)'
+    - 'qHTS assay to identify small molecule agonists of the glucocorticoid receptor
+      (GR) signaling pathway: Summary (AID 720719)'
+    - 'qHTS assay to identify small molecule antagonists of the glucocorticoid receptor
+      (GR) signaling pathway: Summary (AID 720725)'
+    - qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+      against isogenic chicken DT40 cell lines with known DNA damage response pathways
+      - wild type cell line (AID 743012)
+    - qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+      against isogenic chicken DT40 cell lines with known DNA damage response pathways
+      - Rev3 mutant cell line (AID 743014)
+    - qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+      against isogenic chicken DT40 cell lines with known DNA damage response pathways
+      - Rad54/Ku70 mutant cell line (AID 743015)
+    - qHTS assay to identify small molecule antagonists of the androgen  receptor
+      (AR) signaling pathway - cell viability counter screen (AID 743033)
+    - qHTS assay to identify small molecule antagonists of the androgen receptor (AR)
+      signaling pathway (AID 743035)
+    - qHTS assay to identify small molecule agonists of the androgen receptor (AR)
+      signaling pathway (AID 743036)
+    - qHTS assay to identify small molecule agonists of the androgen  receptor (AR)
+      signaling pathway using the MDA cell line (AID 743040)
+    - qHTS assay to identify small molecule antagonists of the androgen  receptor
+      (AR) signaling pathway using the MDA cell line - cell viability counter screen
+      (AID 743041)
+    - qHTS assay to identify small molecule antagonists of the androgen  receptor
+      (AR) signaling pathway using the MDA cell line (AID 743042)
+    - 'qHTS assay to identify small molecule agonists of the androgen receptor (AR)
+      signaling pathway: Summary (AID 743053)'
+    - 'qHTS assay to identify small molecule antagonists of the androgen receptor
+      (AR) signaling pathway using the MDA cell line: Summary (AID 743054)'
+    - 'qHTS assay to identify small molecule antagonists of the androgen receptor
+      (AR) signaling pathway: Summary (AID 743063)'
+    - qHTS assay to identify small molecule antagonists of the thyroid receptor (TR)
+      signaling pathway - cell viability counter screen (AID 743064)
+    - qHTS assay to identify small molecule antagonists of the thyroid receptor (TR)
+      signaling pathway (AID 743065)
+    - qHTS assay to identify small molecule agonists of the thyroid receptor (TR)
+      signaling pathway (AID 743066)
+    - 'qHTS assay to identify small molecule antagonists of the thyroid receptor (TR)
+      signaling pathway: Summary (AID 743067)'
+    - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway (AID 743069)
+    - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway - cell viability counter screen (AID 743074)
+    - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway (AID 743075)
+    - 'qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway: Summary (AID 743077)'
+    - 'qHTS assay to identify small molecule antagonists of the estrogen receptor
+      alpha (ER-alpha) signaling pathway: Summary (AID 743078)'
+    - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
+    - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway using the BG1 cell line (AID 743080)
+    - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway using the BG1 cell line - cell viability counter
+      screen (AID 743081)
+    - qHTS assay to identify aromatase inhibitors (AID 743083)
+    - qHTS assay to identify aromatase inhibitors - cell viability counter screen
+      (AID 743084)
+    - qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
+      (AhR) signaling pathway (AID 743085)
+    - qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
+      (AhR) signaling pathway - cell viability counter screen (AID 743086)
+    - 'qHTS assay to identify small molecule antagonists of the estrogen receptor
+      alpha (ER-alpha) signaling pathway using the BG1 cell line: Summary (AID 743091)'
+    - qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+      receptor gamma (PPARg) signaling pathway (AID 743094)
+    - 'qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
+      (AhR) signaling pathway: Summary (AID 743122)'
+    - QFRET-based biochemical high throughput primary assay to identify inhibitors
+      of human group III secreted phospholipase A2 enzyme (HGIII-sPLA2) (AID 743126)
+    - 'qHTS assay to identify aromatase inhibitors: Summary (AID 743139)'
+    - 'qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+      receptor gamma (PPARg) signaling pathway: Summary (AID 743140)'
+    - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor gamma (PPARg) signaling pathway (AID 743191)
+    - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor gamma (PPARg) signaling pathway - cell viability counter screen (AID
+      743194)
+    - 'qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor gamma (PPARg) signaling pathway: Summary (AID 743199)'
+    - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+      signaling pathway (AID 743202)
+    - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+      signaling pathway - cell viability counter screen (AID 743203)
+    - qHTS assay for small molecule activators of the heat shock response signaling
+      pathway - cell viability counter screen (AID 743209)
+    - qHTS assay for small molecule activators of the heat shock response signaling
+      pathway (AID 743210)
+    - qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway - cell viability counter screen (AID
+      743211)
+    - qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway (AID 743212)
+    - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway - cell viability counter screen (AID
+      743213)
+    - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway (AID 743215)
+    - qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
+      (FXR) signaling pathway (AID 743217)
+    - qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR)
+      signaling pathway - cell viability counter screen (AID 743218)
+    - 'qHTS assay for small molecule agonists of the antioxidant response element
+      (ARE) signaling pathway: Summary (AID 743219)'
+    - qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR)
+      signaling pathway (AID 743220)
+    - qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
+      (FXR) signaling pathway - cell viability counter screen (AID 743221)
+    - qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR)
+      signaling pathway (AID 743222)
+    - qHTS assay to identify small molecule antagonists of the vitamin D receptor
+      (VDR) signaling pathway (AID 743223)
+    - qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR)
+      signaling pathway - cell viability counter screen (AID 743224)
+    - qHTS assay to identify small molecule antagonists of the vitamin D receptor
+      (VDR) signaling pathway - cell viability counter screen (AID 743225)
+    - 'qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway: Summary (AID 743226)'
+    - 'qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway: Summary (AID 743227)'
+    - 'qHTS assay for small molecule activators of the heat shock response signaling
+      pathway: Summary (AID 743228)'
+    - 'qHTS assay to identify small molecule agonists of the farnesoid-X-receptor
+      (FXR) signaling pathway: Summary (AID 743239)'
+    - 'qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
+      (FXR) signaling pathway: Summary (AID 743240)'
+    - 'qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR)
+      signaling pathway: Summary (AID 743241)'
+    - 'qHTS assay to identify small molecule antagonists of the vitamin D receptor
+      (VDR) signaling pathway: Summary (AID 743242)'
+    - 'Inhibitors of USP1/UAF1: Primary Screen (AID 743255)'
+    - 'qHTS of PTHR Inhibitors: Primary Screen (AID 743266)'
+    - TRFRET-based biochemical primary high throughput screening assay to identify
+      inhibitors of HIV-1 LEDGF/p75 DNA Integration (AID 743269)
+    - 'qHTS for Inhibitors of Inflammasome Signaling:  IL-1-beta AlphaLISA Primary
+      Screen (AID 743279)'
+    - Luminescent GLuc Reporter Gene Assay Primary HTS to Identify Small Molecule
+      Activator of Glucose Dependent Insulin Secretion Measured in Cell-Based System
+      Using Plate Reader - 7055-01_Activator_SinglePoint_HTS_Activity (AID 743287)
+    - qHTS assay for cell viability of HEK293 cells (AID 743288)
+    - qHTS assay for cell viability of the p53RE-bla HCT-116 cell line (AID 743292)
+    - Wnt/Beta-catenin HTS Measured in Cell-Based System Using Plate Reader - 2161-01_Activator_SinglePoint_HTS_Activity
+      (AID 743398)
+    - A screen for compounds that inhibit growth of Escherichia coli (AID 1053175)
+    - Fluorescence polarization-based biochemical high throughput primary assay to
+      identify inhibitors of sialic acid acetylesterase (SIAE) (AID 1053197)
+    - qHTS assay to identify small molecule agonists of the NFkB signaling pathway
+      (AID 1159509)
+    - qHTS assay to identify small molecule agonists of the NFkB signaling pathway
+      - cell viability counter screen (AID 1159515)
+    - qHTS assay to identify small molecule agonists of the endoplasmic reticulum
+      stress response signaling pathway (AID 1159516)
+    - qHTS assay to identify small molecule agonists of the endoplasmic reticulum
+      stress response signaling pathway - cell viability counter screen (AID 1159517)
+    - 'qHTS assay to identify small molecule agonists of the NFkB signaling pathway:
+      Summary (AID 1159518)'
+    - 'qHTS assay to identify small molecule agonists of the endoplasmic reticulum
+      stress response signaling pathway: Summary (AID 1159519)'
+    - qHTS assay to identify small molecule antagonists of the retinoid-related orphan
+      receptor gamma (ROR-gamma) signaling pathway - cell viability counter screen
+      (AID 1159520)
+    - qHTS assay to identify small molecule antagonists of the retinoid-related orphan
+      receptor gamma (ROR-gamma) signaling pathway  (AID 1159521)
+    - 'qHTS assay to identify small molecule antagonists of the retinoid-related orphan
+      receptor gamma (ROR-gamma) signaling pathway: Summary (AID 1159523)'
+    - High Throughput Screening for Foot and Mouth Disease Virus Antivirals (AID 1159524)
+    - qHTS assay to identify small molecule agonists of the AP-1 signaling pathway
+      - cell viability counter screen (AID 1159525)
+    - qHTS assay to identify small molecule agonists of the AP-1 signaling pathway
+      (AID 1159526)
+    - qHTS assay to identify small molecule agonists of the RXR signaling pathway
+      (AID 1159527)
+    - 'qHTS assay to identify small molecule agonists of the AP-1 signaling pathway:
+      Summary (AID 1159528)'
+    - qHTS assay to identify small molecule agonists of the RXR signaling pathway
+      - cell viability counter screen (AID 1159529)
+    - 'qHTS assay to identify small molecule agonists of the RXR signaling pathway:
+      Summary (AID 1159531)'
+    - qHTS assay to identify small molecule antagonists of the retinoid acid receptor
+      (RAR) signaling pathway - cell viability counter screen (AID 1159551)
+    - qHTS assay to identify small molecule antagonists of the retinoic acid receptor
+      (RAR) signaling pathway  (AID 1159552)
+    - qHTS assay to identify small molecule agonists of the retinoic acid receptor
+      (RAR) signaling pathway (AID 1159553)
+    - 'qHTS assay to identify small molecule antagonists of the retinoic acid receptor
+      (RAR) signaling pathway: Summary (AID 1159555)'
+  :different:
+  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary SingleCellCall Results (AID
+    1189)
+  - DSSTox (CPDBAS) Carcinogenic Potency Database Salmonella Mutagenicity (AID 1194)
+  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Mouse Bioassay Results (AID
+    1199)
+  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary MultiCellCall Results (AID
+    1205)
+  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Rat Bioassay Results (AID
+    1208)
+  - qHTS assay for small molecule disruptors of the mitochondrial membrane potential
+    (AID 720635)
+  - 'qHTS assay for small molecule disruptors of the mitochondrial membrane potential:
+    Summary (AID 720637)'
+  - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+    (ER-alpha) signaling pathway (AID 743075)
+  - 'qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+    (ER-alpha) signaling pathway: Summary (AID 743077)'
+  - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+    (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
+  - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+    (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
+  - qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
+    (AhR) signaling pathway (AID 743085)
+  - 'qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
+    (AhR) signaling pathway: Summary (AID 743122)'
+  - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+    signaling pathway (AID 743202)
+  - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+    receptor delta (PPARd) signaling pathway - cell viability counter screen (AID
+    743213)
+  - 'qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+    signaling pathway: Summary (AID 743219)'
+  - 'qHTS assay to identify small molecule agonists of the AP-1 signaling pathway:
+    Summary (AID 1159528)'
+Vicinale Halogenide - Ester:
+  :common:
+    true:
+    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary SingleCellCall Results
+      (AID 1189)
+    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Mouse Bioassay Results
+      (AID 1199)
+    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary MultiCellCall Results
+      (AID 1205)
+    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Rat Bioassay Results (AID
+      1208)
+    false:
+    - Cell Viability - BJ (AID 421)
+    - Cell Viability - Jurkat (AID 426)
+    - Cell Viability - Hek293 (AID 427)
+    - Cell Viability - HepG2 (AID 433)
+    - Cell Viability - MRC5 (AID 434)
+    - Cell Viability - SK-N-SH (AID 435)
+    - IkB Signaling (AID 445)
+    - JNK3 AlphaScreen Assay (AID 530)
+    - Cell Viability - N2a (AID 540)
+    - Cell Viability - NIH 3T3 (AID 541)
+    - Cell Viability - HUV-EC-C (AID 542)
+    - Cell Viability - H-4-II-E (AID 543)
+    - Cell Viability - SH-SY5Y (AID 544)
+    - Cell Viability - Renal Proximal Tubule (AID 545)
+    - Cell Viability - Mesenchymal (AID 546)
+    - Promiscuous and Specific Inhibitors of AmpC Beta-Lactamase (assay with detergent)
+      (AID 584)
+    - Promiscuous and Specific Inhibitors of AmpC Beta-Lactamase (assay without detergent)
+      (AID 585)
+    - qHTS Assay for Disrupters of an Hsp90 Co-Chaperone Interaction (AID 595)
+    - qHTS Assay for Tau Filament Binding (AID 596)
+    - qHTS Assay for Inhibitors of DNA Polymerase III Holoenzyme System (AID 603)
+    - qHTS Assay for Inhibitors of YjeE (AID 605)
+    - Cellular Toxicity (caspase-3) HepG2 (AID 654)
+    - Cellular Toxicity (caspase-3) Jurkat (AID 655)
+    - Cellular Toxicity (caspase-3) HUV-EC-C (AID 656)
+    - Cellular Toxicity (caspase-3) SHSY5Y (AID 657)
+    - Cellular Toxicity (caspase-3) BJ (AID 658)
+    - Cellular Toxicity (caspase-3) MRC-5 (AID 659)
+    - Cellular Toxicity (caspase-3) Mesangial (AID 660)
+    - Cellular Toxicity (caspase-3) SK-N-SH (AID 661)
+    - Cell signaling CRE-BLA (Fsk stim) (AID 662)
+    - Cellular Toxicity (caspase-3) H-4-II-E (AID 663)
+    - Cellular Toxicity (caspase-3) Hek293 (AID 664)
+    - Cellular Toxicity (caspase-3) N2a (AID 665)
+    - Cellular Toxicity (caspase-3) NIH 3T3 (AID 666)
+    - Cellular Toxicity (caspase-3) Renal Proximal Tubule (AID 667)
+    - qHTS Assay for Inhibitors of BRCT-Phosphoprotein Interaction (Green Fluorophore)
+      (AID 875)
+    - qHTS Assay for Inhibitors of RGS12 GoLoco Motif Activity (Red Fluorophore) (AID
+      880)
+    - qHTS Assay for Inhibitors of 15-hLO-2 (15-human lipoxygenase 2) (AID 881)
+    - qHTS Assay for Inhibitors and Substrates of Cytochrome P450 3A4 (AID 884)
+    - qHTS Assay for Activators of Cytochrome P450 3A4 (AID 885)
+    - qHTS Assay for Inhibitors of HADH2 (Hydroxyacyl-Coenzyme A Dehydrogenase, Type
+      II) (AID 886)
+    - qHTS Assay for Inhibitors of 15-hLO (15-human lipoxygenase) (AID 887)
+    - qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-7 (AID 889)
+    - qHTS Assay for Inhibitors of BRCT-Phosphoprotein Interaction (Red Fluorophore)
+      (AID 892)
+    - qHTS Assay for Inhibitors of HSD17B4, hydroxysteroid (17-beta) dehydrogenase
+      4 (AID 893)
+    - qHTS Assay for Inhibitors of HPGD (15-Hydroxyprostaglandin Dehydrogenase) (AID
+      894)
+    - qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-1 (AID 900)
+    - 'qHTS Screen for Compounds that Selectively Target Cancer Cells with p53 Mutations:
+      Cytotoxicity of p53ts Cells at the Nonpermissive Temperature (AID 902)'
+    - qHTS Assay for Anthrax Lethal Toxin Internalization (AID 912)
+    - Cell Viability - LYMP2-001 (AID 921)
+    - 'qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-1: Spectroscopic
+      Profiling in AFC Spectral Region (AID 923)'
+    - 'qHTS Screen for Compounds that Selectively Target Cancer Cells with p53 Mutations:
+      Cytotoxicity of p53ts Cells at the Permissive Temperature (AID 924)'
+    - qHTS Assay for Modulators of Hemoglobin Beta Chain Splicing (AID 925)
+    - qHTS Assay for Agonists of the Thyroid Stimulating Hormone Receptor (AID 926)
+    - 'qHTS Assay for Agonists of the Thyroid Stimulating Hormone Receptor: Activators
+      of Intracellular cAMP Concentrations in Parental HEK 293 (AID 938)'
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-001 - Dead Cells (AID 946)
+    - Cell Viability - LYMP1-002 - Assay at 16 hr (AID 948)
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-002 - Live Cells (AID 955)
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-002 - Dead Cells (AID 960)
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-003 - Dead Cells (AID 961)
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-003 - Live Cells (AID 962)
+    - Cell Viability - LYMP1-003 - Assay at 24 hr (AID 963)
+    - Cell Viability - LYMP1-003 - Assay at 40 hr (AID 964)
+    - Cell Viability - LYMP2-003 (AID 965)
+    - Cell Viability - LYMP2-004 (AID 966)
+    - Cell Viability - LYMP2-005 (AID 967)
+    - Cell Viability - LYMP2-009 (AID 968)
+    - Cell Viability - LYMP2-011 (AID 969)
+    - Cell Viability - LYMP2-013 (AID 970)
+    - Cell Viability - LYMP2-015 (AID 971)
+    - Cell Viability - LYMP2-017 (AID 972)
+    - Cell Viability - LYMP2-019 (AID 973)
+    - Cell Viability - LYMP2-021 (AID 974)
+    - Cell Viability - LYMP2-023 (AID 975)
+    - Cell Viability - LYMP2-025 (AID 976)
+    - Cell Viability - LYMP2-002 (AID 977)
+    - Cell Viability - LYMP2-006 (AID 978)
+    - Cell Viability - LYMP2-007 (AID 979)
+    - Cell Viability - LYMP2-008 (AID 980)
+    - Cell Viability - LYMP2-010 (AID 981)
+    - Cell Viability - LYMP2-012 (AID 982)
+    - Cell Viability - LYMP2-014 (AID 983)
+    - Cell Viability - LYMP2-016 (AID 984)
+    - Cell Viability - LYMP2-018 (AID 985)
+    - Cell Viability - LYMP2-020 (AID 986)
+    - Cell Viability - LYMP2-022 (AID 987)
+    - Cell Viability - LYMP2-024 (AID 988)
+    - Cell Viability - LYMP2-026 (AID 989)
+    - Cell Viability - LYMP1-002 - Assay at 24 hr (AID 993)
+    - Cell Viability - LYMP1-002 - Assay at 40 hr (AID 994)
+    - qHTS Assay for Inhibitors of the ERK Signaling Pathway using a Homogeneous Screening
+      Assay (AID 995)
+    - qHTS Assay for Inhibitors of Aldehyde Dehydrogenase 1 (ALDH1A1) (AID 1030)
+    - qHTS Assay for Inhibitors of 12-hLO (12-human lipoxygenase) (AID 1452)
+    - 'qHTS Assay for Identifying the Cell-Membrane Permeable IMPase Inhibitors: Potentiation
+      with Lithium (AID 1457)'
+    - qHTS Assay for Enhancers of SMN2 Splice Variant Expression (AID 1458)
+    - qHTS for Inhibitors of the Interaction of Thyroid Hormone Receptor and Steroid
+      Receptor Coregulator 2 (AID 1469)
+    - 'qHTS Multiplex Assay to Identify Dual Action Probes in a Cell Model of Huntington:
+      Cytoprotection (ATP) (AID 1471)'
+    - qHTS Assay for Promiscuous and Specific Inhibitors of Cruzain (without detergent)
+      (AID 1476)
+    - qHTS Assay for Compounds Blocking the Interaction Between CBF-beta and RUNX1
+      for the Treatment of Acute Myeloid Leukemia (AID 1477)
+    - qHTS Assay for Promiscuous and Specific Inhibitors of Cruzain (with detergent)
+      (AID 1478)
+    - Total Fluorescence Counterscreen for Inhibitors of the Interaction of Thyroid
+      Hormone Receptor and Steroid Receptor Coregulator 2 (AID 1479)
+    - qHTS Assay for Compounds that Induce Erasure of Genomic Imprints (AID 1948)
+    - qHTS Assay for Inhibitors and Activators of N370S glucocerebrosidase as a Potential
+      Chaperone Treatment of Gaucher Disease (AID 2101)
+    - qHTS Assay for Inhibitors and Activators of Human alpha-Galactosidase From Spleen
+      Homogenate (AID 2107)
+    - qHTS Assay for Inhibitors and Activators of Human alpha-Glucosidase From Spleen
+      Homogenate (AID 2112)
+    - qHTS Assay for Identification of Small Molecule Inducers of Hypoxia Response
+      (AID 2120)
+    - qHTS Assay for Inhibitors of the Human Apurinic/apyrimidinic Endonuclease 1
+      (APE1) (AID 2517)
+    - VP16 counterscreen qHTS for inhibitors of ROR gamma transcriptional activity
+      (AID 2546)
+    - qHTS Assay for Inhibitors of RecQ-Like Dna Helicase 1 (RECQ1) (AID 2549)
+    - qHTS for inhibitors of ROR gamma transcriptional activity (AID 2551)
+    - qHTS Assay for Inhibitors of Tyrosyl-DNA Phosphodiesterase (TDP1) (AID 485290)
+    - qHTS assay for small molecule antagonists of estrogen receptor alpha signaling
+      (AID 588513)
+    - qHTS assay for small molecule agonists of estrogen receptor alpha signaling
+      (AID 588514)
+    - qHTS assay for small molecule agonists of androgen receptor signaling (AID 588515)
+    - qHTS assay for small molecule antagonists of androgen receptor signaling (AID
+      588516)
+    - qHTS assay for small molecule antagonists of farnesoid X receptor signaling
+      (AID 588526)
+    - qHTS assay for small molecule agonists of farnesoid X receptor signaling (AID
+      588527)
+    - qHTS assay for small molecule agonists of glucocorticoid receptor signaling
+      (AID 588532)
+    - qHTS assay for small molecule antagonists of glucocorticoid receptor signaling
+      (AID 588533)
+    - qHTS assay for small molecule agonists of peroxisome proliferator-activated
+      receptor delta signaling (AID 588534)
+    - qHTS assay for small molecule antagonists of vitamin D receptor signaling (AID
+      588541)
+    - qHTS assay for small molecule agonists of vitamin D receptor signaling (AID
+      588543)
+    - qHTS assay for small molecule agonists of retinoid X receptor alpha signaling
+      (AID 588544)
+    - qHTS assay for small molecule agonists of thyroid hormone receptor beta signaling
+      (AID 588545)
+    - qHTS assay for small molecule antagonists of retinoid X receptor alpha signaling
+      (AID 588546)
+    - qHTS assay for small molecule antagonists of thyroid hormone receptor beta signaling
+      (AID 588547)
+    - qHTS Assay for Small Molecule Inhibitors of the Human hERG Channel Activity
+      (AID 588834)
+    - qHTS assay for small molecule agonists of the p53 signaling pathway (AID 651631)
+    - qHTS assay for small molecules that induce genotoxicity in human embryonic kidney
+      cells expressing luciferase-tagged ATAD5 (AID 651632)
+    - qHTS assay for small molecule agonists of the p53 signaling pathway - cell viability
+      (AID 651633)
+    - qHTS assay for small molecules that induce genotoxicity in human embryonic kidney
+      cells expressing luciferase-tagged ATAD5 - cell viability (AID 651634)
+    - qHTS assay for small molecule activators of the p53 signaling pathway (AID 651743)
+    - qHTS assay for small molecule activators of the nuclear factor-kappa B (NF-kB)
+      signaling pathway (AID 651749)
+    - qHTS assay for small molecule activators of the rat pregnane X receptor (rPXR)
+      signaling pathway (AID 651751)
+    - qHTS assay for small molecule disruptors of the mitochondrial membrane potential
+      - 1 hr assay (AID 651754)
+    - qHTS assay for small molecule disruptors of the mitochondrial membrane potential
+      - 5 hr assay (AID 651755)
+    - qHTS assay to identify small molecules that stimulate Tumor Necrosis Factor-alpha
+      (TNF-alpha) secretion (AID 651757)
+    - qHTS assay for environmental chemicals that activate the Aryl hydrocarbon Receptor
+      (AhR) signaling pathway (AID 651777)
+    - qHTS assay for small molecule agonists of the peroxisome proliferator-activated
+      receptor alpha (PPARalpha) signaling pathway (AID 651778)
+    - qHTS assay for small molecule antagonists of the retinoid-related orphan receptor
+      gamma (ROR-gamma) signaling pathway (AID 651802)
+    - qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+      against a panel of isogenic chicken DT40 cell lines with known DNA damage response
+      pathways (AID 651838)
+    - 'qHTS assay for small molecules that induce genotoxicity in human embryonic
+      kidney cells expressing luciferase-tagged ATAD5: Summary (AID 720516)'
+    - 'qHTS assay for small molecule agonists of the p53 signaling pathway: Summary
+      (AID 720552)'
+    - qHTS assay for small molecule disruptors of the mitochondrial membrane potential
+      - cell viability (AID 720634)
+    - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+      signaling pathway measured by Nrf2-dependant transcriptional activity (AID 720636)
+    - qHTS assay for small molecule antagonists of the retinoid-related orphan receptor
+      gamma (ROR-gamma) signaling pathway - cell viability counter screen (AID 720652)
+    - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+      signaling pathway measured by Nrf2-dependant transcriptional activity - cell
+      viability counter screen (AID 720653)
+    - qHTS assay for small molecule activators of the human pregnane X receptor (PXR)
+      signaling pathway (AID 720659)
+    - qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cells
+      (AID 720674)
+    - qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2
+      cells (AID 720675)
+    - qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293
+      cells (AID 720678)
+    - qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293
+      cells (AID 720679)
+    - qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293
+      cells (AID 720680)
+    - qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293
+      cell free culture (AID 720681)
+    - qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293
+      cell free culture (AID 720682)
+    - qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293
+      cell free culture (AID 720683)
+    - qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cell
+      free culture (AID 720684)
+    - qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2
+      cell free culture (AID 720685)
+    - qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2
+      cell free culture (AID 720686)
+    - qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2
+      cells (AID 720687)
+    - qHTS assay to identify small molecule agonists of the glucocorticoid receptor
+      (GR) signaling pathway (AID 720691)
+    - qHTS assay to identify small molecule antagonists of the glucocorticoid receptor
+      (GR) signaling pathway - cell viability counter screen (AID 720693)
+    - 'qHTS assay to identify small molecule agonists of the glucocorticoid receptor
+      (GR) signaling pathway: Summary (AID 720719)'
+    - 'qHTS assay to identify small molecule antagonists of the glucocorticoid receptor
+      (GR) signaling pathway: Summary (AID 720725)'
+    - qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+      against isogenic chicken DT40 cell lines with known DNA damage response pathways
+      - wild type cell line (AID 743012)
+    - qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+      against isogenic chicken DT40 cell lines with known DNA damage response pathways
+      - Rev3 mutant cell line (AID 743014)
+    - qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+      against isogenic chicken DT40 cell lines with known DNA damage response pathways
+      - Rad54/Ku70 mutant cell line (AID 743015)
+    - qHTS assay to identify small molecule antagonists of the androgen  receptor
+      (AR) signaling pathway - cell viability counter screen (AID 743033)
+    - qHTS assay to identify small molecule antagonists of the androgen receptor (AR)
+      signaling pathway (AID 743035)
+    - qHTS assay to identify small molecule agonists of the androgen receptor (AR)
+      signaling pathway (AID 743036)
+    - qHTS assay to identify small molecule agonists of the androgen  receptor (AR)
+      signaling pathway using the MDA cell line (AID 743040)
+    - qHTS assay to identify small molecule antagonists of the androgen  receptor
+      (AR) signaling pathway using the MDA cell line - cell viability counter screen
+      (AID 743041)
+    - qHTS assay to identify small molecule antagonists of the androgen  receptor
+      (AR) signaling pathway using the MDA cell line (AID 743042)
+    - 'qHTS assay to identify small molecule agonists of the androgen receptor (AR)
+      signaling pathway: Summary (AID 743053)'
+    - 'qHTS assay to identify small molecule antagonists of the androgen receptor
+      (AR) signaling pathway using the MDA cell line: Summary (AID 743054)'
+    - 'qHTS assay to identify small molecule antagonists of the androgen receptor
+      (AR) signaling pathway: Summary (AID 743063)'
+    - qHTS assay to identify small molecule antagonists of the thyroid receptor (TR)
+      signaling pathway - cell viability counter screen (AID 743064)
+    - qHTS assay to identify small molecule antagonists of the thyroid receptor (TR)
+      signaling pathway (AID 743065)
+    - qHTS assay to identify small molecule agonists of the thyroid receptor (TR)
+      signaling pathway (AID 743066)
+    - 'qHTS assay to identify small molecule antagonists of the thyroid receptor (TR)
+      signaling pathway: Summary (AID 743067)'
+    - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway (AID 743069)
+    - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway - cell viability counter screen (AID 743074)
+    - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway (AID 743075)
+    - 'qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway: Summary (AID 743077)'
+    - 'qHTS assay to identify small molecule antagonists of the estrogen receptor
+      alpha (ER-alpha) signaling pathway: Summary (AID 743078)'
+    - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
+    - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway using the BG1 cell line (AID 743080)
+    - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway using the BG1 cell line - cell viability counter
+      screen (AID 743081)
+    - qHTS assay to identify aromatase inhibitors (AID 743083)
+    - qHTS assay to identify aromatase inhibitors - cell viability counter screen
+      (AID 743084)
+    - qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
+      (AhR) signaling pathway (AID 743085)
+    - qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
+      (AhR) signaling pathway - cell viability counter screen (AID 743086)
+    - 'qHTS assay to identify small molecule antagonists of the estrogen receptor
+      alpha (ER-alpha) signaling pathway using the BG1 cell line: Summary (AID 743091)'
+    - qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+      receptor gamma (PPARg) signaling pathway (AID 743094)
+    - 'qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
+      (AhR) signaling pathway: Summary (AID 743122)'
+    - 'qHTS assay to identify aromatase inhibitors: Summary (AID 743139)'
+    - 'qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+      receptor gamma (PPARg) signaling pathway: Summary (AID 743140)'
+    - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor gamma (PPARg) signaling pathway (AID 743191)
+    - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor gamma (PPARg) signaling pathway - cell viability counter screen (AID
+      743194)
+    - 'qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor gamma (PPARg) signaling pathway: Summary (AID 743199)'
+    - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+      signaling pathway (AID 743202)
+    - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+      signaling pathway - cell viability counter screen (AID 743203)
+    - qHTS assay for small molecule activators of the heat shock response signaling
+      pathway - cell viability counter screen (AID 743209)
+    - qHTS assay for small molecule activators of the heat shock response signaling
+      pathway (AID 743210)
+    - qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway - cell viability counter screen (AID
+      743211)
+    - qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway (AID 743212)
+    - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway - cell viability counter screen (AID
+      743213)
+    - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway (AID 743215)
+    - qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
+      (FXR) signaling pathway (AID 743217)
+    - qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR)
+      signaling pathway - cell viability counter screen (AID 743218)
+    - 'qHTS assay for small molecule agonists of the antioxidant response element
+      (ARE) signaling pathway: Summary (AID 743219)'
+    - qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR)
+      signaling pathway (AID 743220)
+    - qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
+      (FXR) signaling pathway - cell viability counter screen (AID 743221)
+    - qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR)
+      signaling pathway (AID 743222)
+    - qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR)
+      signaling pathway - cell viability counter screen (AID 743224)
+    - qHTS assay to identify small molecule antagonists of the vitamin D receptor
+      (VDR) signaling pathway - cell viability counter screen (AID 743225)
+    - 'qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway: Summary (AID 743226)'
+    - 'qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway: Summary (AID 743227)'
+    - 'qHTS assay for small molecule activators of the heat shock response signaling
+      pathway: Summary (AID 743228)'
+    - 'qHTS assay to identify small molecule agonists of the farnesoid-X-receptor
+      (FXR) signaling pathway: Summary (AID 743239)'
+    - 'qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
+      (FXR) signaling pathway: Summary (AID 743240)'
+    - 'qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR)
+      signaling pathway: Summary (AID 743241)'
+    - qHTS assay for cell viability of HEK293 cells (AID 743288)
+    - qHTS assay for cell viability of the p53RE-bla HCT-116 cell line (AID 743292)
+    - qHTS assay to identify small molecule agonists of the NFkB signaling pathway
+      (AID 1159509)
+    - qHTS assay to identify small molecule agonists of the NFkB signaling pathway
+      - cell viability counter screen (AID 1159515)
+    - qHTS assay to identify small molecule agonists of the endoplasmic reticulum
+      stress response signaling pathway - cell viability counter screen (AID 1159517)
+    - 'qHTS assay to identify small molecule agonists of the NFkB signaling pathway:
+      Summary (AID 1159518)'
+    - 'qHTS assay to identify small molecule agonists of the endoplasmic reticulum
+      stress response signaling pathway: Summary (AID 1159519)'
+    - qHTS assay to identify small molecule antagonists of the retinoid-related orphan
+      receptor gamma (ROR-gamma) signaling pathway - cell viability counter screen
+      (AID 1159520)
+    - qHTS assay to identify small molecule antagonists of the retinoid-related orphan
+      receptor gamma (ROR-gamma) signaling pathway  (AID 1159521)
+    - 'qHTS assay to identify small molecule antagonists of the retinoid-related orphan
+      receptor gamma (ROR-gamma) signaling pathway: Summary (AID 1159523)'
+    - qHTS assay to identify small molecule agonists of the AP-1 signaling pathway
+      - cell viability counter screen (AID 1159525)
+    - qHTS assay to identify small molecule agonists of the AP-1 signaling pathway
+      (AID 1159526)
+    - qHTS assay to identify small molecule agonists of the RXR signaling pathway
+      (AID 1159527)
+    - 'qHTS assay to identify small molecule agonists of the AP-1 signaling pathway:
+      Summary (AID 1159528)'
+    - qHTS assay to identify small molecule agonists of the RXR signaling pathway
+      - cell viability counter screen (AID 1159529)
+    - 'qHTS assay to identify small molecule agonists of the RXR signaling pathway:
+      Summary (AID 1159531)'
+    - qHTS assay to identify small molecule antagonists of the retinoid acid receptor
+      (RAR) signaling pathway - cell viability counter screen (AID 1159551)
+    - qHTS assay to identify small molecule antagonists of the retinoic acid receptor
+      (RAR) signaling pathway  (AID 1159552)
+    - qHTS assay to identify small molecule agonists of the retinoic acid receptor
+      (RAR) signaling pathway (AID 1159553)
+  :different:
+  - DSSTox (CPDBAS) Carcinogenic Potency Database Salmonella Mutagenicity (AID 1194)
+  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Rat Bioassay Results (AID
+    1208)
+  - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+    (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
+Aromaten - Ester:
+  :common:
+    true:
+    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary SingleCellCall Results
+      (AID 1189)
+    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Mouse Bioassay Results
+      (AID 1199)
+    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary MultiCellCall Results
+      (AID 1205)
+    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Rat Bioassay Results (AID
+      1208)
+    false:
+    - Cell Viability - BJ (AID 421)
+    - Cell Viability - Jurkat (AID 426)
+    - Cell Viability - Hek293 (AID 427)
+    - Cell Viability - HepG2 (AID 433)
+    - Cell Viability - MRC5 (AID 434)
+    - Cell Viability - SK-N-SH (AID 435)
+    - IkB Signaling (AID 445)
+    - JNK3 AlphaScreen Assay (AID 530)
+    - Cell Viability - N2a (AID 540)
+    - Cell Viability - NIH 3T3 (AID 541)
+    - Cell Viability - HUV-EC-C (AID 542)
+    - Cell Viability - H-4-II-E (AID 543)
+    - Cell Viability - SH-SY5Y (AID 544)
+    - Cell Viability - Renal Proximal Tubule (AID 545)
+    - Cell Viability - Mesenchymal (AID 546)
+    - Promiscuous and Specific Inhibitors of AmpC Beta-Lactamase (assay with detergent)
+      (AID 584)
+    - Promiscuous and Specific Inhibitors of AmpC Beta-Lactamase (assay without detergent)
+      (AID 585)
+    - qHTS Assay for Disrupters of an Hsp90 Co-Chaperone Interaction (AID 595)
+    - qHTS Assay for Tau Filament Binding (AID 596)
+    - qHTS Assay for Inhibitors of DNA Polymerase III Holoenzyme System (AID 603)
+    - qHTS Assay for Inhibitors of YjeE (AID 605)
+    - Cellular Toxicity (caspase-3) HepG2 (AID 654)
+    - Cellular Toxicity (caspase-3) Jurkat (AID 655)
+    - Cellular Toxicity (caspase-3) HUV-EC-C (AID 656)
+    - Cellular Toxicity (caspase-3) SHSY5Y (AID 657)
+    - Cellular Toxicity (caspase-3) BJ (AID 658)
+    - Cellular Toxicity (caspase-3) MRC-5 (AID 659)
+    - Cellular Toxicity (caspase-3) Mesangial (AID 660)
+    - Cellular Toxicity (caspase-3) SK-N-SH (AID 661)
+    - Cell signaling CRE-BLA (Fsk stim) (AID 662)
+    - Cellular Toxicity (caspase-3) H-4-II-E (AID 663)
+    - Cellular Toxicity (caspase-3) Hek293 (AID 664)
+    - Cellular Toxicity (caspase-3) N2a (AID 665)
+    - Cellular Toxicity (caspase-3) NIH 3T3 (AID 666)
+    - Cellular Toxicity (caspase-3) Renal Proximal Tubule (AID 667)
+    - qHTS Assay for Inhibitors of BRCT-Phosphoprotein Interaction (Green Fluorophore)
+      (AID 875)
+    - qHTS Assay for Inhibitors of RGS12 GoLoco Motif Activity (Red Fluorophore) (AID
+      880)
+    - qHTS Assay for Inhibitors of 15-hLO-2 (15-human lipoxygenase 2) (AID 881)
+    - qHTS Assay for Inhibitors and Substrates of Cytochrome P450 3A4 (AID 884)
+    - qHTS Assay for Activators of Cytochrome P450 3A4 (AID 885)
+    - qHTS Assay for Inhibitors of HADH2 (Hydroxyacyl-Coenzyme A Dehydrogenase, Type
+      II) (AID 886)
+    - qHTS Assay for Inhibitors of 15-hLO (15-human lipoxygenase) (AID 887)
+    - qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-7 (AID 889)
+    - qHTS Assay for Inhibitors of BRCT-Phosphoprotein Interaction (Red Fluorophore)
+      (AID 892)
+    - qHTS Assay for Inhibitors of HSD17B4, hydroxysteroid (17-beta) dehydrogenase
+      4 (AID 893)
+    - qHTS Assay for Inhibitors of HPGD (15-Hydroxyprostaglandin Dehydrogenase) (AID
+      894)
+    - qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-1 (AID 900)
+    - 'qHTS Screen for Compounds that Selectively Target Cancer Cells with p53 Mutations:
+      Cytotoxicity of p53ts Cells at the Nonpermissive Temperature (AID 902)'
+    - qHTS Assay for Anthrax Lethal Toxin Internalization (AID 912)
+    - Cell Viability - LYMP2-001 (AID 921)
+    - 'qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-1: Spectroscopic
+      Profiling in AFC Spectral Region (AID 923)'
+    - 'qHTS Screen for Compounds that Selectively Target Cancer Cells with p53 Mutations:
+      Cytotoxicity of p53ts Cells at the Permissive Temperature (AID 924)'
+    - qHTS Assay for Modulators of Hemoglobin Beta Chain Splicing (AID 925)
+    - qHTS Assay for Agonists of the Thyroid Stimulating Hormone Receptor (AID 926)
+    - 'qHTS Assay for Agonists of the Thyroid Stimulating Hormone Receptor: Activators
+      of Intracellular cAMP Concentrations in Parental HEK 293 (AID 938)'
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-001 - Dead Cells (AID 946)
+    - Cell Viability - LYMP1-002 - Assay at 16 hr (AID 948)
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-002 - Live Cells (AID 955)
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-002 - Dead Cells (AID 960)
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-003 - Dead Cells (AID 961)
+    - MultiTox-Fluor Cytotoxicity Assay - LYMP1-003 - Live Cells (AID 962)
+    - Cell Viability - LYMP1-003 - Assay at 24 hr (AID 963)
+    - Cell Viability - LYMP1-003 - Assay at 40 hr (AID 964)
+    - Cell Viability - LYMP2-003 (AID 965)
+    - Cell Viability - LYMP2-004 (AID 966)
+    - Cell Viability - LYMP2-005 (AID 967)
+    - Cell Viability - LYMP2-009 (AID 968)
+    - Cell Viability - LYMP2-011 (AID 969)
+    - Cell Viability - LYMP2-013 (AID 970)
+    - Cell Viability - LYMP2-015 (AID 971)
+    - Cell Viability - LYMP2-017 (AID 972)
+    - Cell Viability - LYMP2-019 (AID 973)
+    - Cell Viability - LYMP2-021 (AID 974)
+    - Cell Viability - LYMP2-023 (AID 975)
+    - Cell Viability - LYMP2-025 (AID 976)
+    - Cell Viability - LYMP2-002 (AID 977)
+    - Cell Viability - LYMP2-006 (AID 978)
+    - Cell Viability - LYMP2-007 (AID 979)
+    - Cell Viability - LYMP2-008 (AID 980)
+    - Cell Viability - LYMP2-010 (AID 981)
+    - Cell Viability - LYMP2-012 (AID 982)
+    - Cell Viability - LYMP2-014 (AID 983)
+    - Cell Viability - LYMP2-016 (AID 984)
+    - Cell Viability - LYMP2-018 (AID 985)
+    - Cell Viability - LYMP2-020 (AID 986)
+    - Cell Viability - LYMP2-022 (AID 987)
+    - Cell Viability - LYMP2-024 (AID 988)
+    - Cell Viability - LYMP2-026 (AID 989)
+    - Cell Viability - LYMP1-002 - Assay at 24 hr (AID 993)
+    - Cell Viability - LYMP1-002 - Assay at 40 hr (AID 994)
+    - qHTS Assay for Inhibitors of the ERK Signaling Pathway using a Homogeneous Screening
+      Assay (AID 995)
+    - qHTS Assay for Inhibitors of Aldehyde Dehydrogenase 1 (ALDH1A1) (AID 1030)
+    - DSSTox (CPDBAS) Carcinogenic Potency Database Salmonella Mutagenicity (AID 1194)
+    - qHTS Assay for Inhibitors of 12-hLO (12-human lipoxygenase) (AID 1452)
+    - 'qHTS Assay for Identifying the Cell-Membrane Permeable IMPase Inhibitors: Potentiation
+      with Lithium (AID 1457)'
+    - qHTS Assay for Enhancers of SMN2 Splice Variant Expression (AID 1458)
+    - qHTS for Inhibitors of the Interaction of Thyroid Hormone Receptor and Steroid
+      Receptor Coregulator 2 (AID 1469)
+    - 'qHTS Multiplex Assay to Identify Dual Action Probes in a Cell Model of Huntington:
+      Cytoprotection (ATP) (AID 1471)'
+    - qHTS Assay for Promiscuous and Specific Inhibitors of Cruzain (without detergent)
+      (AID 1476)
+    - qHTS Assay for Compounds Blocking the Interaction Between CBF-beta and RUNX1
+      for the Treatment of Acute Myeloid Leukemia (AID 1477)
+    - qHTS Assay for Promiscuous and Specific Inhibitors of Cruzain (with detergent)
+      (AID 1478)
+    - Total Fluorescence Counterscreen for Inhibitors of the Interaction of Thyroid
+      Hormone Receptor and Steroid Receptor Coregulator 2 (AID 1479)
+    - qHTS Assay for Compounds that Induce Erasure of Genomic Imprints (AID 1948)
+    - qHTS Assay for Inhibitors and Activators of N370S glucocerebrosidase as a Potential
+      Chaperone Treatment of Gaucher Disease (AID 2101)
+    - qHTS Assay for Inhibitors and Activators of Human alpha-Galactosidase From Spleen
+      Homogenate (AID 2107)
+    - qHTS Assay for Inhibitors and Activators of Human alpha-Glucosidase From Spleen
+      Homogenate (AID 2112)
+    - qHTS Assay for Identification of Small Molecule Inducers of Hypoxia Response
+      (AID 2120)
+    - qHTS Assay for Inhibitors of the Human Apurinic/apyrimidinic Endonuclease 1
+      (APE1) (AID 2517)
+    - VP16 counterscreen qHTS for inhibitors of ROR gamma transcriptional activity
+      (AID 2546)
+    - qHTS Assay for Inhibitors of RecQ-Like Dna Helicase 1 (RECQ1) (AID 2549)
+    - qHTS for inhibitors of ROR gamma transcriptional activity (AID 2551)
+    - qHTS Assay for Inhibitors of Tyrosyl-DNA Phosphodiesterase (TDP1) (AID 485290)
+    - qHTS assay for small molecule antagonists of estrogen receptor alpha signaling
+      (AID 588513)
+    - qHTS assay for small molecule agonists of estrogen receptor alpha signaling
+      (AID 588514)
+    - qHTS assay for small molecule agonists of androgen receptor signaling (AID 588515)
+    - qHTS assay for small molecule antagonists of androgen receptor signaling (AID
+      588516)
+    - qHTS assay for small molecule antagonists of farnesoid X receptor signaling
+      (AID 588526)
+    - qHTS assay for small molecule agonists of farnesoid X receptor signaling (AID
+      588527)
+    - qHTS assay for small molecule agonists of glucocorticoid receptor signaling
+      (AID 588532)
+    - qHTS assay for small molecule antagonists of glucocorticoid receptor signaling
+      (AID 588533)
+    - qHTS assay for small molecule agonists of peroxisome proliferator-activated
+      receptor delta signaling (AID 588534)
+    - qHTS assay for small molecule antagonists of vitamin D receptor signaling (AID
+      588541)
+    - qHTS assay for small molecule agonists of vitamin D receptor signaling (AID
+      588543)
+    - qHTS assay for small molecule agonists of retinoid X receptor alpha signaling
+      (AID 588544)
+    - qHTS assay for small molecule agonists of thyroid hormone receptor beta signaling
+      (AID 588545)
+    - qHTS assay for small molecule antagonists of retinoid X receptor alpha signaling
+      (AID 588546)
+    - qHTS assay for small molecule antagonists of thyroid hormone receptor beta signaling
+      (AID 588547)
+    - qHTS Assay for Small Molecule Inhibitors of the Human hERG Channel Activity
+      (AID 588834)
+    - qHTS assay for small molecule agonists of the p53 signaling pathway (AID 651631)
+    - qHTS assay for small molecules that induce genotoxicity in human embryonic kidney
+      cells expressing luciferase-tagged ATAD5 (AID 651632)
+    - qHTS assay for small molecule agonists of the p53 signaling pathway - cell viability
+      (AID 651633)
+    - qHTS assay for small molecules that induce genotoxicity in human embryonic kidney
+      cells expressing luciferase-tagged ATAD5 - cell viability (AID 651634)
+    - qHTS assay for small molecule activators of the p53 signaling pathway (AID 651743)
+    - qHTS assay for small molecule activators of the nuclear factor-kappa B (NF-kB)
+      signaling pathway (AID 651749)
+    - qHTS assay for small molecule activators of the rat pregnane X receptor (rPXR)
+      signaling pathway (AID 651751)
+    - qHTS assay for small molecule disruptors of the mitochondrial membrane potential
+      - 1 hr assay (AID 651754)
+    - qHTS assay for small molecule disruptors of the mitochondrial membrane potential
+      - 5 hr assay (AID 651755)
+    - qHTS assay to identify small molecules that stimulate Tumor Necrosis Factor-alpha
+      (TNF-alpha) secretion (AID 651757)
+    - qHTS assay for environmental chemicals that activate the Aryl hydrocarbon Receptor
+      (AhR) signaling pathway (AID 651777)
+    - qHTS assay for small molecule agonists of the peroxisome proliferator-activated
+      receptor alpha (PPARalpha) signaling pathway (AID 651778)
+    - qHTS assay for small molecule antagonists of the retinoid-related orphan receptor
+      gamma (ROR-gamma) signaling pathway (AID 651802)
+    - qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+      against a panel of isogenic chicken DT40 cell lines with known DNA damage response
+      pathways (AID 651838)
+    - 'qHTS assay for small molecules that induce genotoxicity in human embryonic
+      kidney cells expressing luciferase-tagged ATAD5: Summary (AID 720516)'
+    - 'qHTS assay for small molecule agonists of the p53 signaling pathway: Summary
+      (AID 720552)'
+    - qHTS assay for small molecule disruptors of the mitochondrial membrane potential
+      - cell viability (AID 720634)
+    - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+      signaling pathway measured by Nrf2-dependant transcriptional activity (AID 720636)
+    - qHTS assay for small molecule antagonists of the retinoid-related orphan receptor
+      gamma (ROR-gamma) signaling pathway - cell viability counter screen (AID 720652)
+    - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+      signaling pathway measured by Nrf2-dependant transcriptional activity - cell
+      viability counter screen (AID 720653)
+    - qHTS assay for small molecule activators of the human pregnane X receptor (PXR)
+      signaling pathway (AID 720659)
+    - qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cells
+      (AID 720674)
+    - qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2
+      cells (AID 720675)
+    - qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293
+      cells (AID 720678)
+    - qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293
+      cells (AID 720679)
+    - qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293
+      cells (AID 720680)
+    - qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293
+      cell free culture (AID 720681)
+    - qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293
+      cell free culture (AID 720682)
+    - qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293
+      cell free culture (AID 720683)
+    - qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2 cell
+      free culture (AID 720684)
+    - qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2
+      cell free culture (AID 720685)
+    - qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2
+      cell free culture (AID 720686)
+    - qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2
+      cells (AID 720687)
+    - qHTS assay to identify small molecule agonists of the glucocorticoid receptor
+      (GR) signaling pathway (AID 720691)
+    - qHTS assay to identify small molecule antagonists of the glucocorticoid receptor
+      (GR) signaling pathway - cell viability counter screen (AID 720693)
+    - 'qHTS assay to identify small molecule agonists of the glucocorticoid receptor
+      (GR) signaling pathway: Summary (AID 720719)'
+    - 'qHTS assay to identify small molecule antagonists of the glucocorticoid receptor
+      (GR) signaling pathway: Summary (AID 720725)'
+    - qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+      against isogenic chicken DT40 cell lines with known DNA damage response pathways
+      - wild type cell line (AID 743012)
+    - qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+      against isogenic chicken DT40 cell lines with known DNA damage response pathways
+      - Rev3 mutant cell line (AID 743014)
+    - qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+      against isogenic chicken DT40 cell lines with known DNA damage response pathways
+      - Rad54/Ku70 mutant cell line (AID 743015)
+    - qHTS assay to identify small molecule antagonists of the androgen  receptor
+      (AR) signaling pathway - cell viability counter screen (AID 743033)
+    - qHTS assay to identify small molecule antagonists of the androgen receptor (AR)
+      signaling pathway (AID 743035)
+    - qHTS assay to identify small molecule agonists of the androgen receptor (AR)
+      signaling pathway (AID 743036)
+    - qHTS assay to identify small molecule agonists of the androgen  receptor (AR)
+      signaling pathway using the MDA cell line (AID 743040)
+    - qHTS assay to identify small molecule antagonists of the androgen  receptor
+      (AR) signaling pathway using the MDA cell line - cell viability counter screen
+      (AID 743041)
+    - qHTS assay to identify small molecule antagonists of the androgen  receptor
+      (AR) signaling pathway using the MDA cell line (AID 743042)
+    - 'qHTS assay to identify small molecule agonists of the androgen receptor (AR)
+      signaling pathway: Summary (AID 743053)'
+    - 'qHTS assay to identify small molecule antagonists of the androgen receptor
+      (AR) signaling pathway using the MDA cell line: Summary (AID 743054)'
+    - 'qHTS assay to identify small molecule antagonists of the androgen receptor
+      (AR) signaling pathway: Summary (AID 743063)'
+    - qHTS assay to identify small molecule antagonists of the thyroid receptor (TR)
+      signaling pathway - cell viability counter screen (AID 743064)
+    - qHTS assay to identify small molecule antagonists of the thyroid receptor (TR)
+      signaling pathway (AID 743065)
+    - qHTS assay to identify small molecule agonists of the thyroid receptor (TR)
+      signaling pathway (AID 743066)
+    - 'qHTS assay to identify small molecule antagonists of the thyroid receptor (TR)
+      signaling pathway: Summary (AID 743067)'
+    - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway (AID 743069)
+    - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway - cell viability counter screen (AID 743074)
+    - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway (AID 743075)
+    - 'qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway: Summary (AID 743077)'
+    - 'qHTS assay to identify small molecule antagonists of the estrogen receptor
+      alpha (ER-alpha) signaling pathway: Summary (AID 743078)'
+    - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
+    - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway using the BG1 cell line (AID 743080)
+    - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
+      (ER-alpha) signaling pathway using the BG1 cell line - cell viability counter
+      screen (AID 743081)
+    - qHTS assay to identify aromatase inhibitors (AID 743083)
+    - qHTS assay to identify aromatase inhibitors - cell viability counter screen
+      (AID 743084)
+    - qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
+      (AhR) signaling pathway (AID 743085)
+    - qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
+      (AhR) signaling pathway - cell viability counter screen (AID 743086)
+    - 'qHTS assay to identify small molecule antagonists of the estrogen receptor
+      alpha (ER-alpha) signaling pathway using the BG1 cell line: Summary (AID 743091)'
+    - qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+      receptor gamma (PPARg) signaling pathway (AID 743094)
+    - 'qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
+      (AhR) signaling pathway: Summary (AID 743122)'
+    - 'qHTS assay to identify aromatase inhibitors: Summary (AID 743139)'
+    - 'qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+      receptor gamma (PPARg) signaling pathway: Summary (AID 743140)'
+    - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor gamma (PPARg) signaling pathway (AID 743191)
+    - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor gamma (PPARg) signaling pathway - cell viability counter screen (AID
+      743194)
+    - 'qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor gamma (PPARg) signaling pathway: Summary (AID 743199)'
+    - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+      signaling pathway (AID 743202)
+    - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+      signaling pathway - cell viability counter screen (AID 743203)
+    - qHTS assay for small molecule activators of the heat shock response signaling
+      pathway - cell viability counter screen (AID 743209)
+    - qHTS assay for small molecule activators of the heat shock response signaling
+      pathway (AID 743210)
+    - qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway - cell viability counter screen (AID
+      743211)
+    - qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway (AID 743212)
+    - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway - cell viability counter screen (AID
+      743213)
+    - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway (AID 743215)
+    - qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
+      (FXR) signaling pathway (AID 743217)
+    - qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR)
+      signaling pathway - cell viability counter screen (AID 743218)
+    - 'qHTS assay for small molecule agonists of the antioxidant response element
+      (ARE) signaling pathway: Summary (AID 743219)'
+    - qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR)
+      signaling pathway (AID 743220)
+    - qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
+      (FXR) signaling pathway - cell viability counter screen (AID 743221)
+    - qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR)
+      signaling pathway (AID 743222)
+    - qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR)
+      signaling pathway - cell viability counter screen (AID 743224)
+    - qHTS assay to identify small molecule antagonists of the vitamin D receptor
+      (VDR) signaling pathway - cell viability counter screen (AID 743225)
+    - 'qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway: Summary (AID 743226)'
+    - 'qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+      receptor delta (PPARd) signaling pathway: Summary (AID 743227)'
+    - 'qHTS assay for small molecule activators of the heat shock response signaling
+      pathway: Summary (AID 743228)'
+    - 'qHTS assay to identify small molecule agonists of the farnesoid-X-receptor
+      (FXR) signaling pathway: Summary (AID 743239)'
+    - 'qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
+      (FXR) signaling pathway: Summary (AID 743240)'
+    - 'qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR)
+      signaling pathway: Summary (AID 743241)'
+    - qHTS assay for cell viability of HEK293 cells (AID 743288)
+    - qHTS assay for cell viability of the p53RE-bla HCT-116 cell line (AID 743292)
+    - qHTS assay to identify small molecule agonists of the NFkB signaling pathway
+      (AID 1159509)
+    - qHTS assay to identify small molecule agonists of the NFkB signaling pathway
+      - cell viability counter screen (AID 1159515)
+    - qHTS assay to identify small molecule agonists of the endoplasmic reticulum
+      stress response signaling pathway - cell viability counter screen (AID 1159517)
+    - 'qHTS assay to identify small molecule agonists of the NFkB signaling pathway:
+      Summary (AID 1159518)'
+    - 'qHTS assay to identify small molecule agonists of the endoplasmic reticulum
+      stress response signaling pathway: Summary (AID 1159519)'
+    - qHTS assay to identify small molecule antagonists of the retinoid-related orphan
+      receptor gamma (ROR-gamma) signaling pathway - cell viability counter screen
+      (AID 1159520)
+    - qHTS assay to identify small molecule antagonists of the retinoid-related orphan
+      receptor gamma (ROR-gamma) signaling pathway  (AID 1159521)
+    - 'qHTS assay to identify small molecule antagonists of the retinoid-related orphan
+      receptor gamma (ROR-gamma) signaling pathway: Summary (AID 1159523)'
+    - qHTS assay to identify small molecule agonists of the AP-1 signaling pathway
+      - cell viability counter screen (AID 1159525)
+    - qHTS assay to identify small molecule agonists of the AP-1 signaling pathway
+      (AID 1159526)
+    - qHTS assay to identify small molecule agonists of the RXR signaling pathway
+      (AID 1159527)
+    - 'qHTS assay to identify small molecule agonists of the AP-1 signaling pathway:
+      Summary (AID 1159528)'
+    - qHTS assay to identify small molecule agonists of the RXR signaling pathway
+      - cell viability counter screen (AID 1159529)
+    - 'qHTS assay to identify small molecule agonists of the RXR signaling pathway:
+      Summary (AID 1159531)'
+    - qHTS assay to identify small molecule antagonists of the retinoid acid receptor
+      (RAR) signaling pathway - cell viability counter screen (AID 1159551)
+    - qHTS assay to identify small molecule antagonists of the retinoic acid receptor
+      (RAR) signaling pathway  (AID 1159552)
+    - qHTS assay to identify small molecule agonists of the retinoic acid receptor
+      (RAR) signaling pathway (AID 1159553)
+  :different:
+  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary SingleCellCall Results (AID
+    1189)
+  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Mouse Bioassay Results (AID
+    1199)
+  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary MultiCellCall Results (AID
+    1205)
+  - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+    (ER-alpha) signaling pathway (AID 743075)
+  - 'qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+    (ER-alpha) signaling pathway: Summary (AID 743077)'
+  - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+    (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
+  - qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
+    (AhR) signaling pathway (AID 743085)
+  - 'qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
+    (AhR) signaling pathway: Summary (AID 743122)'
+  - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+    signaling pathway (AID 743202)
+  - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+    receptor delta (PPARd) signaling pathway - cell viability counter screen (AID
+    743213)
+  - 'qHTS assay for small molecule agonists of the antioxidant response element (ARE)
+    signaling pathway: Summary (AID 743219)'
+  - 'qHTS assay to identify small molecule agonists of the AP-1 signaling pathway:
+    Summary (AID 1159528)'

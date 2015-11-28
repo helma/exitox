@@ -1,0 +1,1305 @@
+---
+155: NCI Yeast Anticancer Drug Screen. Data for the rad50 strain
+157: NCI Yeast Anticancer Drug Screen. Data for the mec2-1 strain
+161: NCI Yeast Anticancer Drug Screen. Data for the sgs1 mgt1 strain
+165: NCI Yeast Anticancer Drug Screen. Data for the cln2 rad14 strain
+167: NCI Yeast Anticancer Drug Screen. Data for the bub3 strain
+175: NCI Yeast Anticancer Drug Screen. Data for the mlh1 rad18 strain
+248: NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia (intraperitoneal)
+  in B6D2F1 (BDF1) mice
+256: NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia (intraperitoneal)
+  in CD2F1 (CDF1) mice
+330: NCI In Vivo Anticancer Drug Screen. Data for tumor model  P388 Leukemia (intraperitoneal)
+  in CD2F1 (CDF1) mice
+421: Cell Viability - BJ
+426: Cell Viability - Jurkat
+427: Cell Viability - Hek293
+433: Cell Viability - HepG2
+434: Cell Viability - MRC5
+435: Cell Viability - SK-N-SH
+445: IkB Signaling
+530: JNK3 AlphaScreen Assay
+540: Cell Viability - N2a
+541: Cell Viability - NIH 3T3
+542: Cell Viability - HUV-EC-C
+543: Cell Viability - H-4-II-E
+544: Cell Viability - SH-SY5Y
+545: Cell Viability - Renal Proximal Tubule
+546: Cell Viability - Mesenchymal
+584: Promiscuous and Specific Inhibitors of AmpC Beta-Lactamase (assay with detergent)
+585: Promiscuous and Specific Inhibitors of AmpC Beta-Lactamase (assay without detergent)
+595: qHTS Assay for Disrupters of an Hsp90 Co-Chaperone Interaction
+596: qHTS Assay for Tau Filament Binding
+603: qHTS Assay for Inhibitors of DNA Polymerase III Holoenzyme System
+605: qHTS Assay for Inhibitors of YjeE
+654: Cellular Toxicity (caspase-3) HepG2
+655: Cellular Toxicity (caspase-3) Jurkat
+656: Cellular Toxicity (caspase-3) HUV-EC-C
+657: Cellular Toxicity (caspase-3) SHSY5Y
+658: Cellular Toxicity (caspase-3) BJ
+659: Cellular Toxicity (caspase-3) MRC-5
+660: Cellular Toxicity (caspase-3) Mesangial
+661: Cellular Toxicity (caspase-3) SK-N-SH
+662: Cell signaling CRE-BLA (Fsk stim)
+663: Cellular Toxicity (caspase-3) H-4-II-E
+664: Cellular Toxicity (caspase-3) Hek293
+665: Cellular Toxicity (caspase-3) N2a
+666: Cellular Toxicity (caspase-3) NIH 3T3
+667: Cellular Toxicity (caspase-3) Renal Proximal Tubule
+875: qHTS Assay for Inhibitors of BRCT-Phosphoprotein Interaction (Green Fluorophore)
+880: qHTS Assay for Inhibitors of RGS12 GoLoco Motif Activity (Red Fluorophore)
+881: qHTS Assay for Inhibitors of 15-hLO-2 (15-human lipoxygenase 2)
+884: qHTS Assay for Inhibitors and Substrates of Cytochrome P450 3A4
+885: qHTS Assay for Activators of Cytochrome P450 3A4
+886: qHTS Assay for Inhibitors of HADH2 (Hydroxyacyl-Coenzyme A Dehydrogenase, Type
+  II)
+887: qHTS Assay for Inhibitors of 15-hLO (15-human lipoxygenase)
+889: qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-7
+892: qHTS Assay for Inhibitors of BRCT-Phosphoprotein Interaction (Red Fluorophore)
+893: qHTS Assay for Inhibitors of HSD17B4, hydroxysteroid (17-beta) dehydrogenase
+  4
+894: qHTS Assay for Inhibitors of HPGD (15-Hydroxyprostaglandin Dehydrogenase)
+900: qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-1
+902: 'qHTS Screen for Compounds that Selectively Target Cancer Cells with p53 Mutations:
+  Cytotoxicity of p53ts Cells at the Nonpermissive Temperature'
+912: qHTS Assay for Anthrax Lethal Toxin Internalization
+921: Cell Viability - LYMP2-001
+923: 'qHTS Assay for Allosteric/Competitive Inhibitors of Caspase-1: Spectroscopic
+  Profiling in AFC Spectral Region'
+924: 'qHTS Screen for Compounds that Selectively Target Cancer Cells with p53 Mutations:
+  Cytotoxicity of p53ts Cells at the Permissive Temperature'
+925: qHTS Assay for Modulators of Hemoglobin Beta Chain Splicing
+926: qHTS Assay for Agonists of the Thyroid Stimulating Hormone Receptor
+938: 'qHTS Assay for Agonists of the Thyroid Stimulating Hormone Receptor: Activators
+  of Intracellular cAMP Concentrations in Parental HEK 293'
+946: MultiTox-Fluor Cytotoxicity Assay - LYMP1-001 - Dead Cells
+947: MultiTox-Fluor Cytotoxicity Assay - LYMP1-001 - Live Cells
+948: Cell Viability - LYMP1-002 - Assay at 16 hr
+955: MultiTox-Fluor Cytotoxicity Assay - LYMP1-002 - Live Cells
+960: MultiTox-Fluor Cytotoxicity Assay - LYMP1-002 - Dead Cells
+961: MultiTox-Fluor Cytotoxicity Assay - LYMP1-003 - Dead Cells
+962: MultiTox-Fluor Cytotoxicity Assay - LYMP1-003 - Live Cells
+963: Cell Viability - LYMP1-003 - Assay at 24 hr
+964: Cell Viability - LYMP1-003 - Assay at 40 hr
+965: Cell Viability - LYMP2-003
+966: Cell Viability - LYMP2-004
+967: Cell Viability - LYMP2-005
+968: Cell Viability - LYMP2-009
+969: Cell Viability - LYMP2-011
+970: Cell Viability - LYMP2-013
+971: Cell Viability - LYMP2-015
+972: Cell Viability - LYMP2-017
+973: Cell Viability - LYMP2-019
+974: Cell Viability - LYMP2-021
+975: Cell Viability - LYMP2-023
+976: Cell Viability - LYMP2-025
+977: Cell Viability - LYMP2-002
+978: Cell Viability - LYMP2-006
+979: Cell Viability - LYMP2-007
+980: Cell Viability - LYMP2-008
+981: Cell Viability - LYMP2-010
+982: Cell Viability - LYMP2-012
+983: Cell Viability - LYMP2-014
+984: Cell Viability - LYMP2-016
+985: Cell Viability - LYMP2-018
+986: Cell Viability - LYMP2-020
+987: Cell Viability - LYMP2-022
+988: Cell Viability - LYMP2-024
+989: Cell Viability - LYMP2-026
+993: Cell Viability - LYMP1-002 - Assay at 24 hr
+994: Cell Viability - LYMP1-002 - Assay at 40 hr
+995: qHTS Assay for Inhibitors of the ERK Signaling Pathway using a Homogeneous Screening
+  Assay
+1030: qHTS Assay for Inhibitors of Aldehyde Dehydrogenase 1 (ALDH1A1)
+1188: DSSTox (EPAFHM) EPA Fathead Minnow Acute Toxicity
+1189: DSSTox (CPDBAS) Carcinogenic Potency Database Summary SingleCellCall Results
+1194: DSSTox (CPDBAS) Carcinogenic Potency Database Salmonella Mutagenicity
+1199: DSSTox (CPDBAS) Carcinogenic Potency Database Summary Mouse Bioassay Results
+1205: DSSTox (CPDBAS) Carcinogenic Potency Database Summary MultiCellCall Results
+1208: DSSTox (CPDBAS) Carcinogenic Potency Database Summary Rat Bioassay Results
+1452: qHTS Assay for Inhibitors of 12-hLO (12-human lipoxygenase)
+1457: 'qHTS Assay for Identifying the Cell-Membrane Permeable IMPase Inhibitors: Potentiation
+  with Lithium'
+1458: qHTS Assay for Enhancers of SMN2 Splice Variant Expression
+1469: qHTS for Inhibitors of the Interaction of Thyroid Hormone Receptor and Steroid
+  Receptor Coregulator 2
+1471: 'qHTS Multiplex Assay to Identify Dual Action Probes in a Cell Model of Huntington:
+  Cytoprotection (ATP)'
+1476: qHTS Assay for Promiscuous and Specific Inhibitors of Cruzain (without detergent)
+1477: qHTS Assay for Compounds Blocking the Interaction Between CBF-beta and RUNX1
+  for the Treatment of Acute Myeloid Leukemia
+1478: qHTS Assay for Promiscuous and Specific Inhibitors of Cruzain (with detergent)
+1479: Total Fluorescence Counterscreen for Inhibitors of the Interaction of Thyroid
+  Hormone Receptor and Steroid Receptor Coregulator 2
+1688: 'qHTS Multiplex Assay to Identify Dual Action Probes in a Cell Model of Huntington:
+  Aggregate Formation (GFP)'
+1766: 'qHTS Assay for Inhibitors Targeting the Menin-MLL Interaction in MLL Related
+  Leukemias: Competition With Fluorescein Labeled MLL-derived Peptide'
+1768: 'qHTS Assay for Inhibitors Targeting the Menin-MLL Interaction in MLL Related
+  Leukemias: Competition With Texas Red Labeled MLL-derived Mutant Peptide'
+1948: qHTS Assay for Compounds that Induce Erasure of Genomic Imprints
+1987: Fluorescence-based primary biochemical high throughput screening assay to identify
+  inhibitors of Protein Phosphatase 5 (PP5).
+2016: Multiplex HTS Screen of TOR pathway GFP-fusion proteins in Saccharomyes cerevisiae_specifically_
+  MEP2_MLPCN.
+2023: Multiplex HTS Screen of TOR pathway GFP-fusion proteins in Saccharomyes cerevisiae_specifically_
+  LAP4_MLPCN.
+2025: Multiplex HTS Screen of TOR pathway GFP-fusion proteins in Saccharomyes cerevisiae_specifically_
+  RPL19A_MLPCN.
+2029: Multiplex HTS Screen of TOR pathway GFP-fusion proteins in Saccharomyes cerevisiae_specifically_
+  CIT2_MLPCN.
+2052: HTS for developing T Cell Immune Modulators
+2057: Fluorescence polarization-based primary biochemical high throughput screening
+  assay to identify inhibitors of myeloid cell leukemia sequence 1 (MCL1) interactions
+  with BIM-BH3 peptide.
+2062: Ligands of bioamine (Class A) GPCRs
+2063: Ligands of peptide (Class A) GPCRs
+2066: Multiplex HTS Screen of TOR pathway GFP-fusion proteins in Saccharomyes cerevisiae_specifically_
+  AGP1_MLPCN.
+2099: Fluorescence Biochemical Primary HTS to Identify Inhibitors of GASC-1 Activity
+2101: qHTS Assay for Inhibitors and Activators of N370S glucocerebrosidase as a Potential
+  Chaperone Treatment of Gaucher Disease
+2107: qHTS Assay for Inhibitors and Activators of Human alpha-Galactosidase From Spleen
+  Homogenate
+2112: qHTS Assay for Inhibitors and Activators of Human alpha-Glucosidase From Spleen
+  Homogenate
+2120: qHTS Assay for Identification of Small Molecule Inducers of Hypoxia Response
+2129: Primary biochemical high throughput screening assay to identify inhibitors of
+  BCL2-related protein, long isoform (BCLXL).
+2130: Fluorescence polarization-based primary biochemical high throughput screening
+  assay to identify inhibitors of Protein Phosphatase Methylesterase 1 (PME-1).
+2174: 'Counterscreen for PME1 inhibitors: fluorescence polarization-based primary
+  biochemical high throughput screening assay to identify inhibitors of lysophospholipase
+  1 (LYPLA1).'
+2177: 'Counterscreen for PME1 inhibitors: fluorescence polarization-based primary
+  biochemical high throughput screening assay to identify inhibitors of lysophospholipase
+  2 (LYPLA2).'
+2234: 'Counterscreen for inhibitors of EBNA-1: fluorescence polarization-based biochemical
+  high throughput primary assay to identify inhibitors of the Epstein-Barr virus-encoded
+  protein, ZTA.'
+2235: 'Counterscreen for inhibitors of PP5: fluorescence-based biochemical high throughput
+  primary assay to identify inhibitors of Protein Phosphatase 1 (PP1).'
+2280: Fluorescence polarization-based primary biochemical high throughput screening
+  assay to identify inhibitors of GLD-1 protein - TGE RNA interaction.
+2300: TR-FRET-based primary biochemical high throughput screening assay to identify
+  agonists of nuclear receptor subfamily 2, group E, member 3 (NR2E3).
+2380: uHTS identification of small molecules that induce b-cell replication in the
+  MIN-6 cell line
+2391: A Cell Based HTS Approach for the Discovery of New Inhibitors of Respiratory
+  syncytial virus (RSV)
+2435: Fluorescence-based primary cell-based high throughput screening assay to identify
+  agonists of the Oxytocin Receptor (OXTR).
+2445: Fluorescence-based primary cell-based high throughput screening assay to identify
+  potentiators of Oxytocin Receptor (OXTR)
+2462: Luminescence Cell-Based Primary HTS to Identify Inhibitors of A1 Apoptosis.
+2517: qHTS Assay for Inhibitors of the Human Apurinic/apyrimidinic Endonuclease 1
+  (APE1)
+2520: uHTS identification of small molecule agonists of the APJ  receptor  via a luminescent
+  beta-arrestin assay
+2521: uHTS identification of small molecule antagonists of the APJ  receptor  via
+  a luminescent beta-arrestin assay
+2524: uHTS Luminescent assay for identification of activators of human intestinal
+  alkaline phosphatase
+2528: qHTS Assay for Inhibitors of Bloom's syndrome helicase (BLM)
+2540: HTS Luminescent assay for identification of inhibitors of Sentrin-specific protease
+  8 (SENP8)
+2544: uHTS Luminescent assay for identification of inhibitors of human intestinal
+  alkaline phosphatase
+2546: VP16 counterscreen qHTS for inhibitors of ROR gamma transcriptional activity
+2549: qHTS Assay for Inhibitors of RecQ-Like Dna Helicase 1 (RECQ1)
+2551: qHTS for inhibitors of ROR gamma transcriptional activity
+2557: HTS for Identification of VLA-4 Allosteric Modulators from MLPCN library
+2599: uHTS Luminescent assay for identification of inhibitors of Sentrin-specific
+  protease 6 (SENP6)
+2606: Fluorescence polarization-based primary biochemical high throughput screening
+  assay to identify inhibitors of the membrane-associated serine protease Rv3671c
+  in M.tuberculosis
+2629: Fluorescence Polarization Cell-Free Homogeneous Primary HTS to Identify Inhibitors
+  of the LANA Histone H2A/H2B Interaction
+2650: Luminescence Cell-Free  Homogenous Primary HTS to Identify Inhibitors of GSK-3
+  alpha
+2661: Luminescence Cell-Free  Homogenous Primary HTS to Identify Inhibitors of Serine/Threonine  Kinase
+  33  Activity
+2662: qHTS Fluorescence Polarization Assay for Inhibitors of MLL CXXC domain - DNA
+  interaction
+2676: qHTS Assay for Agonists of the Relaxin Receptor RXFP1
+2685: qHTS Assay for Lipid Storage Modulators in Drosophila S3 Cells
+2690: A yeast HTS for caloric restriction mimetics that inhibit age-related superoxide
+2716: Luminescence  Microorganism Primary HTS to Identify Inhibitors of the SUMOylation
+  Pathway Using a Temperature Sensitive Growth Reversal Mutant Mot1-301
+2717: Luminescence Cell-Based Primary HTS to Identify Inhibitors of Cancer Stem Cells
+2718: Fluorescence Cell-Free Homogeneous Primary HTS to Identify Inhibitors of Histone
+  Deacetylase 3
+2751: Fluorescence polarization-based primary biochemical high throughput screening
+  assay to identify inhibitors of the prolyl oligopeptidase-like enzyme (PREPL)
+2796: Luminescence-based primary cell-based high throughput screening assay to identify
+  activators of the Aryl Hydrocarbon Receptor (AHR)
+2797: 'Counterscreen for Oxytocin Receptor (OXTR) agonists: Fluorescence-based primary
+  cell-based high throughput assay to identify agonists of the vasopressin 1 receptor
+  (V1R)'
+2805: uHTS Luminescent assay for identification of activators of mouse intestinal
+  alkaline phosphatase
+2806: uHTS Luminescent assay for identification of inhibitors of mouse intestinal
+  alkaline phosphatase
+2825: uHTS Luminescent assay for identification of inhibitors of NALP3 in yeast
+39219: Apparent Michaelis constant (Km) against Arylsulfotransferase (AST IV)
+241172: Inhibitory concentration against human cytochrome P450 2A6
+241174: Inhibitory concentration against mouse cytochrome P450 2A5
+241334: Inhibitory concentration against recombinant human cytochrome P450 1A2
+376049: Antifungal activity against Candida albicans ATCC 10231 by agar dilution method
+376050: Antifungal activity against Saccharomyces cerevisiae ATCC 9763 by agar dilution
+  method
+376051: Antifungal activity against Cryptococcus neoformans ATCC 32264 by agar dilution
+  method
+376052: Antifungal activity against Aspergillus flavus ATCC 9170 by agar dilution
+  method
+376053: Antifungal activity against Aspergillus fumigatus ATCC 26934 by agar dilution
+  method
+376054: Antifungal activity against Aspergillus niger ATCC 9029 by agar dilution method
+420670: Inhibition of mouse CYP2A5
+420671: Inhibition of human CYP2A6
+434955: Screen to Identify Novel Compounds That Sensitize Mycobacterium Tuberculosis
+  to Beta-lactam Antibiotics
+434962: Fluorescence polarization-based cell-based primary high throughput screening
+  assay to identify inhibitors of insulin-degrading enzyme (IDE)
+434973: uHTS Luminescent assay for identification of inhibitors of Sentrin-specific
+  protease 7 (SENP7)
+434989: Fluorescence-based cell-based primary high throughput screening assay to identify
+  antagonists of the orexin 1 receptor (OX1R; HCRTR1)
+435003: uHTS luminescence assay for the identification of chemical inhibitors of T-cell
+  specific antigen receptor-induced NF-kB activation
+435005: Luminescence Cell-Based Primary HTS to Identify Inhibitors of Beta Cell Apoptosis.
+435022: uHTS luminescence assay for the identification of chemical inhibitors of B-cell
+  specific antigen receptor-induced NF-kB activation
+435030: Absorbance-based primary bacterial cell-based high throughput screening assay
+  to identify inhibitors of AddAB recombination protein complex
+449728: 'Counterscreen for inhibitors of AddAB: absorbance-based bacterial cell-based
+  high throughput screening assay to identify inhibitors of bacterial viability'
+449762: High Throughput Screening Assay used to Identify Novel Compounds that Inhibit
+  Mycobacterium Tuberculosis in 7H9 Media
+449763: uHTS identification of small molecule activators of the apoptotic arm of the
+  Unfolded Protein response via a luminescent-based reporter assay
+463079: 'Fluorescence-based counterscreen for orexin 1 receptor (OX1R) antagonists:
+  cell-based assay to identify antagonists of the parental CHO cell line'
+463082: Fluorescence polarization-based primary biochemical high throughput screening
+  assay to identify inhibitors of the plasma platelet activating factor acetylhydrolase
+  (pPAFAH)
+463104: uHTS identification of small molecule activators of the adaptive arm of the
+  Unfolded Protein response via a luminescent-based reporter assay
+463141: Absorbance-based primary biochemical high throughput screening assay to identify
+  activators of procaspase-3
+463190: uHTS identification of small molecule inhibitors of tim10-1 yeast via a luminescent
+  assay
+463195: uHTS identification of small molecule inhibitors of tim10 yeast via a luminescent
+  assay
+463210: 'Counterscreen for procaspase-3 activators: absorbance-based primary biochemical
+  high throughput screening assay to identify activators of procaspase-7'
+463212: uHTS identification of small molecule inhibitors of tim23-1 yeast via a luminescent
+  assay
+463254: qHTS Assay for Inhibitors of Ubiquitin-specific Protease USP2a Using CHOP2
+  as the Reporter
+485270: FRET-based cell-based primary high throughput screening assay to identify
+  antagonists of the orexin 1 receptor (OX1R; HCRTR1)
+485272: Fluorescence polarization-based primary biochemical high throughput screening
+  assay to identify inhibitors of Protein Arginine Deiminase 4 (PAD4) (1536 HTS)
+485273: uHTS identification of UBC13 Polyubiquitin Inhibitors via a TR-FRET Assay
+485275: Phenotypic HTS multiplex for antifungal efflux pump inhibitors
+485290: qHTS Assay for Inhibitors of Tyrosyl-DNA Phosphodiesterase (TDP1)
+485294: qHTS Inhibitors of AmpC Beta-Lactamase (assay with detergent)
+485297: qHTS Assay for Rab9 Promoter Activators
+485298: qHTS Assay for Small Molecule Inhibitors of Mitochondrial Division or Activators
+  of Mitochondrial Fusion
+485313: qHTS Assay for NPC1 Promoter Activators
+485317: HTS-Luminescent assay for inhibitors of ALR by detection of hydrogen peroxide
+  production Measured in Biochemical System Using Plate Reader - 2036-02_Inhibitor_SinglePoint_HTS
+485341: qHTS Inhibitors of AmpC Beta-Lactamase (assay without detergent)
+485344: 'HTS Assay for Allosteric Antagonists of the Human D2 Dopamine Receptor: Primary
+  Screen for Antagonists'
+485346: uHTS for identification of Inhibitors of Mdm2/MdmX interaction in luminescent
+  format.
+485347: 'HTS Assay for Positive Allosteric Modulators of the Human D2 Dopamine Receptor:
+  Primary Screen for Potentiators'
+485349: qHTS Assay for Identifying a Potential Treatment of Ataxia-Telangiectasia
+485353: qHTS of Yeast-based Assay for SARS-CoV PLP
+485358: 'HTS Assay for Allosteric Agonists of the Human D2 Dopamine Receptor: Primary
+  Screen for Agonists'
+485360: qHTS Assay for the Inhibitors of L3MBTL1
+485364: qHTS Assay for the Inhibitors of Schistosoma Mansoni Peroxiredoxins
+485367: qHTS Assay to Find Inhibitors of T. brucei phosphofructokinase
+488837: qHTS Assay for Inhibitors of the Phosphatase Activity of Eya2
+488839: Development of CDK5 inhibitors   Measured in Biochemical System Using Plate
+  Reader - 2083-01_Inhibitor_SinglePoint_HTS_Activity
+488847: RNA aptamer-based HTS for inhibitors of GRK2
+488862: Inhibitors of Prion Protein 5' UTR mRNA Measured in Cell-Based System Using
+  Plate Reader - 2078-01_Inhibitor_SinglePoint_HTS_Activity
+488890: Elucidation of physiology of non-replicating, drug-tolerant Mycobacterium
+  tuberculosis
+488895: High Throughput Screen for Tat Transport Inhibitors Measured in Microorganism
+  System Using Plate Reader - 2093-01_Inhibitor_SinglePoint_HTS_Activity
+488896: HTS using DiI-HDL to assay lipid transfer in ldlA[SR-BI] cells Measured in
+  Cell-Based System Using Plate Reader - 2085-01_Inhibitor_SinglePoint_HTS_Activity
+488899: MITF Measured in Cell-Based System Using Plate Reader - 2084-01_Inhibitor_SinglePoint_HTS_Activity
+488965: Fluorescent Biochemical Primary HTS to Identify Inhibitors of P. aeruginosa
+  PvdQ acylase Measured in Biochemical System Using Plate Reader and Imaging Combination
+  - 2091-01_Inhibitor_SinglePoint_HTS_Activity
+488966: Primary and Confirmatory Screening for Inhibitors of Bacterial Capsule Biogenesis
+489030: uHTS Fluorescent assay for identification of inhibitors of Apaf-1
+489031: uHTS Fluorescent assay for identification of activators of Apaf-1
+492947: qHTS assay of beta-arrestin-biased ligands of beta2-adrenergic receptor
+492953: Fluorescence polarization-based primary biochemical high throughput screening
+  assay to identify inhibitors of human platelet-activating factor acetylhydrolase
+  1b, catalytic subunit 2 (PAFAH1B2)
+492956: Fluorescence polarization-based primary biochemical high throughput screening
+  assay to identify inhibitors of human platelet activating factor acetylhydrolase
+  2 (PAFAH2)
+492961: 'qHTS Assay to Find Inhibitors of T. brucei phosphofructokinase: hit validation'
+492972: Fluorescence polarization-based primary biochemical high throughput screening
+  assay to identify inhibitors of human platelet-activating factor acetylhydrolase
+  1B, catalytic subunit 3 (PAFAH1B3)
+493005: qHTS Assay for Iinhibitors of HIV-1 Budding by Blocking the Interaction of
+  PTAP/TSG101
+493008: Fluorescence-based biochemical primary high throughput screening assay to
+  identify activators of the calcium sensitivity of cardiac Regulated Thin Filaments
+  (RTF)
+493011: uHTS identification of APOBEC3A DNA Deaminase Inhibitors via a fluorescence-based
+  single-stranded DNA deaminase assay
+493012: uHTS identification of APOBEC3G DNA Deaminase Inhibitors via a fluorescence-based
+  single-stranded DNA deaminase assay
+493014: qHTS Assay to Find Inhibitors of Chronic Active B-Cell Receptor Signaling
+493036: Image-Based HTS for Selective Agonists for NTR1
+493056: 'qHTS for Small Molecule Agonists and Allosteric Enhancers of Human TRH Receptor:
+  Primary Screen for Enhancers'
+493084: 'qHTS for Small Molecule Agonists and Allosteric Enhancers of Human TRH Receptor:
+  Primary Screen for Agonists.'
+493087: Fluorescence polarization-based cell-based primary high throughput screening
+  assay to identify activators of insulin-degrading enzyme (IDE)
+493091: uHTS Colorimetric assay for identification of inhibitors of Scp-1
+493098: uHTS identification of small molecule antagonists of the CCR6 receptor via
+  a luminescent beta-arrestin assay
+493131: Activator for delta FosB/delta FosB homodimer Measured in Biochemical System
+  Using Plate Reader - 2072-01_Activator_SinglePoint_HTS_Activity
+493160: uHTS Fluorescent assay for identification of inhibitors of hexokinase domain
+  containing  I (HKDC1)
+493187: uHTS Fluorescent assay for identification of activators of hexokinase domain
+  containing  I (HKDC1)
+493244: Fluorescence-based biochemical primary high throughput screening assay to
+  identify inhibitors of the calcium sensitivity of cardiac Regulated Thin Filaments
+  (RTF)
+504326: Luminescence-based cell-based primary high throughput screening assay to identify
+  agonists of heterodimerization of the mu 1 (OPRM1) and delta 1 (OPRD1) opioid receptors
+504327: qHTS Assay for Inhibitors of GCN5L2
+504329: Discovery of Small Molecule Probes for H1N1 Influenza NS1A
+504332: qHTS Assay for Inhibitors of Histone Lysine Methyltransferase G9a
+504333: qHTS Assay for Inhibitors of BAZ2B
+504339: qHTS Assay for Inhibitors of JMJD2A-Tudor Domain
+504357: Luminescence-based cell-based primary high throughput screening assay to identify
+  inverse agonists of heterodimerization of the mu 1 (OPRM1) and delta 1 (OPRD1) opioid
+  receptors
+504406: Inhibitors of Mycobacterium tuberculosis UDP-galactopyranose mutase (UGM)
+  enzyme - High throughput screening using Fluorescent polarization assay Measured
+  in Biochemical System Using Plate Reader - 2105-01_Inhibitor_SinglePoint_HTS_Activity_Set6
+504411: Fluorescence-based primary biochemical high throughput screening assay to
+  identify inhibitors of human diacylglycerol lipase, beta (DAGLB)
+504414: Fluorescence Polarization with Cer CAL-PDZ Measured in Biochemical System
+  Using Plate Reader - 2109-01_Inhibitor_SinglePoint_HTS_Activity
+504423: C-LANA FP assay Measured in Biochemical System Using Plate Reader - 2117-01_Inhibitor_SinglePoint_HTS_Activity
+504444: Nrf2 qHTS screen for inhibitors
+504454: HTS for Beta-2AR agonists via FAP method
+504462: uHTS fluorescent assay for identification of inhibitors of ATG4B
+504466: qHTS screen for small molecules that induce genotoxicity in human embryonic
+  kidney (HEK293T) cells expressing luciferase-tagged ELG1
+504467: qHTS screen for small molecules that inhibit ELG1-dependent DNA repair in
+  human embryonic kidney (HEK293T) cells expressing luciferase-tagged ELG1
+504490: Assay for Inhibitors of the beta-Arrestin-Adaptor Protein 2 Interaction That
+  Mediate GPCR Degradation and Recycling
+504523: Fluorescence polarization to screen for inhibitors that disrupt the protein-protein
+  interaction between Keap1 and Nrf2   Measured in Biochemical System Using Plate
+  Reader - 2119-01_Inhibitor_SinglePoint_HTS_Activity
+504558: Inhibitors of Epstein-Barr LMP1 inducible NF-kappaB luciferase reporter Measured
+  in Cell-Based System Using Plate Reader - 2122-01_Inhibitor_SinglePoint_HTS_Activity
+504577: HTS of Small Molecules that Regulate V-ATPase Proton Transport in Yeast using
+  pHLuorin
+504582: In vivo-based yeast HTS to detect compounds rescuing yeast growth/survival
+  of Plasmodium Falciparum HSP40-mediated toxicity Measured in Whole Organism System
+  Using Plate Reader - 2120-01_Inhibitor_SinglePoint_HTS_Activity
+504621: Anti-Malarial Hsp90 Inhibitors Measured in Microorganism System Using Plate
+  Reader - 2121-01_Inhibitor_SinglePoint_HTS_Activity_Set2
+504634: 'Counterscreen for inverse agonists of OPRM1-OPRD1 heterodimerization: luminescence-based
+  cell-based full-deck high throughput screening assay to identify inverse agonists
+  of 5-hydroxytryptamine (serotonin) 5A receptor (HTR5A)'
+504648: 'Nrf2 qHTS screen for inhibitors: counterscreen for cytotoxicity'
+504651: 'Potentiators of Human D1 Dopamine Receptor: qHTS'
+504660: 'Allosteric Agonists of the Human D1 Dopamine Receptor: qHTS'
+504690: uHTS identification of small molecule inhibitors of Plasmodium falciparum
+  Glucose-6-phosphate dehydrogenase via a fluorescence intensity assay
+504692: 'Counterscreen for agonists of OPRM1-OPRD1 heterodimerization: luminescence-based
+  cell-based full-deck high throughput screening assay to identify agonists of 5-hydroxytryptamine
+  (serotonin) 5A receptor (HTR5A)'
+504700: Fluorescence polarization-based biochemical primary high throughput screening
+  assay to identify activators of the Protein Kinase A-R2B (PKA-R2B) complex
+504706: qHTS assay for re-activators of p53 using a Luc reporter
+504707: Fluorescence polarization-based biochemical primary high throughput screening
+  assay to identify activators of the Protein Kinase A-R1A (PKA-R1A) complex
+504720: uHTS identification of MazEF TA System activators  via a fluorescence-based
+  single-stranded RNase assay
+504734: Fluorescence-based cell-based primary high throughput screening assay to identify
+  inhibitors of TLR9-MyD88 binding.
+504749: qHTS profiling for inhibitors of Plasmodium falciparum proliferation
+504766: Luminescence-based primary cell-based high throughput screening assay to identify
+  inhibitors of the orphan nuclear receptor subfamily 0, group B, member 1 (DAX1;
+  NR0B1)
+504775: HTS using DiI-HDL to assay lipid transfer in ldlA[SR-BI] cells Measured in
+  Cell-Based System Using Plate Reader - 2085-01_Activator_SinglePoint_HTS_Activity
+504803: Fluorescence polarization-based primary biochemical high throughput screening
+  assay to identify inhibitors of the HTRA serine peptidase 1 (HTRA1)
+504810: 'Antagonists of the Thyroid Stimulating Hormone Receptor: HTS campaign'
+504812: 'Inverse Agonists of the Thyroid Stimulating Hormone Receptor: HTS campaign'
+504832: Primary qHTS for delayed death inhibitors of the malarial parasite plastid,
+  48 hour incubation
+504834: Primary qHTS for delayed death inhibitors of the malarial parasite plastid,
+  96 hour incubation
+504842: 'Inhibitors of TCP-1 ring complex (TRiC) of Methanococcus maripaludis (MmCpn):
+  qHTS'
+504845: 'Inhibitors of Regulator of G Protein Signaling (RGS) 4: qHTS'
+504847: 'Inhibitors of the vitamin D receptor (VDR): qHTS'
+504865: 'Inhibitors of USP1/UAF1: Pilot qHTS'
+504884: Inhibitors of Y. pestis Topo-I using cleavage product accumulation Measured
+  in Biochemical System Using Plate Reader - 2123-01_Inhibitor_SinglePoint_HTS_Activity
+504891: qHTS Assay to Find Inhibitors of Pin1
+504894: 'Activators of T cell receptors: qHTS campaign'
+504937: 'Inhibitors of Secretory Acid Sphingomyelinase (S-ASM): qHTS'
+512726: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2433) mutant
+  assessed as number of extra cells in anterior pharynx L3 and L4 larvae at 200 mM
+  dissolved in soybean oil
+512727: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2438) mutant
+  assessed as increase in number of extra cells in anterior pharynx at 50 uM dissolved
+  in water
+512728: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2438) mutant
+  assessed as increase in number of extra cells in anterior pharynx at 75 uM dissolved
+  in water
+512729: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2438) mutant
+  assessed as increase in number of extra cells in anterior pharynx at 100 uM dissolved
+  in water
+512730: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2438) mutant
+  assessed as increase in number of extra cells in anterior pharynx at 125 uM dissolved
+  in water
+512731: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2438) mutant
+  assessed as increase in number of extra cells in anterior pharynx at 150 uM dissolved
+  in water
+512732: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2438) mutant
+  assessed as increase in number of extra cells in anterior pharynx kept in drug exposed
+  air tight plastic storage box at 0.06 g/L in air
+512733: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2438) mutant
+  assessed as increase in number of extra cells in anterior pharynx kept in drug exposed
+  air tight plastic storage box at 0.6 g/L in air
+512734: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2438) mutant
+  assessed as increase in number of extra cells kept in anterior pharynx in gaseous
+  compound exposed air tight plastic storage box at 4 uM
+512735: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2438) mutant
+  assessed as increase in number of extra cells in anterior pharynx at 100 mM dissolved
+  in soybean oil
+512737: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2438) mutant
+  assessed as number of extra cells in anterior pharynx L3 and L4 larvae at 200 mM
+  dissolved in soybean oil
+512738: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2438) G474R mutant
+  assessed as number of extra cells in anterior pharynx L3 and L4 larvae at 200 mM
+  dissolved in soybean oil
+512739: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2447) S446L mutant
+  assessed as number of extra cells in anterior pharynx L3 and L4 larvae at 200 mM
+  dissolved in soybean oil
+512740: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2436) L269 mutant
+  assessed as number of extra cells in anterior pharynx L3 and L4 larvae at 200 mM
+  dissolved in soybean oil
+512741: Antiapoptotic activity against Caenorhabditis elegans ced-4(n2273) mutant
+  assessed as number of extra cells in anterior pharynx L3 and L4 larvae at 200 mM
+  dissolved in soybean oil
+512742: Antiapoptotic activity against Caenorhabditis elegans ced-8(n1891) mutant
+  assessed as number of extra cells in anterior pharynx L3 and L4 larvae at 200 mM
+  dissolved in soybean oil
+512743: Antiapoptotic activity against Caenorhabditis elegans ced-9(n1950) mutant
+  assessed as number of extra cells in anterior pharynx L3 and L4 larvae at 200 mM
+  dissolved in soybean oil
+513046: Inhibition of Caenorhabditis elegans CED-3-mediated apoptosis assessed as
+  [35]S methionine labeled CED-9 cleavage product at 100 uM after 2 hrs by fluorescence
+  assay
+513047: Inhibition of human caspase-3-mediated apoptosis assessed as appearance of
+  [35]S methionine-labeled PARP cleavage product at 100 uM after 2 hrs by fluorescence
+  assay
+513048: Inhibition of human caspase-3-mediated apoptosis assessed as Ac-DEVD-7-amino-4-methylcoumarin
+  cleavage product at 100 uM by fluorescence assay
+513049: Antiapoptotic activity against wild-type Caenorhabditis elegans assessed as
+  reduction in number of cell cropses at comma stage of embryo at 200 uM dissolved
+  in soybean oil
+513050: Antiapoptotic activity against wild-type Caenorhabditis elegans assessed as
+  reduction in number of cell cropses at 1.5 fold stage of embryo at 200 uM dissolved
+  in soybean oil
+513051: Antiapoptotic activity against wild-type Caenorhabditis elegans assessed as
+  reduction in number of cell cropses at 2-fold stage of embryo at 200 uM dissolved
+  in soybean oil
+513052: Antiapoptotic activity against wild-type Caenorhabditis elegans assessed as
+  reduction in number of cell cropses at 4-fold stage of embryo at 200 uM dissolved
+  in soybean oil
+513053: Antiapoptotic activity against wild-type Caenorhabditis elegans assessed as
+  reduction in number of cell cropses at comma stage of embryo at 250 uM dissolved
+  in soybean oil
+513054: Antiapoptotic activity against wild-type Caenorhabditis elegans assessed as
+  reduction in number of cell cropses at 1.5 fold stage of embryo at 250 uM dissolved
+  in soybean oil
+513055: Antiapoptotic activity against wild-type Caenorhabditis elegans assessed as
+  reduction in number of cell cropses at 2-fold stage of embryo at 250 uM dissolved
+  in soybean oil
+513056: Antiapoptotic activity against wild-type Caenorhabditis elegans assessed as
+  reduction in number of cell cropses at 4-fold stage of embryo at 250 uM dissolved
+  in soybean oil
+513057: Antiapoptotic activity against Caenorhabditis elegans engulfment-deffective
+  ced-1(e1735) mutant assessed as reduction in number of cell cropses at comma stage
+  of embryo at 200 uM dissolved in soybean oil
+513058: Antiapoptotic activity against Caenorhabditis elegans engulfment-deffective
+  ced-1(e1735) mutant assessed as reduction in number of cell cropses at 1.5-fold
+  stage of embryo at 200 uM dissolved in soybean oil
+513059: Antiapoptotic activity against Caenorhabditis elegans engulfment-deffective
+  ced-1(e1735) mutant assessed as reduction in number of cell cropses at 2-fold stage
+  of embryo at 200 uM dissolved in soybean oil
+513060: Antiapoptotic activity against Caenorhabditis elegans engulfment-deffective
+  ced-1(e1735) mutant assessed as reduction in number of cell cropses at comma 4-fold
+  of embryo at 200 uM dissolved in soybean oil
+513061: Antiapoptotic activity against Caenorhabditis elegans engulfment-deffective
+  ced-1(e1735) mutant assessed as reduction in number of cell cropses at comma stage
+  of embryo at 250 uM dissolved in soybean oil
+513062: Antiapoptotic activity against Caenorhabditis elegans engulfment-deffective
+  ced-1(e1735) mutant assessed as reduction in number of cell cropses at 1.5-fold
+  stage of embryo at 250 uM dissolved in soybean oil
+513063: Antiapoptotic activity against Caenorhabditis elegans engulfment-deffective
+  ced-1(e1735) mutant assessed as reduction in number of cell cropses at 2-fold stage
+  of embryo at 250 uM dissolved in soybean oil
+513064: Antiapoptotic activity against Caenorhabditis elegans engulfment-deffective
+  ced-1(e1735) mutant assessed as reduction in number of cell cropses at comma 4-fold
+  of embryo at 250 uM dissolved in soybean oil
+513065: Antiapoptotic activity against hermaphroditic wild type Caenorhabditis elegans
+  carrying smls26 transgene assessed as inhibition of male-specific CEM neurons death
+  at 200 mM after 2 hrs
+513066: Antiapoptotic activity against hermaphroditic Caenorhabditis elegans ced-3(n2438)
+  mutant carrying smls26 transgene assessed as inhibition of male-specific CEM neurons
+  death at 200 mM after 2 hrs
+513067: Antiapoptotic activity against hermaphroditic Caenorhabditis elegans ced-3(n2433)
+  mutant carrying smls26 transgene assessed as inhibition of male-specific CEM neurons
+  death at 200 mM after 2 hrs
+513068: Antiapoptotic activity against hermaphroditic wild type Caenorhabditis elegans
+  carrying smls26 transgene assessed as inhibition of male-specific CEM neurons death
+  at 250 mM after 2 hrs
+513069: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2438) mutant
+  carrying smls26 transgene assessed as survival of CEM neurons at 250 mM after 2
+  hrs
+513070: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2433) mutant
+  carrying smls26 transgene assessed as survival of CEM neurons at 250 mM after 2
+  hrs
+513071: Antiapoptotic activity against wild type Caenorhabditis elegans carrying nis96
+  transgene assessed as number of extra VC- cells in postembryonic stage at 200 mM
+  after 2 hrs
+513072: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2438) mutant
+  carrying nis96 transgene assessed as number of extra VC- cells in postembryonic
+  stage at 200 mM after 2 hrs
+513073: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2433) mutant
+  carrying nis96 transgene assessed as number of extra VC- cells in postembryonic
+  stage at 200 mM after 2 hrs
+513074: Antiapoptotic activity against Caenorhabditis elegans carrying nis96 transgene
+  assessed as number of extra VC- cells in postembryonic stage at 250 mM after 2 hrs
+513075: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2438) mutant
+  carrying nis96 transgene assessed as number of extra VC- cells in postembryonic
+  stage at 250 mM after 2 hrs
+513076: Antiapoptotic activity against Caenorhabditis elegans ced-3(n2433) mutant
+  carrying nis96 transgene assessed as number of extra VC- cells in postembryonic
+  stage at 250 mM after 2 hrs
+513077: Suppression of activated CED-3-induced apoptosis expressed in Caenorhabditis
+  elegans ced-1(e1735) mutant assessed as number of cell corpses in 4-fold stage of
+  transgenic line-1 embryo in absence of CED-4
+513078: Suppression of activated CED-3-induced apoptosis expressed in Caenorhabditis
+  elegans ced-4(n1162) mutant assessed as number of cell corpses in 4-fold stage of
+  transgenic line-1 embryo in absence of CED-4
+513079: Suppression of activated CED-3-induced apoptosis expressed in Caenorhabditis
+  elegans ced-1(e1735) mutant assessed as number of cell corpses in 4-fold stage of
+  transgenic line-2 embryo in absence of CED-4
+513080: Suppression of activated CED-3-induced apoptosis expressed in Caenorhabditis
+  elegans ced-4(n1162) mutant assessed as number of cell corpses in 4-fold stage of
+  transgenic line-2 embryo in absence of CED-4
+513081: Suppression of activated CED-3-induced apoptosis expressed in Caenorhabditis
+  elegans ced-1(e1735) mutant assessed as number of cell corpses in 4-fold stage of
+  transgenic line-3 embryo in absence of CED-4
+513082: Suppression of activated CED-3-induced apoptosis expressed in Caenorhabditis
+  elegans ced-4(n1162) mutant assessed as number of cell corpses in 4-fold stage of
+  transgenic line-3 embryo in absence of CED-4
+513083: Suppression of activated CED-3-induced apoptosis expressed in Caenorhabditis
+  elegans ced-1(e1735) mutant assessed as number of cell corpses in 4-fold stage of
+  (smls111) transgenic embryo in absence of CED-4
+513084: Suppression of activated CED-3-induced apoptosis expressed in Caenorhabditis
+  elegans ced-4(n1162) mutant assessed as number of cell corpses in 4-fold stage of
+  (smls111) transgenic embryo in absence of CED-4
+540253: qHTS Assay for Inhibitors of RanGTP induced Rango (Ran-regulated importin-beta
+  cargo) - Importin beta complex dissociation
+540263: qHTS Assay for Inhibitors of Rango (Ran-regulated importin-beta cargo) - Importin
+  beta complex formation
+540267: 'Small Molecules that selectively kill Giardia lamblia: qHTS'
+540275: HTS Assay for Compounds that Act as Agonists of the Vanilloid Receptor 1
+540277: HTS Assay for Compounds that Act as Potentiators of the Vanilloid Receptor
+  1
+540295: 'TRFRET-based cell-based primary high throughput screening assay to identify
+  biased ligands of the melanocortin 4 receptor (MC4R): antagonists of MC4R'
+540303: qHTS for Inhibitors of Cell Surface uPA Generation
+540308: 'Luminescence-based cell-based primary high throughput screening assay to
+  identify biased ligands of the melanocortin 4 receptor (MC4R): agonists of MC4R'
+540317: HTS for Inhibitors of HP1-beta Chromodomain Interactions with Methylated Histone
+  Tails
+540336: Rtt109/Vps75 Measured in Biochemical System Using Plate Reader - 2106-01_Inhibitor_SinglePoint_HTS_Activity
+540364: Luminescence-based cell-based primary high throughput screening assay to identify
+  activators of the GAA850 frataxin (FXN) promoter
+588334: MITF Measured in Cell-Based System Using Plate Reader - 2084-01_Activator_SinglePoint_HTS_Activity
+588335: 'Counterscreen for inhibitors of the fructose-bisphosphate aldolase (FBA)
+  of M. tuberculosis: Absorbance-based biochemical high throughput Glycerophosphate
+  Dehydrogenase-Triosephosphate Isomerase (GDH-TPI) full deck assay to identify assay
+  artifacts'
+588342: qHTS profiling assay for firefly luciferase inhibitor/activator using purifed
+  enzyme and Km concentrations of substrates (counterscreen for miR-21 project)
+588352: Luminescence-based cell-based primary high throughput screening assay to identify
+  inhibitors of the Steroid Receptor Coactivator 3 (SRC3; NCOA3)
+588354: Luminescence-based cell-based primary high throughput screening assay to identify
+  inhibitors of the Steroid Receptor Coactivator 1 (SRC1; NCOA1)
+588358: HTS to Find Inhibitors of Pathogenic Pemphigus Antibodies
+588405: HTS Assay for Peg3 Promoter Inhibitors
+588413: uHTS identification of Gli-Sufu Antagonists in a luminescence reporter assay
+588436: 'Cholera Quorum: HTS for inducers of light production in the absence ofautoinducers
+  using BH1578 (luxS deficient, cqsA deficient) Measured in Microorganism System Using
+  Plate Reader - 2132-01_Agonist_SinglePoint_HTS_Activity'
+588453: 'qHTS Assay for Inhibitors of Mammalian Selenoprotein Thioredoxin Reductase
+  1 (TrxR1): qHTS'
+588456: 'qHTS Assay for Substrates of Mammalian Selenoprotein Thioredoxin Reductase
+  1 (TrxR1): qHTS'
+588458: uHTS identification of DNMT1 inhibitors in a Fluorescent Molecular Beacon
+  assay
+588473: uHTS identification of agonists of the CRF-binding protein and CRF-R2 receptor
+  complex
+588475: uHTS identification of antagonists of the CRF-binding protein and CRF-R2 receptor
+  complex
+588478: A screen for small molecule inhibitors of the human deubiquitinating enzyme,
+  UCH37
+588489: uHTS identification of microRNA-mediated mRNA deadenylation inhibitors by
+  fluoresence polarization assay
+588492: uHTS identification of small molecule modulators of myocardial damage
+588493: uHTS identification of inhibitors of Rpn11 in a Fluorescent Polarization assay
+588497: High-throughput multiplex microsphere screening for inhibitors of toxin protease,
+  specifically Botulinum neurotoxin light chain F protease, MLPCN compound set
+588499: High-throughput multiplex microsphere screening for inhibitors of toxin protease,
+  specifically Botulinum neurotoxin light chain A protease, MLPCN compound set
+588501: High-throughput multiplex microsphere screening for inhibitors of toxin protease,
+  specifically Lethal Factor Protease, MLPCN compound set
+588513: qHTS assay for small molecule antagonists of estrogen receptor alpha signaling
+588514: qHTS assay for small molecule agonists of estrogen receptor alpha signaling
+588515: qHTS assay for small molecule agonists of androgen receptor signaling
+588516: qHTS assay for small molecule antagonists of androgen receptor signaling
+588526: qHTS assay for small molecule antagonists of farnesoid X receptor signaling
+588527: qHTS assay for small molecule agonists of farnesoid X receptor signaling
+588532: qHTS assay for small molecule agonists of glucocorticoid receptor signaling
+588533: qHTS assay for small molecule antagonists of glucocorticoid receptor signaling
+588534: qHTS assay for small molecule agonists of peroxisome proliferator-activated
+  receptor delta signaling
+588535: qHTS assay for small molecule antagonists of peroxisome proliferator-activated
+  receptor delta signaling
+588536: qHTS assay for small molecule agonists of peroxisome proliferator-activated
+  receptor gamma signaling
+588537: qHTS assay for small molecule antagonists of peroxisome proliferator-activated
+  receptor gamma signaling
+588541: qHTS assay for small molecule antagonists of vitamin D receptor signaling
+588543: qHTS assay for small molecule agonists of vitamin D receptor signaling
+588544: qHTS assay for small molecule agonists of retinoid X receptor alpha signaling
+588545: qHTS assay for small molecule agonists of thyroid hormone receptor beta signaling
+588546: qHTS assay for small molecule antagonists of retinoid X receptor alpha signaling
+588547: qHTS assay for small molecule antagonists of thyroid hormone receptor beta
+  signaling
+588549: Fluorescence polarization to screen for inhibitor that competite the binding
+  of FadD28 to bisubstrate Measured in Biochemical System Using Plate Reader - 2147-01_Inhibitor_SinglePoint_HTS_Activity
+588579: qHTS for Inhibitors of Polymerase Kappa
+588590: qHTS for Inhibitors of Polymerase Iota
+588591: qHTS for Inhibitors of Polymerase Eta
+588621: uHTS identification of small molecule inhibitors of Striatal-Enriched Phosphatase
+  via a fluorescence intensity assay
+588664: TRFRET-based biochemical primary high throughput screening assay to identify
+  inhibitors of the interaction of the Ras and Rab interactor 1 protein (Rin1) and
+  the c-abl oncogene 1, non-receptor tyrosine kinase (Abl)
+588674: 'Schnurri-3 Inhibitors: specific inducers of adult bone formation Measured
+  in Cell-Based System Using Plate Reader - 2134-01_Inhibitor_SinglePoint_HTS_Activity_Set2'
+588689: Primary and Confirmatory Screening for Flavivirus Genomic Capping Enzyme Inhibition
+588692: Luciferase Reporter Cell Based HTS to identify inhibitors of N-linked Glycosylation
+  Measured in Cell-Based System Using Plate Reader - 2146-01_Inhibitor_SinglePoint_HTS_Activity_Set2
+588726: Fluorescence-based biochemical primary high throughput screening assay to
+  identify inhibitors of the fructose-bisphosphate aldolase (FBA) of M. tuberculosis
+588727: A Cell-Based Confirmatory Screen for Compounds that Inhibit VEEV, TC-83
+588795: qHTS Assay for the Inhibitors of Human Flap endonuclease 1 (FEN1).
+588814: Fluorescence-based cell-based primary high throughput screening assay to identify
+  agonists of the human cholinergic receptor, muscarinic 1 (CHRM1)
+588819: Fluorescence-based cell-based primary high throughput screening assay to identify
+  positive allosteric modulators (PAMs) of the human M1 muscarinic receptor (CHRM1).
+588832: Hedgehog Measured in Biochemical System Using Plate Reader - 2070-01_Inhibitor_SinglePoint_HTS_Activity
+588834: qHTS Assay for Small Molecule Inhibitors of the Human hERG Channel Activity
+588850: uHTS identification of cystic fibrosis induced NFkb Inhibitors in a fluoresence
+  assay
+588852: Fluorescence-based cell-based primary high throughput screening assay to identify
+  antagonists of the human M1 muscarinic receptor (CHRM1)
+588855: qHTS for Inhibitors of TGF-b
+588856: 'qHTS for Inhibitors of TGF-b: Cytotox Counterscreen'
+602123: Fluorescence polarization-based primary biochemical high throughput screening
+  assay to identify inhibitors of Escherichia coli DNA-binding ATP-dependent protease
+  La (eLon)
+602141: uHTS determination of small molecule cytotoxicity in a fluorescence assay
+  to identify cystic fibrosis induced NFkb Inhibitors
+602162: Flow Cytometric HTS Screen for inhibitors of the ABC transporter ABCB6 for
+  MLPCN Compound Set
+602163: Absorbance-based biochemical primary high throughput screening assay to identify
+  activators of Methionine sulfoxide reductase A (MsrA)
+602179: 'qHTS for Inhibitors of mutant isocitrate dehydrogenase 1 (IDH1): qHTS'
+602229: Luminescence-based cell-based high throughput primary screening assay to identify
+  agonists of nuclear receptor subfamily 2, group E, member 3 (NR2E3)
+602233: qHTS Assay to Find Inhibitors of Phosphoglycerate Kinase
+602244: uHTS identification of CXCR6 Inhibitors in a B-arrestin luminescence assay
+602247: 'Full deck counterscreen for positive allosteric modulators (PAMs) of the
+  human M1 muscarinic receptor (CHRM1): Fluorescence-based cell-based high throughput
+  screening assay to identify nonselective activators and assay artifacts using the
+  parental CHOK1 cell line'
+602248: 'Full deck counterscreen for agonists of the human M1 muscarinic receptor
+  (CHRM1): Fluorescence-based cell-based high throughput screening assay to identify
+  nonselective activators and assay artifacts using the parental CHOK1 cell line'
+602250: 'Full deck counterscreen for antagonists of the human M1 muscarinic receptor
+  (CHRM1): Fluorescence-based cell-based high throughput screening assay to identify
+  nonselective inhibitors and assay artifacts using the parental CHOK1 cell line'
+602252: Fluorescence Polarization with CAL-PDZ Measured in Biochemical System Using
+  Plate Reader - 2109-02_Inhibitor_SinglePoint_HTS_Activity
+602261: uHTS identification of small molecule inhibitors of  the thioesterase domain
+  of fatty acid synthase via a fluorescence intensity assay
+602274: uHTS luminescent assay for identification of compounds that enhance the survival
+  of human induced pluripotent stem cells when cultured as single cells
+602281: Luminescence-based biochemical primary high throughput screening assay to
+  identify inhibitors of the interaction of the lipase co-activator protein, abhydrolase
+  domain containing 5 (ABHD5) with perilipin-5 (MLDP; PLIN5)
+602310: 'qHTS for Inhibitors of Vif-A3G Interactions: qHTS'
+602313: 'qHTS for Inhibitors of Vif-A3F Interactions: qHTS'
+602329: Identification of inhibitors of RAD54 Measured in Biochemical System Using
+  Plate Reader - 2159-01_Inhibitor_SinglePoint_HTS_Activity
+602332: 'qHTS for Inducers of the Endoplasmic Reticulum Stress Response (ERSR) in
+  Human Glioma: qHTS'
+602340: HTS for suppressors of simvastatin-induced mytoxicity in differentiated C2C12
+  cells Measured in Cell-Based System Using Plate Reader - 2112-01_Suppressor_SinglePoint_HTS_Activity
+602342: Small molecule inhibitors of miR122  Measured in Cell-Based System Using Plate
+  Reader - 2144-01_Inhibitor_SinglePoint_HTS_Activity
+602346: Identification of VIF Inhibitors Measured in Cell-Based System Using Imaging
+  - 2108-01_Inhibitor_SinglePoint_HTS_Activity
+602363: Whole cell Yeast HTS to identify compounds modulating the fidelity of the
+  start codon recognition in eukaryotes. Measured in Whole Organism System Using Plate
+  Reader - 2155-01_Other_SinglePoint_HTS_Activity
+602393: Screen for inhibitors of the SWI/SNF chromatin remodeling complex (esBAF)
+  in mouse embryonic stem cells with Luciferase reporter assay Measured in Cell-Based
+  System Using Plate Reader - 2141-01_Inhibitor_SinglePoint_HTS_Activity
+602396: Luminescence-based cell-based primary high throughput screening assay to identify
+  inverse agonists of the liver receptor homolog-1 (LRH-1; NR5A2)
+602399: uHTS identification of inhibitors of NadD in a Colorimetric assay
+602405: 'PgID: DNTB colorimetric HTS to detect inhibitor of PgID Measured in Biochemical
+  System Using Plate Reader - 2164-01_Inhibitor_SinglePoint_HTS_Activity'
+602410: Primary cell-based screen for identification of compounds that inhibit the
+  two-pore domain potassium channel KCNK3
+602429: uHTS identification of SUMO1-mediated protein-protein interactions
+602438: uHTS identification of modulators of interaction between CendR and NRP-1 using
+  Fluorescence Polarization assay
+602440: uHTS Fluorescent Assay Using Nedd8 Protein Substrate for Identification of
+  Inhibitors of Sentrin-Specific Protease 8 (SENP8)
+602449: uHTS identification of small molecule inhibitors of the mitochondrial permeability
+  transition pore via an absorbance assay
+602481: Mycobacterium tuberculosis BioA enzyme inhibitor Measured in Biochemical System
+  Using Plate Reader - 2163-01_Inhibitor_SinglePoint_HTS_Activity
+623877: Primary cell-based high-throughput screening for identification of compounds
+  that activate/potentiate calcium-activated chloride channels (TMEM16A)
+623901: Small molecule inhibitors of miR122  Measured in Cell-Based System Using Plate
+  Reader - 2144-01_Activator_SinglePoint_HTS_Activity
+624030: Biochemical firefly luciferase enzyme assay for NPC
+624031: S16 Schwann cell viability assay (CellTiter-Glo assay)
+624032: S16 Schwann cell PMP22 intronic element firefly luciferase assay
+624037: Fluorescence-based cell-based primary high throughput screening assay to identify
+  agonists of the human cholinergic receptor, muscarinic 5 (CHRM5)
+624038: Fluorescence-based cell-based primary high throughput screening assay to identify
+  positive allosteric modulators (PAMs) of the human cholinergic receptor, muscarinic
+  5 (CHRM5)
+624040: Fluorescence-based cell-based primary high throughput screening assay to identify
+  antagonists of the human cholinergic receptor, muscarinic 5 (CHRM5)
+624044: S16 Schwann cell PMP22 intronic element beta-lactamase assay
+624125: Fluorescence-based cell-based primary high throughput screening assay to identify
+  antagonists of the human cholinergic receptor, muscarinic 4 (CHRM4)
+624126: Fluorescence-based cell-based primary high throughput screening assay to identify
+  positive allosteric modulators (PAMs) of the human cholinergic receptor, muscarinic
+  4 (CHRM4)
+624127: Fluorescence-based cell-based primary high throughput screening assay to identify
+  agonists of the human cholinergic receptor, muscarinic 4 (CHRM4)
+624168: uHTS identification of small molecule activators of alpha dystroglycan glycosylation
+624169: Luminescence-based cell-based primary high throughput screening assay to identify
+  agonists of the mouse 5-hydroxytryptamine (serotonin) receptor 2A (HTR2A)
+624170: qHTS for Inhibitors of Glutaminase (GLS)
+624171: qHTS of Nrf2 Activators
+624172: qHTS of GLP-1 Receptor Agonists
+624173: qHTS of Trypanosoma Brucei Inhibitors
+624202: qHTS Assay to Identify Small Molecule Activators of BRCA1 Expression
+624204: uHTS identification of small molecule inhibitors of the catalytic domain of
+  the SUMO protease, SENP1 in a FRET assay
+624246: qHTS for Small Molecule Inhibitors of the ERG Ets/DNA interaction
+624256: HTS to identify compounds that promote myeloid differentiation with MLPCN
+  compound set
+624263: A Quantitative High throughput Screen to Identify Chemical Modulators of PINK1
+  Expression
+624267: Fluorescence-based cell-based primary high throughput screening assay to identify
+  inhibitors of the interaction of nucleotide-binding oligomerization domain containing
+  2 (NOD2) and the receptor-interacting serine-threonine kinase 2 (RIPK2)
+624268: Luminescence-based biochemical primary high throughput screening assay to
+  identify inhibitors of Trypanosoma brucei methionyl tRNA synthetase (MetRS)
+624288: 'qHTS for Antagonists of gsp, the Etiologic Mutation Responsible for Fibrous
+  Dysplasia/McCune-Albright Syndrome: qHTS'
+624296: A quantitative high throughput screen for small molecules that induce DNA
+  re-replication in MCF 10a normal breast cells.
+624297: A quantitative high throughput screen for small molecules that induce DNA
+  re-replication in SW480 colon adenocarcinoma cells.
+624304: uHTS identification of SKN-1 Inhibitors in a fluoresence assay
+624330: Discovery of small molecule inhibitors of the oncogenic and cytokinetic protein
+  MgcRacGAP -  Primary and Confirmatory Screens
+624352: uHTS identification of HIF-2a Inhibitors in a luminesence assay
+624354: uHTS identification of Caspase-8 TRAIL sensitizers in a luminesence assay
+624377: Fluorescence polarization-based biochemical primary high throughput screening
+  assay to identify inhibitors of ArfGAP with SH3 domain, ankyrin repeat and PH domain
+  1 (ASAP1)
+624414: qHTS for Agonists of the Human Mucolipin Transient Receptor Potential 1 (TRPML1)
+624415: qHTS for Inhibitors of the Human Mucolipin Transient Receptor Potential 1
+  (TRPML1)
+624416: TRFRET-based biochemical primary high throughput screening assay to identify
+  small molecules that bind to the HIV-1-gp120 binding antibody, PG9
+624417: qHTS of GLP-1 Receptor Inverse Agonists (Inhibition Mode)
+624418: 'qHTS of GLP-1 Receptor Inverse Agonists: Cytotox Screen'
+624463: 'Beta-Arrestin HTS for Positive Allosteric Modulators of the Human D2 Dopamine
+  Receptor: Antagonists'
+624464: 'Beta-Arrestin HTS for Positive Allosteric Modulators of the Human D2 Dopamine
+  Receptor: Potentiators'
+624465: 'Beta-Arrestin HTS for Positive Allosteric Modulators of the Human D2 Dopamine
+  Receptor: Agonists'
+624466: Fluorescence-based cell-based primary high throughput screening assay to identify
+  antagonists of the human trace amine associated receptor 1 (TAAR1)
+624467: Fluorescence-based cell-based primary high throughput screening assay to identify
+  agonists of the human trace amine associated receptor 1 (TAAR1)
+624483: Counterscreen of compound fluorescence effects on High-throughput multiplex
+  microsphere screening for inhibitors of toxin protease
+651550: 'HTS Assay for Inhibitors of Akt Phophorylation: Primary Screen'
+651560: uHTS identification of small molecule inhibitors of Low Molecular Weight Protein
+  Tyrosine Phosphatase, LMPTP, via a fluorescence intensity assay
+651572: Fluorescence polarization-based biochemical primary high throughput screening
+  assay to identify inhibitors of ADP-ribosylation factor GTPase activating protein
+  1 (ARFGAP1)
+651602: Absorbance-based primary bacterial cell-based high throughput screening assay
+  to identify inhibitors of RecBCD (with phage)
+651631: qHTS assay for small molecule agonists of the p53 signaling pathway
+651632: qHTS assay for small molecules that induce genotoxicity in human embryonic
+  kidney cells expressing luciferase-tagged ATAD5
+651633: qHTS assay for small molecule agonists of the p53 signaling pathway - cell
+  viability
+651634: qHTS assay for small molecules that induce genotoxicity in human embryonic
+  kidney cells expressing luciferase-tagged ATAD5 - cell viability
+651635: qHTS for Inhibitors of ATXN expression
+651636: uHTS identification of small molecule antagonists of the EBI2 receptor via
+  a luminescent beta-arrestin assay
+651640: DENV2 CPE-Based HTS Measured in Cell-Based and Microorganism Combination System
+  Using Plate Reader - 2149-01_Other_SinglePoint_HTS_Activity
+651644: qHTS Assay for Inhibitors of the HIV-1 protein Vpr
+651647: uHTS identification of inhibitors of MT1-MMP activation in a fluoresence assay
+651654: HTS for the detection of C. neoformans cell lysis via adenylate kinase (AK)
+  release Measured in Microorganism System Using Plate Reader - 2162-01_Inhibitor_SinglePoint_HTS_Activity
+651658: Small Molecule Inhibitors of FGF22-Mediated Excitatory Synaptogenesis & Epilepsy
+  Measured in Biochemical System Using RT-PCR - 7012-01_Inhibitor_SinglePoint_HTS_Activity
+651661: Luminescence Cell-Based Primary HTS to identify inhibitors of the oncoprotein
+  EWS/Fli transcriptional activity Measured in Cell-Based System Using Plate Reader
+  - 7014-01_Inhibitor_SinglePoint_HTS_Activity
+651687: MLPCN PGC1a Modulators Measured in Cell-Based System Using Plate Reader -
+  2139-01_Inhibitor_SinglePoint_HTS_Activity
+651699: uHTS identification of inhibitors of cullin neddylation in a TR-FRET assay
+651702: Flow Cytometric HTS Screening for Inhibitors of Lytic Granule Exocytosis with
+  MLPCN Compound Library
+651710: FRET-based HTS for detection of RAD52 Inhibitors Measured in Biochemical System
+  Using Plate Reader - 7018-01_Inhibitor_SinglePoint_HTS_Activity_Set2
+651711: Turbidometric Biochemical  Primary HTS  to identify inhibitors of ERp5 Measured
+  in Biochemical System Using Plate Reader - 7002-01_Inhibitor_SinglePoint_HTS_Activity
+651718: Absorbance-based biochemical primary high throughput screening assay to identify
+  inhibitors of Methionine sulfoxide reductase A (MsrA)
+651719: Fluorescence-based cell-based primary high throughput screening assay to identify
+  antagonists of the Galanin Receptor 3 (GalR3)
+651723: MLPCN PGC1a Modulators Measured in Cell-Based System Using Plate Reader -
+  2139-01_Activator_SinglePoint_HTS_Activity
+651724: qHTS Assay for Inhibitors of the CtBP/E1A Interaction
+651725: qHTS Assay for Inhibitors of the Six1/Eya2 Interaction
+651741: qHTS assay for small molecule agonists of the antioxidant response element
+  (ARE) signaling pathway
+651743: qHTS assay for small molecule activators of the p53 signaling pathway
+651749: qHTS assay for small molecule activators of the nuclear factor-kappa B (NF-kB)
+  signaling pathway
+651751: qHTS assay for small molecule activators of the rat pregnane X receptor (rPXR)
+  signaling pathway
+651754: qHTS assay for small molecule disruptors of the mitochondrial membrane potential
+  - 1 hr assay
+651755: qHTS assay for small molecule disruptors of the mitochondrial membrane potential
+  - 5 hr assay
+651757: qHTS assay to identify small molecules that stimulate Tumor Necrosis Factor-alpha
+  (TNF-alpha) secretion
+651758: qHTS assay to identify small molecules that stimulate interleukin-8 (IL-8)
+  secretion
+651768: qHTS for Inhibitors of WRN Helicase
+651777: qHTS assay for environmental chemicals that activate the Aryl hydrocarbon
+  Receptor (AhR) signaling pathway
+651778: qHTS assay for small molecule agonists of the peroxisome proliferator-activated
+  receptor alpha (PPARalpha) signaling pathway
+651800: Fluorescence-based biochemical primary high throughput assay to identify inhibitors
+  of T-cell receptor (TCR)-CD3 interaction using a TAMRA-labeled TCR probe
+651802: qHTS assay for small molecule antagonists of the retinoid-related orphan receptor
+  gamma (ROR-gamma) signaling pathway
+651819: High-Throughput Screening for Modulators of Cytosolic Chaperonin Activity
+651820: qHTS Assay for Inhibitors of Hepatitis C Virus (HCV)
+651821: Fluorescence-based biochemical primary high throughput screening assay to
+  identify molecules that bind r(CAG) RNA repeats
+651828: A screen for compounds that inhibit nucleocapsid/RNA interactions in Rift
+  Valley Fever Virus
+651838: qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+  against a panel of isogenic chicken DT40 cell lines with known DNA damage response
+  pathways
+651957: Luminescence-based cell-based primary high throughput screening assay to identify
+  inhibitors of the Steroid Receptor Coactivator 2 (SRC2; NCOA2)
+651958: 'Fluorescence-based biochemical high throughput screening primary assay to
+  identify inhibitors of Crimean-Congo Hemorrhagic Fever (CCHF) viral ovarian tumor
+  domain protease (vOTU): Pep-AMC substrate'
+651965: qHTS Assay for Activators of ClpP
+651999: uHTS identification of small molecule inhibitors of Csn-mediated Deneddylation
+  of Cullin-Ring Ligases, vis a fluorescence polarization assay
+652010: 'Luminescence-based cell-based primary high throughput screening assay for
+  inhibitors of the orphan nuclear receptor subfamily 0, group B, member 1 (DAX1;
+  NR0B1): repression of SF-1 (NR5A1) activated StAR promoter by full-length DAX-1'
+652017: Luminescence-based cell-based primary high throughput screening assay to identify
+  activators of the function of SWI/SNF related, matrix associated, actin dependent
+  regulator of chromatin, subfamily a, member 2 (SMARCA2, BRM)
+652025: qHTS of IL-2 Activators
+652039: Fluorescence Intensity-based biochemical primary high throughput screening
+  assay to identify activators of kallikrein-7 (K7) zymogen
+652048: 'qHTS of D3 Dopamine Receptor Agonist: qHTS'
+652051: 'qHTS of D3 Dopamine Receptor Potentiators: qHTS'
+652054: 'qHTS of D3 Dopamine Receptor Antagonist: qHTS'
+652067: Luminescence-based cell-based primary high throughput screening assay to identify
+  activators of the DAF-12 from the parasite H. contortus (hcDAF-12)
+652104: qHTS of TDP-43 Inhibitors
+652105: qHTS for Inhibitors of phosphatidylinositol 5-phosphate 4-kinase (PI5P4K)
+652106: qHTS of alpha-syn Inhibitors
+652126: Luminescence-based cell-based primary high throughput screening assay to identify
+  activators of the DAF-12 from the parasite S. stercoralis (ssDAF-12)
+652162: 'C. difficile toxins: HTS for inhibitors of TcdB glycohydrolase activity Measured
+  in Biochemical System Using Plate Reader - 7074-01_Inhibitor_SinglePoint_HTS_Activity'
+652163: 'S100A4: HTS Measured in Biochemical System Using Plate Reader - 7045-01_Inhibitor_SinglePoint_HTS_Activity'
+652197: MLPCN ERAP1 Measured in Biochemical System Using Plate Reader - 7016-01_Inhibitor_SinglePoint_HTS_Activity
+652257: Primary biochemical fluorescence polarization-based high throughput screening
+  assay to identify inhibitors of protein arginine methyltransferase 1 (PRMT1)
+686940: Luminescence-based cell-based primary high throughput screening assay to identify
+  inhibitors of COUP-TFII (NR2F2)
+686964: TRFRET-based biochemical primary high throughput screening assay to identify
+  inhibitors of 5-meCpG-binding domain protein 2 (MBD2)-DBD binding to methylated
+  oligonucleotide
+686970: 'qHTS for induction of synthetic lethality in tumor cells producing 2HG: qHTS
+  for the HT-1080-NT fibrosarcoma cell line'
+686971: 'qHTS for induction of synthetic lethality in tumor cells producing 2HG: qHTS
+  for the HT-1080-IDH1KD cell line'
+686978: 'qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS
+  in cells in absence of CPT'
+686979: 'qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS
+  in cells in presence of CPT'
+686996: VEID(2) R110 Enzymatic Primary HTS to identify Inhibitors of Caspase 6 Measured
+  in Biochemical System Using Plate Reader - 7052-01_Inhibitor_SinglePoint_HTS_Activity_Set2
+687014: Luminescence-based cell-based primary high throughput screening assay to identify
+  agonists of the DAF-12 from the parasite H. glycines (hgDAF-12).
+687016: 'Counterscreen for inhibitors of 5-meCpG-binding domain protein 2 (MBD2):
+  TRFRET-based biochemical primary high throughput screening assay to identify inhibitors
+  of binding of ubiquitin-like with PHD and ring finger domains 1 (UHRF1) to methylated
+  oligonucleotide'
+720504: 'qHTS for Inhibitors of PLK1-PDB (polo-like kinase 1 - polo-box domain): Primary
+  Screen'
+720508: Fluorescence polarization-based biochemical primary high throughput screening
+  assay to identify inhibitors that disrupt the binding of a cyclic peptide (Tn7)
+  to the fibrin proteolytic product D-Dimer and fragment E complex [DD(E )]
+720509: Fluorescence polarization-based biochemical primary high throughput screening
+  assay to identify inhibitors that disrupt the binding of a cyclic peptide (Tn6)
+  to the fibrin proteolytic product D-Dimer and fragment E complex [DD(E )]
+720511: Identification of Small Molecule Correctors of the Cystic Fibrosis Transmembrane
+  Conductance Regulator (CFTR) Delta508 Mutation Function in Human Bronchial Epithelial
+  Cells. Measured in Cell-Based System Using Plate Reader - 7017-01_Other_SinglePoint_HTS_Activity
+720516: 'qHTS assay for small molecules that induce genotoxicity in human embryonic
+  kidney cells expressing luciferase-tagged ATAD5: Summary'
+720532: qHTS for Inhibitors of binding or entry into cells for Marburg Virus
+720533: qHTS for Inhibitors of binding or entry into cells for Lassa Virus
+720542: 'qHTS for Inhibitors of AMA1-RON; Towards Development of Antimalarial Drug
+  Lead: Primary Screen'
+720543: Fluorescence polarization-based biochemical high throughput primary assay
+  to identify inhibitors of alpha/beta hydrolase domain containing 4 (ABHD4).
+720551: 'qHTS for Inhibitors of KCHN2 3.1: Wildtype qHTS'
+720552: 'qHTS assay for small molecule agonists of the p53 signaling pathway: Summary'
+720553: 'qHTS for Inhibitors of KCHN2 3.1: Mutant qHTS'
+720579: 'qHTS for Stage-Specific Inhibitors of Vaccinia Orthopoxvirus: mCherry Reporter
+  Primary qHTS'
+720580: 'qHTS for Stage-Specific Inhibitors of Vaccinia Orthopoxvirus: Venus Reporter
+  Primary qHTS'
+720582: QFRET-based biochemical primary high throughput screening assay to identify
+  exosite inhibitors of ADAM10.
+720596: TRFRET-based cell-based primary high throughput screening assay to identify
+  inhibitors of cell surface Prion Protein (PRPC)
+720634: qHTS assay for small molecule disruptors of the mitochondrial membrane potential
+  - cell viability
+720635: qHTS assay for small molecule disruptors of the mitochondrial membrane potential
+720636: qHTS assay for small molecule agonists of the antioxidant response element
+  (ARE) signaling pathway measured by Nrf2-dependant transcriptional activity
+720637: 'qHTS assay for small molecule disruptors of the mitochondrial membrane potential:
+  Summary'
+720647: Bursicon-induced LGR2 mediated cAMP production in LGR-2/CRE6x-Luciferase co-transfected
+  HEK293 cells Inhibition
+720648: QFRET-based biochemical primary high throughput screening assay to identify
+  exosite inhibitors of ADAM17.
+720652: qHTS assay for small molecule antagonists of the retinoid-related orphan receptor
+  gamma (ROR-gamma) signaling pathway - cell viability counter screen
+720653: qHTS assay for small molecule agonists of the antioxidant response element
+  (ARE) signaling pathway measured by Nrf2-dependant transcriptional activity - cell
+  viability counter screen
+720659: qHTS assay for small molecule activators of the human pregnane X receptor
+  (PXR) signaling pathway
+720674: qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2
+  cells
+720675: qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2
+  cells
+720678: qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293
+  cells
+720679: qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293
+  cells
+720680: qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293
+  cells
+720681: qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HEK293
+  cell free culture
+720682: qHTS assay to test for compound auto fluorescence at 535 nm (green) in HEK293
+  cell free culture
+720683: qHTS assay to test for compound auto fluorescence at 590 nm (red) in HEK293
+  cell free culture
+720684: qHTS assay to test for compound auto fluorescence at 590 nm (red) in HepG2
+  cell free culture
+720685: qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2
+  cell free culture
+720686: qHTS assay to test for compound auto fluorescence at 535 nm (green) in HepG2
+  cell free culture
+720687: qHTS assay to test for compound auto fluorescence at 460 nm (blue) in HepG2
+  cells
+720691: qHTS assay to identify small molecule agonists of the glucocorticoid receptor
+  (GR) signaling pathway
+720692: qHTS assay to identify small molecule antagonists of the glucocorticoid receptor
+  (GR) signaling pathway
+720693: qHTS assay to identify small molecule antagonists of the glucocorticoid receptor
+  (GR) signaling pathway - cell viability counter screen
+720700: Fluorescence-based biochemical high throughput primary assay to identify inhibitors
+  of phospholipase C isozymes (PLC-gamma1).
+720702: Epi Absorbance-based biochemical primary high throughput screening assay to
+  identify inhibitors of human tyrosyl-DNA phosphodiesterase 2 (TDP2)
+720704: Fluorescence-based biochemical high throughput primary assay to identify inhibitors
+  of phospholipase C isozymes (PLC-beta3).
+720706: HTS for Bacterial rRNA inhibitors Measured in Microorganism-Based System Using
+  Plate Reader - 7056-01_Inhibitor_SinglePoint_HTS_Activity
+720707: 'qHTS for Agonist of cAMP-regulated guanine nucleotide exchange factor 3 (EPAC1):
+  primary screen'
+720708: 'qHTS for Antagonist of cAMP-regulated guanine nucleotide exchange factor
+  2 (EPAC2): primary screen'
+720709: 'qHTS for Antagonist of cAMP-regulated guanine nucleotide exchange factor
+  3 (EPAC1): primary screen'
+720711: 'qHTS for Agonist of cAMP-regulated guanine nucleotide exchange factor 4 (EPAC2):
+  primary screen'
+720719: 'qHTS assay to identify small molecule agonists of the glucocorticoid receptor
+  (GR) signaling pathway: Summary'
+720725: 'qHTS assay to identify small molecule antagonists of the glucocorticoid receptor
+  (GR) signaling pathway: Summary'
+743012: qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+  against isogenic chicken DT40 cell lines with known DNA damage response pathways
+  - wild type cell line
+743014: qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+  against isogenic chicken DT40 cell lines with known DNA damage response pathways
+  - Rev3 mutant cell line
+743015: qHTS assay for identifying genotoxic compounds that show differential cytotoxicity
+  against isogenic chicken DT40 cell lines with known DNA damage response pathways
+  - Rad54/Ku70 mutant cell line
+743033: qHTS assay to identify small molecule antagonists of the androgen  receptor
+  (AR) signaling pathway - cell viability counter screen
+743035: qHTS assay to identify small molecule antagonists of the androgen receptor
+  (AR) signaling pathway
+743036: qHTS assay to identify small molecule agonists of the androgen receptor (AR)
+  signaling pathway
+743040: qHTS assay to identify small molecule agonists of the androgen  receptor (AR)
+  signaling pathway using the MDA cell line
+743041: qHTS assay to identify small molecule antagonists of the androgen  receptor
+  (AR) signaling pathway using the MDA cell line - cell viability counter screen
+743042: qHTS assay to identify small molecule antagonists of the androgen  receptor
+  (AR) signaling pathway using the MDA cell line
+743053: 'qHTS assay to identify small molecule agonists of the androgen receptor (AR)
+  signaling pathway: Summary'
+743054: 'qHTS assay to identify small molecule antagonists of the androgen receptor
+  (AR) signaling pathway using the MDA cell line: Summary'
+743063: 'qHTS assay to identify small molecule antagonists of the androgen receptor
+  (AR) signaling pathway: Summary'
+743064: qHTS assay to identify small molecule antagonists of the thyroid receptor
+  (TR) signaling pathway - cell viability counter screen
+743065: qHTS assay to identify small molecule antagonists of the thyroid receptor
+  (TR) signaling pathway
+743066: qHTS assay to identify small molecule agonists of the thyroid receptor (TR)
+  signaling pathway
+743067: 'qHTS assay to identify small molecule antagonists of the thyroid receptor
+  (TR) signaling pathway: Summary'
+743069: qHTS assay to identify small molecule antagonists of the estrogen receptor
+  alpha (ER-alpha) signaling pathway
+743074: qHTS assay to identify small molecule antagonists of the estrogen receptor
+  alpha (ER-alpha) signaling pathway - cell viability counter screen
+743075: qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+  (ER-alpha) signaling pathway
+743077: 'qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+  (ER-alpha) signaling pathway: Summary'
+743078: 'qHTS assay to identify small molecule antagonists of the estrogen receptor
+  alpha (ER-alpha) signaling pathway: Summary'
+743079: qHTS assay to identify small molecule agonists of the estrogen receptor alpha
+  (ER-alpha) signaling pathway using the BG1 cell line
+743080: qHTS assay to identify small molecule antagonists of the estrogen receptor
+  alpha (ER-alpha) signaling pathway using the BG1 cell line
+743081: qHTS assay to identify small molecule antagonists of the estrogen receptor
+  alpha (ER-alpha) signaling pathway using the BG1 cell line - cell viability counter
+  screen
+743083: qHTS assay to identify aromatase inhibitors
+743084: qHTS assay to identify aromatase inhibitors - cell viability counter screen
+743085: qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
+  (AhR) signaling pathway
+743086: qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
+  (AhR) signaling pathway - cell viability counter screen
+743091: 'qHTS assay to identify small molecule antagonists of the estrogen receptor
+  alpha (ER-alpha) signaling pathway using the BG1 cell line: Summary'
+743094: qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+  receptor gamma (PPARg) signaling pathway
+743122: 'qHTS assay to identify small molecule that activate the aryl hydrocarbon
+  receptor (AhR) signaling pathway: Summary'
+743126: QFRET-based biochemical high throughput primary assay to identify inhibitors
+  of human group III secreted phospholipase A2 enzyme (HGIII-sPLA2)
+743139: 'qHTS assay to identify aromatase inhibitors: Summary'
+743140: 'qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+  receptor gamma (PPARg) signaling pathway: Summary'
+743191: qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+  receptor gamma (PPARg) signaling pathway
+743194: qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+  receptor gamma (PPARg) signaling pathway - cell viability counter screen
+743199: 'qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+  receptor gamma (PPARg) signaling pathway: Summary'
+743202: qHTS assay for small molecule agonists of the antioxidant response element
+  (ARE) signaling pathway
+743203: qHTS assay for small molecule agonists of the antioxidant response element
+  (ARE) signaling pathway - cell viability counter screen
+743209: qHTS assay for small molecule activators of the heat shock response signaling
+  pathway - cell viability counter screen
+743210: qHTS assay for small molecule activators of the heat shock response signaling
+  pathway
+743211: qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+  receptor delta (PPARd) signaling pathway - cell viability counter screen
+743212: qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+  receptor delta (PPARd) signaling pathway
+743213: qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+  receptor delta (PPARd) signaling pathway - cell viability counter screen
+743215: qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+  receptor delta (PPARd) signaling pathway
+743217: qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
+  (FXR) signaling pathway
+743218: qHTS assay to identify small molecule agonists of the farnesoid-X-receptor
+  (FXR) signaling pathway - cell viability counter screen
+743219: 'qHTS assay for small molecule agonists of the antioxidant response element
+  (ARE) signaling pathway: Summary'
+743220: qHTS assay to identify small molecule agonists of the farnesoid-X-receptor
+  (FXR) signaling pathway
+743221: qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
+  (FXR) signaling pathway - cell viability counter screen
+743222: qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR)
+  signaling pathway
+743223: qHTS assay to identify small molecule antagonists of the vitamin D receptor
+  (VDR) signaling pathway
+743224: qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR)
+  signaling pathway - cell viability counter screen
+743225: qHTS assay to identify small molecule antagonists of the vitamin D receptor
+  (VDR) signaling pathway - cell viability counter screen
+743226: 'qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
+  receptor delta (PPARd) signaling pathway: Summary'
+743227: 'qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
+  receptor delta (PPARd) signaling pathway: Summary'
+743228: 'qHTS assay for small molecule activators of the heat shock response signaling
+  pathway: Summary'
+743239: 'qHTS assay to identify small molecule agonists of the farnesoid-X-receptor
+  (FXR) signaling pathway: Summary'
+743240: 'qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
+  (FXR) signaling pathway: Summary'
+743241: 'qHTS assay to identify small molecule agonists of the vitamin D receptor
+  (VDR) signaling pathway: Summary'
+743242: 'qHTS assay to identify small molecule antagonists of the vitamin D receptor
+  (VDR) signaling pathway: Summary'
+743244: qHTS Assay for Identifying Gametocytocidal Compounds
+743255: 'Inhibitors of USP1/UAF1: Primary Screen'
+743266: 'qHTS of PTHR Inhibitors: Primary Screen'
+743269: TRFRET-based biochemical primary high throughput screening assay to identify
+  inhibitors of HIV-1 LEDGF/p75 DNA Integration
+743279: 'qHTS for Inhibitors of Inflammasome Signaling:  IL-1-beta AlphaLISA Primary
+  Screen'
+743287: Luminescent GLuc Reporter Gene Assay Primary HTS to Identify Small Molecule
+  Activator of Glucose Dependent Insulin Secretion Measured in Cell-Based System Using
+  Plate Reader - 7055-01_Activator_SinglePoint_HTS_Activity
+743288: qHTS assay for cell viability of HEK293 cells
+743292: qHTS assay for cell viability of the p53RE-bla HCT-116 cell line
+743398: Wnt/Beta-catenin HTS Measured in Cell-Based System Using Plate Reader - 2161-01_Activator_SinglePoint_HTS_Activity
+977611: Experimentally measured binding affinity data (Kd) for protein-ligand complexes
+  derived from PDB
+1053175: A screen for compounds that inhibit growth of Escherichia coli
+1053197: Fluorescence polarization-based biochemical high throughput primary assay
+  to identify inhibitors of sialic acid acetylesterase (SIAE)
+1117326: nuclear beta catenin stimulation in WNT3A conditioned C2C12 cells-screen
+1117329: insulin secretion from INS-1E cells in the presence of 5 mM glucose-screen
+1117336: GSK3B-pretreated HCT116 viability from Cell TiterGlo-screen
+1117342: HCT116 viability from Cell TiterGlo-screen
+1117343: SW480 viability from Cell TiterGlo-screen
+1117344: GLP1 secretion from NCI-H716 cells-IC50
+1117345: GLP1 secretion from STC-1 cells-IC50
+1117346: DLD-1 viability from Cell TiterGlo-screen
+1159509: qHTS assay to identify small molecule agonists of the NFkB signaling pathway
+1159515: qHTS assay to identify small molecule agonists of the NFkB signaling pathway
+  - cell viability counter screen
+1159516: qHTS assay to identify small molecule agonists of the endoplasmic reticulum
+  stress response signaling pathway
+1159517: qHTS assay to identify small molecule agonists of the endoplasmic reticulum
+  stress response signaling pathway - cell viability counter screen
+1159518: 'qHTS assay to identify small molecule agonists of the NFkB signaling pathway:
+  Summary'
+1159519: 'qHTS assay to identify small molecule agonists of the endoplasmic reticulum
+  stress response signaling pathway: Summary'
+1159520: qHTS assay to identify small molecule antagonists of the retinoid-related
+  orphan receptor gamma (ROR-gamma) signaling pathway - cell viability counter screen
+1159521: 'qHTS assay to identify small molecule antagonists of the retinoid-related
+  orphan receptor gamma (ROR-gamma) signaling pathway '
+1159523: 'qHTS assay to identify small molecule antagonists of the retinoid-related
+  orphan receptor gamma (ROR-gamma) signaling pathway: Summary'
+1159524: High Throughput Screening for Foot and Mouth Disease Virus Antivirals
+1159525: qHTS assay to identify small molecule agonists of the AP-1 signaling pathway
+  - cell viability counter screen
+1159526: qHTS assay to identify small molecule agonists of the AP-1 signaling pathway
+1159527: qHTS assay to identify small molecule agonists of the RXR signaling pathway
+1159528: 'qHTS assay to identify small molecule agonists of the AP-1 signaling pathway:
+  Summary'
+1159529: qHTS assay to identify small molecule agonists of the RXR signaling pathway
+  - cell viability counter screen
+1159531: 'qHTS assay to identify small molecule agonists of the RXR signaling pathway:
+  Summary'
+1159551: qHTS assay to identify small molecule antagonists of the retinoid acid receptor
+  (RAR) signaling pathway - cell viability counter screen
+1159552: 'qHTS assay to identify small molecule antagonists of the retinoic acid receptor
+  (RAR) signaling pathway '
+1159553: qHTS assay to identify small molecule agonists of the retinoic acid receptor
+  (RAR) signaling pathway
+1159555: 'qHTS assay to identify small molecule antagonists of the retinoic acid receptor
+  (RAR) signaling pathway: Summary'

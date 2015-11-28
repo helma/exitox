@@ -15,7 +15,7 @@ results = {}
       end
       results[group][comp][:different] = ((@exitox[group][c][true] & @exitox[group][c2][false])+(@exitox[group][c][false] & @exitox[group][c2][true])).size
         
-      common = results[group][comp][:common][true] + results[group][comp][:common][false]
+      common = (results[group][comp][:common][true] + results[group][comp][:common][false])
       results[group][comp][:similarity] = common.to_f/(common+results[group][comp][:different])
     end
   end
