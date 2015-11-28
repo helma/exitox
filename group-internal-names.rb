@@ -1,6 +1,7 @@
 require_relative 'parser.rb'
 
 results = {}
+@aid2name = YAML.load_file("aid2name.yaml")
 @exitox.each do |group,compounds|
   results[group] = {}
   cnames = compounds.keys
