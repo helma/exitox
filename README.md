@@ -6,6 +6,11 @@
 - aromaten.yaml
 - ester.yaml
 
+## Assay Metadata
+
+- aid2name.yaml
+- aid2metadata.yaml
+
 ## Analysis
 
 Ruby scripts for analysis, results are stored in YAML
@@ -13,6 +18,7 @@ Ruby scripts for analysis, results are stored in YAML
 - \*-summary.\*: Nr of assays and similarities
 - \*-aids.\*: PubChem assay IDs
 - \*-names.\*: PubChem assay names
+- \*-genes.\*: Gene IDs and names
 
 ### Comparisons
 
