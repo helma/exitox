@@ -1,24 +1,20 @@
-ExiTox PubChem Analysis
-=======================
+# ExiTox PubChem Analysis
 
-Data
-----
+## Data
 
 - halogenide.yaml
 - aromaten.yaml
 - ester.yaml
 
-Analysis
---------
+## Analysis
 
 Ruby scripts for analysis, results are stored in YAML
 
-\*-summary.\*: Nr of assays and similarities
-\*-aids.\*: PubChem assay IDs
-\*-names.\*: PubChem assay names
+- \*-summary.\*: Nr of assays and similarities
+- \*-aids.\*: PubChem assay IDs
+- \*-names.\*: PubChem assay names
 
-Comparisons
-...........
+### Comparisons
 
-within groups: group-internal-\*
-between groups: group-comparison-\*
+- within groups: group-internal-\*
+- between groups: group-comparison-\*
