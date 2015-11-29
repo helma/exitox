@@ -1,0 +1,34 @@
+doctype html
+html
+  head
+    title= comparison[:name] 
+
+  body
+    h1= comparison[:name]
+    - comparison.each do |cat,res|
+      - unless cat == :name
+        - if cat.match(/Common/)
+          h2= cat
+          - res.each do |k,a|
+            h3= "#{k} (#{a.select{|l| l[:targets]}.size})" 
+            - if a
+              ul
+              - targets = a.collect{|line| line[:targets] if line[:targets]}.flatten.compact
+              - species = targets.collect{|t| t[:species]}.flatten.compact.uniq
+              - species.each do |s|
+                - st = targets.select{|t| t[:species] == s}
+                h4= "#{s} (#{st.size})"
+                - st.each do |t|
+                  li: a href="#{t[:target_uri]}" #{t[:target_name]}
+
+        - else
+          - if res
+            h2= "#{cat} (#{res.select{|l| l[:targets]}.size})"
+            ul
+            - targets = res.collect{|line| line[:targets] if line[:targets]}.flatten.compact
+            - species = targets.collect{|t| t[:species]}.flatten.compact.uniq
+            - species.each do |s|
+              - st = targets.select{|t| t[:species] == s}
+              h4= "#{s} (#{st.size})"
+              - st.each do |t|
+                li: a href="#{t[:target_uri]}" #{t[:target_name]}

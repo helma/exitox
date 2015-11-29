@@ -20,23 +20,23 @@ def aids2metadata aids
   aids.uniq.collect{|aid| assay_metadata(aid)}.flatten.compact.uniq.sort{|a,b| a.keys.first <=> b.keys.first}
 end
 
-comparison = {}
 assay_layout = Slim::Template.new('group-comparison-assays.slim')
 target_layout = Slim::Template.new('group-comparison-targets.slim')
+`mkdir -p '#{File.join("html","Groups").gsub(/\s+/,'_')}'`
 @results.keys.each_with_index do |group,i|
   @results.keys[i+1,@results.keys.size-1].each do |g2|
     comp = "#{group} - #{g2}"
     comparison = {:name => comp}
-    common = "Common Assays/Targets"
-    different = "Different Assays/Targets"
+    common = "Common"
+    different = "Different"
     comparison[common] = {}
     [true,false].each do |k|
       k ? a = "active" : a = "inactive"
       comparison[common][a] = aids2metadata(@results[group][k] & @results[g2][k])
     end
     comparison[different] = aids2metadata((@results[group][true] & @results[g2][false])+(@results[group][false] & @results[g2][true]))
-    File.open("#{comp} Assays.html","w+"){|f| f.puts assay_layout.render(Object.new, :comparison => comparison)}
-    File.open("#{comp} Targets.html","w+"){|f| f.puts target_layout.render(Object.new, :comparison => comparison)}
+    File.open(File.join("html","Groups","#{comp} Assays.html").gsub(/\s+/,'_'),"w+"){|f| f.puts assay_layout.render(Object.new, :comparison => comparison)}
+    File.open(File.join("html","Groups","#{comp} Targets.html").gsub(/\s+/,'_'),"w+"){|f| f.puts target_layout.render(Object.new, :comparison => comparison)}
   end
 end
 
