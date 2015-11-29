@@ -13,15 +13,22 @@ html
             h3= "#{k} (#{a.select{|l| l[:targets]}.size})" 
             - if a
               ul
-              - a.each do |line|
-                - if line[:targets]
-                  - line[:targets].each do |t|
-                    li: a href="#{t[:target_uri]}" #{t[:target_name]}
+              - targets = a.collect{|line| line[:targets] if line[:targets]}.flatten.compact
+              - species = targets.collect{|t| t[:species]}.flatten.compact.uniq
+              - species.each do |s|
+                - st = targets.select{|t| t[:species] == s}
+                h4= "#{s} (#{st.size})"
+                - st.each do |t|
+                  li: a href="#{t[:target_uri]}" #{t[:target_name]}
 
         - else
           - if res
             h2= "#{cat} (#{res.select{|l| l[:targets]}.size})"
             ul
-            - res.each do |line|
-              - if line[:targets]
-                li: a href="#{line[:target_uri]}" #{line[:target_name]}
+            - targets = res.collect{|line| line[:targets] if line[:targets]}.flatten.compact
+            - species = targets.collect{|t| t[:species]}.flatten.compact.uniq
+            - species.each do |s|
+              - st = targets.select{|t| t[:species] == s}
+              h4= "#{s} (#{st.size})"
+              - st.each do |t|
+                li: a href="#{t[:target_uri]}" #{t[:target_name]}

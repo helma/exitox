@@ -8,7 +8,9 @@ def assay_metadata aid
   if @aid2metadata[aid]["Target"] 
     result[:targets] = []
     @aid2metadata[aid]["Target"].each do |t|
-      result[:targets] << {:target_name => t["Name"], :target_uri => "https://pubchem.ncbi.nlm.nih.gov/targets/?id=#{t['GI']}"}
+      species = t["Name"].match(/\[.*\]/).to_s.tr('[]','')
+      species = "not defined" if species.empty?
+      result[:targets] << {:target_name => t["Name"], :target_uri => "https://pubchem.ncbi.nlm.nih.gov/targets/?id=#{t['GI']}", :species => species}
     end
   end
   result
@@ -37,6 +39,4 @@ target_layout = Slim::Template.new('group-comparison-targets.slim')
     File.open("#{comp} Targets.html","w+"){|f| f.puts target_layout.render(Object.new, :comparison => comparison)}
   end
 end
-
-#puts comparison.to_yaml
 
