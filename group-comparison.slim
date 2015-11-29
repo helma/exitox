@@ -1,0 +1,34 @@
+doctype html
+html
+  head
+    title ExiTox
+
+  body
+    - comparison.each do |comp,data|
+      h1= comp
+      - data.each do |cat,res|
+        h2= cat
+        - if cat.match(/Common/)
+          - res.each do |k,a|
+            h3= k
+            - if a
+              ul
+              - a.each do |line|
+                li: a href="#{line[:uri]}" #{line[:name]}
+                - if line[:targets]
+                  | (Target:&nbsp;
+                  - line[:targets].each do |t|
+                    a href="#{t[:target_uri]}" #{t[:target_name]}
+
+                  | )
+
+        - else
+          - if res
+            ul
+            - res.each do |line|
+              li: a href="#{line[:uri]}" #{line[:name]}
+              - if line[:targets]
+                /ul
+                - line[:targets].each do |t|
+                  p: a href="#{t[:target_uri]}" #{t[:target_name]}
+

@@ -1,0 +1,24 @@
+doctype html
+html
+  head
+    title= comparison[:name] 
+
+  body
+    h1= comparison[:name]
+    - comparison.each do |cat,res|
+      - unless cat == :name
+        - if cat.match(/Common/)
+          h2= cat
+          - res.each do |k,a|
+            h3= "#{k} (#{a.size})"
+            - if a
+              ul
+              - a.each do |line|
+                li: a href="#{line[:uri]}" #{line[:name]}
+
+        - else
+          - if res
+            h2= "#{cat} (#{res.size})"
+            ul
+            - res.each do |line|
+              li: a href="#{line[:uri]}" #{line[:name]}
