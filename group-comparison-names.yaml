@@ -3,16 +3,6 @@ Vicinale Halogenide - Aromaten:
   :common:
     true:
     - DSSTox (EPAFHM) EPA Fathead Minnow Acute Toxicity (AID 1188)
-    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary SingleCellCall Results
-      (AID 1189)
-    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Mouse Bioassay Results
-      (AID 1199)
-    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary MultiCellCall Results
-      (AID 1205)
-    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Rat Bioassay Results (AID
-      1208)
-    - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-      (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
     false:
     - Cell Viability - BJ (AID 421)
     - Cell Viability - Jurkat (AID 426)
@@ -931,12 +921,8 @@ Vicinale Halogenide - Aromaten:
       inhibitors of cell surface Prion Protein (PRPC) (AID 720596)
     - qHTS assay for small molecule disruptors of the mitochondrial membrane potential
       - cell viability (AID 720634)
-    - qHTS assay for small molecule disruptors of the mitochondrial membrane potential
-      (AID 720635)
     - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
       signaling pathway measured by Nrf2-dependant transcriptional activity (AID 720636)
-    - 'qHTS assay for small molecule disruptors of the mitochondrial membrane potential:
-      Summary (AID 720637)'
     - Bursicon-induced LGR2 mediated cAMP production in LGR-2/CRE6x-Luciferase co-transfected
       HEK293 cells Inhibition (AID 720647)
     - QFRET-based biochemical primary high throughput screening assay to identify
@@ -1038,14 +1024,8 @@ Vicinale Halogenide - Aromaten:
       (ER-alpha) signaling pathway (AID 743069)
     - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
       (ER-alpha) signaling pathway - cell viability counter screen (AID 743074)
-    - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-      (ER-alpha) signaling pathway (AID 743075)
-    - 'qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-      (ER-alpha) signaling pathway: Summary (AID 743077)'
     - 'qHTS assay to identify small molecule antagonists of the estrogen receptor
       alpha (ER-alpha) signaling pathway: Summary (AID 743078)'
-    - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-      (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
     - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
       (ER-alpha) signaling pathway using the BG1 cell line (AID 743080)
     - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
@@ -1055,15 +1035,11 @@ Vicinale Halogenide - Aromaten:
     - qHTS assay to identify aromatase inhibitors - cell viability counter screen
       (AID 743084)
     - qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
-      (AhR) signaling pathway (AID 743085)
-    - qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
       (AhR) signaling pathway - cell viability counter screen (AID 743086)
     - 'qHTS assay to identify small molecule antagonists of the estrogen receptor
       alpha (ER-alpha) signaling pathway using the BG1 cell line: Summary (AID 743091)'
     - qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
       receptor gamma (PPARg) signaling pathway (AID 743094)
-    - 'qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
-      (AhR) signaling pathway: Summary (AID 743122)'
     - QFRET-based biochemical high throughput primary assay to identify inhibitors
       of human group III secreted phospholipase A2 enzyme (HGIII-sPLA2) (AID 743126)
     - 'qHTS assay to identify aromatase inhibitors: Summary (AID 743139)'
@@ -1077,8 +1053,6 @@ Vicinale Halogenide - Aromaten:
     - 'qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
       receptor gamma (PPARg) signaling pathway: Summary (AID 743199)'
     - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
-      signaling pathway (AID 743202)
-    - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
       signaling pathway - cell viability counter screen (AID 743203)
     - qHTS assay for small molecule activators of the heat shock response signaling
       pathway - cell viability counter screen (AID 743209)
@@ -1090,16 +1064,11 @@ Vicinale Halogenide - Aromaten:
     - qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
       receptor delta (PPARd) signaling pathway (AID 743212)
     - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
-      receptor delta (PPARd) signaling pathway - cell viability counter screen (AID
-      743213)
-    - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
       receptor delta (PPARd) signaling pathway (AID 743215)
     - qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
       (FXR) signaling pathway (AID 743217)
     - qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR)
       signaling pathway - cell viability counter screen (AID 743218)
-    - 'qHTS assay for small molecule agonists of the antioxidant response element
-      (ARE) signaling pathway: Summary (AID 743219)'
     - qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR)
       signaling pathway (AID 743220)
     - qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
@@ -1168,8 +1137,6 @@ Vicinale Halogenide - Aromaten:
       (AID 1159526)
     - qHTS assay to identify small molecule agonists of the RXR signaling pathway
       (AID 1159527)
-    - 'qHTS assay to identify small molecule agonists of the AP-1 signaling pathway:
-      Summary (AID 1159528)'
     - qHTS assay to identify small molecule agonists of the RXR signaling pathway
       - cell viability counter screen (AID 1159529)
     - 'qHTS assay to identify small molecule agonists of the RXR signaling pathway:
@@ -1183,40 +1150,7 @@ Vicinale Halogenide - Aromaten:
     - 'qHTS assay to identify small molecule antagonists of the retinoic acid receptor
       (RAR) signaling pathway: Summary (AID 1159555)'
   :different:
-  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary SingleCellCall Results (AID
-    1189)
   - DSSTox (CPDBAS) Carcinogenic Potency Database Salmonella Mutagenicity (AID 1194)
-  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Mouse Bioassay Results (AID
-    1199)
-  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary MultiCellCall Results (AID
-    1205)
-  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Rat Bioassay Results (AID
-    1208)
-  - qHTS assay for small molecule disruptors of the mitochondrial membrane potential
-    (AID 720635)
-  - 'qHTS assay for small molecule disruptors of the mitochondrial membrane potential:
-    Summary (AID 720637)'
-  - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-    (ER-alpha) signaling pathway (AID 743075)
-  - 'qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-    (ER-alpha) signaling pathway: Summary (AID 743077)'
-  - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-    (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
-  - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-    (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
-  - qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
-    (AhR) signaling pathway (AID 743085)
-  - 'qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
-    (AhR) signaling pathway: Summary (AID 743122)'
-  - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
-    signaling pathway (AID 743202)
-  - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
-    receptor delta (PPARd) signaling pathway - cell viability counter screen (AID
-    743213)
-  - 'qHTS assay for small molecule agonists of the antioxidant response element (ARE)
-    signaling pathway: Summary (AID 743219)'
-  - 'qHTS assay to identify small molecule agonists of the AP-1 signaling pathway:
-    Summary (AID 1159528)'
 Vicinale Halogenide - Ester:
   :common:
     true:
@@ -1226,8 +1160,6 @@ Vicinale Halogenide - Ester:
       (AID 1199)
     - DSSTox (CPDBAS) Carcinogenic Potency Database Summary MultiCellCall Results
       (AID 1205)
-    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Rat Bioassay Results (AID
-      1208)
     false:
     - Cell Viability - BJ (AID 421)
     - Cell Viability - Jurkat (AID 426)
@@ -1517,8 +1449,6 @@ Vicinale Halogenide - Ester:
       (ER-alpha) signaling pathway: Summary (AID 743077)'
     - 'qHTS assay to identify small molecule antagonists of the estrogen receptor
       alpha (ER-alpha) signaling pathway: Summary (AID 743078)'
-    - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-      (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
     - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
       (ER-alpha) signaling pathway using the BG1 cell line (AID 743080)
     - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
@@ -1632,19 +1562,9 @@ Vicinale Halogenide - Ester:
       (RAR) signaling pathway (AID 1159553)
   :different:
   - DSSTox (CPDBAS) Carcinogenic Potency Database Salmonella Mutagenicity (AID 1194)
-  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Rat Bioassay Results (AID
-    1208)
-  - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-    (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
 Aromaten - Ester:
   :common:
     true:
-    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary SingleCellCall Results
-      (AID 1189)
-    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Mouse Bioassay Results
-      (AID 1199)
-    - DSSTox (CPDBAS) Carcinogenic Potency Database Summary MultiCellCall Results
-      (AID 1205)
     - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Rat Bioassay Results (AID
       1208)
     false:
@@ -1931,14 +1851,8 @@ Aromaten - Ester:
       (ER-alpha) signaling pathway (AID 743069)
     - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
       (ER-alpha) signaling pathway - cell viability counter screen (AID 743074)
-    - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-      (ER-alpha) signaling pathway (AID 743075)
-    - 'qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-      (ER-alpha) signaling pathway: Summary (AID 743077)'
     - 'qHTS assay to identify small molecule antagonists of the estrogen receptor
       alpha (ER-alpha) signaling pathway: Summary (AID 743078)'
-    - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-      (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
     - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
       (ER-alpha) signaling pathway using the BG1 cell line (AID 743080)
     - qHTS assay to identify small molecule antagonists of the estrogen receptor alpha
@@ -1948,15 +1862,11 @@ Aromaten - Ester:
     - qHTS assay to identify aromatase inhibitors - cell viability counter screen
       (AID 743084)
     - qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
-      (AhR) signaling pathway (AID 743085)
-    - qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
       (AhR) signaling pathway - cell viability counter screen (AID 743086)
     - 'qHTS assay to identify small molecule antagonists of the estrogen receptor
       alpha (ER-alpha) signaling pathway using the BG1 cell line: Summary (AID 743091)'
     - qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
       receptor gamma (PPARg) signaling pathway (AID 743094)
-    - 'qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
-      (AhR) signaling pathway: Summary (AID 743122)'
     - 'qHTS assay to identify aromatase inhibitors: Summary (AID 743139)'
     - 'qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
       receptor gamma (PPARg) signaling pathway: Summary (AID 743140)'
@@ -1967,8 +1877,6 @@ Aromaten - Ester:
       743194)
     - 'qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
       receptor gamma (PPARg) signaling pathway: Summary (AID 743199)'
-    - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
-      signaling pathway (AID 743202)
     - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
       signaling pathway - cell viability counter screen (AID 743203)
     - qHTS assay for small molecule activators of the heat shock response signaling
@@ -1981,16 +1889,11 @@ Aromaten - Ester:
     - qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated
       receptor delta (PPARd) signaling pathway (AID 743212)
     - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
-      receptor delta (PPARd) signaling pathway - cell viability counter screen (AID
-      743213)
-    - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
       receptor delta (PPARd) signaling pathway (AID 743215)
     - qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
       (FXR) signaling pathway (AID 743217)
     - qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR)
       signaling pathway - cell viability counter screen (AID 743218)
-    - 'qHTS assay for small molecule agonists of the antioxidant response element
-      (ARE) signaling pathway: Summary (AID 743219)'
     - qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR)
       signaling pathway (AID 743220)
     - qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor
@@ -2038,8 +1941,6 @@ Aromaten - Ester:
       (AID 1159526)
     - qHTS assay to identify small molecule agonists of the RXR signaling pathway
       (AID 1159527)
-    - 'qHTS assay to identify small molecule agonists of the AP-1 signaling pathway:
-      Summary (AID 1159528)'
     - qHTS assay to identify small molecule agonists of the RXR signaling pathway
       - cell viability counter screen (AID 1159529)
     - 'qHTS assay to identify small molecule agonists of the RXR signaling pathway:
@@ -2050,29 +1951,4 @@ Aromaten - Ester:
       (RAR) signaling pathway  (AID 1159552)
     - qHTS assay to identify small molecule agonists of the retinoic acid receptor
       (RAR) signaling pathway (AID 1159553)
-  :different:
-  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary SingleCellCall Results (AID
-    1189)
-  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary Mouse Bioassay Results (AID
-    1199)
-  - DSSTox (CPDBAS) Carcinogenic Potency Database Summary MultiCellCall Results (AID
-    1205)
-  - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-    (ER-alpha) signaling pathway (AID 743075)
-  - 'qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-    (ER-alpha) signaling pathway: Summary (AID 743077)'
-  - qHTS assay to identify small molecule agonists of the estrogen receptor alpha
-    (ER-alpha) signaling pathway using the BG1 cell line (AID 743079)
-  - qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
-    (AhR) signaling pathway (AID 743085)
-  - 'qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor
-    (AhR) signaling pathway: Summary (AID 743122)'
-  - qHTS assay for small molecule agonists of the antioxidant response element (ARE)
-    signaling pathway (AID 743202)
-  - qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated
-    receptor delta (PPARd) signaling pathway - cell viability counter screen (AID
-    743213)
-  - 'qHTS assay for small molecule agonists of the antioxidant response element (ARE)
-    signaling pathway: Summary (AID 743219)'
-  - 'qHTS assay to identify small molecule agonists of the AP-1 signaling pathway:
-    Summary (AID 1159528)'
+  :different: []

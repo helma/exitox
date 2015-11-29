@@ -1,8 +1,7 @@
 ---
 Vicinale Halogenide - Aromaten:
   :common:
-    true:
-    - 348019627: estrogen nuclear receptor alpha [Homo sapiens]
+    true: []
     false:
     - 1927: cardiac alpha tropomyosin [Sus scrofa]
     - 30219: corticotropin releasing factor-binding protein [Homo sapiens]
@@ -411,11 +410,7 @@ Vicinale Halogenide - Aromaten:
         1 isoform 2 [Homo sapiens]
     - 378544807: bioA [Mycobacterium tuberculosis UT205]
     - 399498506: thyroid hormone receptor beta isoform 2 [Rattus norvegicus]
-  :different:
-  - 20149576: nuclear factor erythroid 2-related factor 2 isoform 1 [Homo sapiens]
-  - 51095037: aryl hydrocarbon receptor [Homo sapiens]
-  - 119627033: v-jun sarcoma virus 17 oncogene homolog (avian) [Homo sapiens]
-  - 348019627: estrogen nuclear receptor alpha [Homo sapiens]
+  :different: []
 Vicinale Halogenide - Ester:
   :common:
     true: []
@@ -505,8 +500,7 @@ Vicinale Halogenide - Ester:
         sapiens]
     - 348019627: estrogen nuclear receptor alpha [Homo sapiens]
     - 399498506: thyroid hormone receptor beta isoform 2 [Rattus norvegicus]
-  :different:
-  - 348019627: estrogen nuclear receptor alpha [Homo sapiens]
+  :different: []
 Aromaten - Ester:
   :common:
     true: []
@@ -596,8 +590,4 @@ Aromaten - Ester:
         sapiens]
     - 348019627: estrogen nuclear receptor alpha [Homo sapiens]
     - 399498506: thyroid hormone receptor beta isoform 2 [Rattus norvegicus]
-  :different:
-  - 20149576: nuclear factor erythroid 2-related factor 2 isoform 1 [Homo sapiens]
-  - 51095037: aryl hydrocarbon receptor [Homo sapiens]
-  - 119627033: v-jun sarcoma virus 17 oncogene homolog (avian) [Homo sapiens]
-  - 348019627: estrogen nuclear receptor alpha [Homo sapiens]
+  :different: []

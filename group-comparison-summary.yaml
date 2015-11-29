@@ -1,19 +1,16 @@
 ---
 Vicinale Halogenide - Aromaten:
   :common:
-    true: 6
-    false: 617
-  :different: 17
-  :similarity: 0.9734375
+    true: 1
+    false: 606
+  :different: 1
 Vicinale Halogenide - Ester:
   :common:
-    true: 4
-    false: 241
-  :different: 3
-  :similarity: 0.9879032258064516
+    true: 3
+    false: 240
+  :different: 1
 Aromaten - Ester:
   :common:
-    true: 4
-    false: 242
-  :different: 12
-  :similarity: 0.9534883720930233
+    true: 1
+    false: 233
+  :different: 0
