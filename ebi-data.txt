@@ -1,0 +1,15 @@
+Vicinale Halogenide
+1,2,3-Trichloropropane: https://www.ebi.ac.uk/ebisearch/search.ebi?query=1%2C2%2C3-Trichloropropane&db=allebi&requestFrom=ebi_index
+1,2-Dichloropropane: https://www.ebi.ac.uk/ebisearch/search.ebi?query=1%2C2-Dichloropropane&db=allebi&requestFrom=searchBox (no gene expression)
+Dibromochloropropane: https://www.ebi.ac.uk/ebisearch/search.ebi?query=Dibromochloropropane&db=allebi&requestFrom=ebi_index (no gene expression)
+
+Aromaten
+CAS Nummer,Name,Ergebnis URI
+Naphthalene: https://www.ebi.ac.uk/ebisearch/search.ebi?query=Naphthalene&db=allebi&requestFrom=searchBox
+2-Methylnaphthalene: https://www.ebi.ac.uk/ebisearch/search.ebi?query=2-Methylnaphthalene&db=allebi&requestFrom=ebi_index (only Rab geranylgeranyltransferase, beta subunit of Zebrafish (Danio rerio))
+2-Naphthol: https://www.ebi.ac.uk/ebisearch/search.ebi?query=2-Naphthol&db=allebi&requestFrom=searchBox (only Pseudomonas aeruginosa PAO1 chromosome array, no differnetial gene expression)
+
+Ester
+Vinyl acetate: https://www.ebi.ac.uk/ebisearch/search.ebi?query=Vinyl+acetate&db=allebi&requestFrom=searchBox (Transcription profiling of rat nasal respiratory and olfactory epithelium, no differential gene expression)
+Vinyl propionate: https://www.ebi.ac.uk/ebisearch/search.ebi?query=vinyl+propionate&db=allebi&requestFrom=searchBox (no data)
+Vinyl butyrate: https://www.ebi.ac.uk/ebisearch/search.ebi?query=vinyl+butyrate&db=allebi&requestFrom=searchBox (no data)

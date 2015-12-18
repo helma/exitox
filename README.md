@@ -11,6 +11,10 @@
 - aid2name.yaml
 - aid2metadata.yaml
 
+## EBI databases
+
+- ebi-data.txt
+
 ## Analysis
 
 Create HTML reports
