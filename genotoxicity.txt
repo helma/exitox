@@ -1,0 +1,136 @@
+1,2,3-trichloropropane: 
+
+  active:
+    DSSTox (CPDBAS) Carcinogenic Potency Database Salmonella Mutagenicity
+    Assay ID: 1194
+
+  inactive:
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways
+    Assay ID: 651838
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line
+    Assay ID: 743015
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line
+    Assay ID: 743014
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line
+    Assay ID: 743012
+    qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability
+    Assay ID: 651634
+
+1,2-dichloropropane
+
+  active:
+    DSSTox (CPDBAS) Carcinogenic Potency Database Salmonella Mutagenicity
+    Assay ID: 1194
+
+  inactive: 
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways
+    Assay ID: 651838
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line
+    Assay ID: 743015
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line
+    Assay ID: 743014
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line
+    Assay ID: 743012
+    qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability
+    ossay ID: 651634
+
+1,2-dibromo-3-chloropropane CID: 7280
+
+  active:
+    DSSTox (CPDBAS) Carcinogenic Potency Database Salmonella Mutagenicity
+    Assay ID: 1194
+    
+  inactive:
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways
+    Assay ID: 651838
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line
+    Assay ID: 743015
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line
+    Assay ID: 743014
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line
+    Assay ID: 743012
+    qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability
+    Assay ID: 651634
+
+naphthalene CID: 931
+
+  active:
+
+  inactive:
+    DSSTox (CPDBAS) Carcinogenic Potency Database Salmonella Mutagenicity
+    Assay ID: 1194
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways
+    Assay ID: 651838
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line
+    Assay ID: 743015
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line
+    Assay ID: 743014
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line
+    Assay ID: 743012
+    qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability
+    Assay ID: 651634
+
+2-methylnaphthalene CID: 7055
+
+  active:
+
+  inactive:
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways
+    Assay ID: 651838
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line
+    Assay ID: 743015
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line
+    Assay ID: 743014
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line
+    Assay ID: 743012
+    qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability
+    Assay ID: 651634
+
+naphthalen-2-ol CID: 8663
+
+  active:
+
+  inactive:
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line
+    Assay ID: 743015
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line
+    Assay ID: 743014
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line
+    Assay ID: 743012
+    qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability
+    Assay ID: 651634
+
+    (no data for AID 651838)
+
+ethenyl acetate CID: 7904
+
+  active:
+
+  inactive:
+    DSSTox (CPDBAS) Carcinogenic Potency Database Salmonella Mutagenicity
+    Assay ID: 1194
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways
+    Assay ID: 651838
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line
+    Assay ID: 743015
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line
+    Assay ID: 743014
+    qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line
+    Assay ID: 743012
+    qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability
+    Assay ID: 651634
+
+ethenyl propanoate CID: 7750
+
+  active:
+
+  inactive:
+
+
+ethenyl butanoate CID: 31247
+
+  active:
+
+  inactive:
+
+
